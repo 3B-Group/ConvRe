@@ -1,0 +1,172 @@
+{
+  "hypernym": {
+    "normal": "(x, hypernym, y) indicates that y is the hypernym of x.",
+    "converse": "(x, hypernym, y) indicates that x is the hypernym of y.",
+    "hard": "Find an entity that is the hypernym of [N].",
+    "regular": "Find an entity that is more general than [N].",
+    "normal-correct": "([N], hypernym, ?)",
+    "normal-wrong": "(?, hypernym, [N])",
+    "converse-correct": "(?, hypernym, [N])",
+    "converse-wrong": "([N], hypernym, ?)"
+  },
+  "has part": {
+    "normal": "(x, has part, y) indicates that x has a part called y.",
+    "converse": "(x, has part, y) indicates that y has a part called x.",
+    "hard": "Find an entity that has a part called [N].",
+    "regular": "Find an entity that possesses a specific component named [N].",
+    "normal-correct": "(?, has part, [N])",
+    "normal-wrong": "([N], has part, ?)",
+    "converse-correct": "([N], has part, ?)",
+    "converse-wrong": "(?, has part, [N])"
+  },
+  "organization , organization , child. , organization , organization relationship , child": {
+    "normal": "(x, child, y) indicates that y is the child company of x.",
+    "converse": "(x, child, y) indicates that x is the child company of y.",
+    "hard": "Find a company that is the child company of [N].",
+    "regular": "Find a company so that [N] is the parent company of it.",
+    "normal-correct": "([N], child, ?)",
+    "normal-wrong": "(?, child, [N])",
+    "converse-correct": "(?, child, [N])",
+    "converse-wrong": "([N], child, ?)"
+  },
+  "location , location , partially contains": {
+    "normal": "(x, partially contains, y) indicates that x partially contains y.",
+    "converse": "(x, partially contains, y) indicates that y partially contains x.",
+    "hard": "Find an entity that partially contains [N].",
+    "regular": "Find an entity that contains a portion of [N].",
+    "normal-correct": "(?, partially contains, [N])",
+    "normal-wrong": "([N], partially contains, ?)",
+    "converse-correct": "([N], partially contains, ?)",
+    "converse-wrong": "(?, partially contains, [N])"
+  },
+  "athlete beat athlete": {
+    "normal": "(x, athlete beat athlete, y) indicates that x beats y.",
+    "converse": "(x, athlete beat athlete, y) indicates that y beats x.",
+    "hard": "Find an entity that beats [N].",
+    "regular": "Find an entity that defeats [N].",
+    "normal-correct": "(?, beats, [N])",
+    "normal-wrong": "([N], beats, ?)",
+    "converse-correct": "([N], beats, ?)",
+    "converse-wrong": "(?, beats, [N])"
+  },
+  "parent of": {
+    "normal": "(x, parent of, y) indicates that x is the parent of y.",
+    "converse": "(x, parent of, y) indicates that y is the parent of x.",
+    "hard": "Find an entity that is the parent of [N].",
+    "regular": "Find an entity whose child is [N].",
+    "normal-correct": "(?, parent of, [N])",
+    "normal-wrong": "([N], parent of, ?)",
+    "converse-correct": "([N], parent of, ?)",
+    "converse-wrong": "(?, parent of, [N])"
+  },
+  "consult": {
+    "normal": "(x, consult, y) indicates that x consults y.",
+    "converse": "(x, consult, y) indicates that y consults x.",
+    "hard": "Find an entity that consults [N].",
+    "regular": "Find an entity that seeks advice from [N].",
+    "normal-correct": "(?, consults, [N])",
+    "normal-wrong": "([N], consults, ?)",
+    "converse-correct": "([N], consults, ?)",
+    "converse-wrong": "(?, consults, [N])"
+  },
+  "praise or endorse": {
+    "normal": "(x, praise or endorse, y) indicates that x praises or endorses y.",
+    "converse": "(x, praise or endorse, y) indicates that y praises or endorses x.",
+    "hard": "Find an entity that praises or endorses [N].",
+    "regular": "Find an entity that awards or admires [N].",
+    "normal-correct": "(?, praise or endorse, [N])",
+    "normal-wrong": "([N], praise or endorse, ?)",
+    "converse-correct": "([N], praise or endorse, ?)",
+    "converse-wrong": "(?, praise or endorse, [N])"
+  },
+  "owned by": {
+    "normal": "(x, owned by, y) indicates that x is owned by y.",
+    "converse": "(x, owned by, y) indicates that y is owned by x.",
+    "hard": "Find an entity that is owned by [N].",
+    "regular": "Find an entity that belongs to [N].",
+    "normal-correct": "(?, owned by, [N])",
+    "normal-wrong": "([N], owned by, ?)",
+    "converse-correct": "([N], owned by, ?)",
+    "converse-wrong": "(?, owned by, [N])"
+  },
+  "influenced by": {
+    "normal": "(x, influenced by, y) indicates that x is influenced by y.",
+    "converse": "(x, influenced by, y) indicates that y is influenced by x.",
+    "hard": "Find an entity that is influenced by [N].",
+    "regular": "Find an entity that [N] affects.",
+    "normal-correct": "(?, influenced by, [N])",
+    "normal-wrong": "([N], influenced by, ?)",
+    "converse-correct": "([N], influenced by, ?)",
+    "converse-wrong": "(?, influenced by, [N])"
+  },
+  "represented by": {
+    "normal": "(x, represented by, y) indicates that x is represented by y.",
+    "converse": "(x, represented by, y) indicates that y is represented by x.",
+    "hard": "Find an entity that is represented by [N].",
+    "regular": "Find an entity that [N] acts for or speaks for.",
+    "normal-correct": "(?, represented by, [N])",
+    "normal-wrong": "([N], represented by, ?)",
+    "converse-correct": "([N], represented by, ?)",
+    "converse-wrong": "(?, represented by, [N])"
+  },
+  "has facility": {
+    "normal": "(x, has facility, y) indicates that x has a facility called y.",
+    "converse": "(x, has facility, y) indicates that y has a facility called x.",
+    "hard": "Find an entity that has a facility called [N].",
+    "regular": "Find an entity that [N] is associated with as a functional establishment.",
+    "normal-correct": "(?, has facility, [N])",
+    "normal-wrong": "([N], has facility, ?)",
+    "converse-correct": "([N], has facility, ?)",
+    "converse-wrong": "(?, has facility, [N])"
+  },
+  "side effect": {
+    "normal": "(x, side effect, y) indicates that x has a side effect called y.",
+    "converse": "(x, side effect, y) indicates that y has a side effect called x.",
+    "hard": "Find an entity that has a side effect called [N].",
+    "regular": "Find an entity that demonstrates an adverse effect known as [N].",
+    "normal-correct": "(?, side effect, [N])",
+    "normal-wrong": "([N], side effect, ?)",
+    "converse-correct": "([N], side effect, ?)",
+    "converse-wrong": "(?, side effect, [N])"
+  },
+  "has property": {
+    "normal": "(x, has property, y) indicates that x has y as a property.",
+    "converse": "(x, has property, y) indicates that y has x as a property.",
+    "hard": "Find an entity that has [N] as a property.",
+    "regular": "Find an entity for which [N] serves as one of the attributes or characteristics.",
+    "normal-correct": "(?, has property, [N])",
+    "normal-wrong": "([N], has property, ?)",
+    "converse-correct": "([N], has property, ?)",
+    "converse-wrong": "(?, has property, [N])"
+  },
+  "has subevent": {
+    "normal": "(x, has subevent, y) indicates that x has a subevent called y.",
+    "converse": "(x, has subevent, y) indicates that y has a subevent called x.",
+    "hard": "Find an entity that has a subevent called [N].",
+    "regular": "Find an event that includes [N] as one of its subsidiary events.",
+    "normal-correct": "(?, has subevent, [N])",
+    "normal-wrong": "([N], has subevent, ?)",
+    "converse-correct": "([N], has subevent, ?)",
+    "converse-wrong": "(?, has subevent, [N])"
+  },
+  "made of": {
+    "normal": "(x, made of, y) indicates that x is made of y.",
+    "converse": "(x, made of, y) indicates that y is made of x.",
+    "hard": "Find an entity that is made of [N].",
+    "regular": "Find an entity that is composed of [N].",
+    "normal-correct": "(?, made of, [N])",
+    "normal-wrong": "([N], made of, ?)",
+    "converse-correct": "([N], made of, ?)",
+    "converse-wrong": "(?, made of, [N])"
+  },
+  "used for": {
+    "normal": "(x, used for, y) indicates that x is used for y.",
+    "converse": "(x, used for, y) indicates that y is used for x.",
+    "hard": "Find an entity that is used for [N].",
+    "regular": "Find an entity whose purpose is [N].",
+    "normal-correct": "(?, used for, [N])",
+    "normal-wrong": "([N], used for, ?)",
+    "converse-correct": "([N], used for, ?)",
+    "converse-wrong": "(?, used for, [N])"
+  }
+}

@@ -1,0 +1,7476 @@
+{
+  "hypernym": [
+    {
+      "head": "scabious",
+      "relation": "hypernym",
+      "tail": "flower",
+      "answer": "A"
+    },
+    {
+      "head": "heliotype",
+      "relation": "hypernym",
+      "tail": "duplicator",
+      "answer": "A"
+    },
+    {
+      "head": "tactics",
+      "relation": "hypernym",
+      "tail": "military science",
+      "answer": "B"
+    },
+    {
+      "head": "stroke",
+      "relation": "hypernym",
+      "tail": "occurrent",
+      "answer": "A"
+    },
+    {
+      "head": "selection",
+      "relation": "hypernym",
+      "tail": "decision making",
+      "answer": "A"
+    },
+    {
+      "head": "squanderer",
+      "relation": "hypernym",
+      "tail": "consumer",
+      "answer": "A"
+    },
+    {
+      "head": "prehistory",
+      "relation": "hypernym",
+      "tail": "time period",
+      "answer": "B"
+    },
+    {
+      "head": "dendroica fusca",
+      "relation": "hypernym",
+      "tail": "wood warbler",
+      "answer": "A"
+    },
+    {
+      "head": "genus corydalis",
+      "relation": "hypernym",
+      "tail": "dilleniid dicot genus",
+      "answer": "B"
+    },
+    {
+      "head": "gay liberation movement",
+      "relation": "hypernym",
+      "tail": "movement",
+      "answer": "B"
+    },
+    {
+      "head": "punt",
+      "relation": "hypernym",
+      "tail": "propel",
+      "answer": "B"
+    },
+    {
+      "head": "want",
+      "relation": "hypernym",
+      "tail": "miss",
+      "answer": "B"
+    },
+    {
+      "head": "neighbour",
+      "relation": "hypernym",
+      "tail": "physical object",
+      "answer": "A"
+    },
+    {
+      "head": "swimming trunks",
+      "relation": "hypernym",
+      "tail": "swimwear",
+      "answer": "A"
+    },
+    {
+      "head": "fennel",
+      "relation": "hypernym",
+      "tail": "herbaceous plant",
+      "answer": "B"
+    },
+    {
+      "head": "break",
+      "relation": "hypernym",
+      "tail": "give way",
+      "answer": "A"
+    },
+    {
+      "head": "papilionaceae",
+      "relation": "hypernym",
+      "tail": "rosid dicot family",
+      "answer": "B"
+    },
+    {
+      "head": "failure",
+      "relation": "hypernym",
+      "tail": "skip",
+      "answer": "A"
+    },
+    {
+      "head": "vireo",
+      "relation": "hypernym",
+      "tail": "oscine bird",
+      "answer": "A"
+    },
+    {
+      "head": "subvention",
+      "relation": "hypernym",
+      "tail": "supplying",
+      "answer": "B"
+    },
+    {
+      "head": "spirillum",
+      "relation": "hypernym",
+      "tail": "true bacteria",
+      "answer": "A"
+    },
+    {
+      "head": "triakidae",
+      "relation": "hypernym",
+      "tail": "fish family",
+      "answer": "B"
+    },
+    {
+      "head": "white pox",
+      "relation": "hypernym",
+      "tail": "variola major",
+      "answer": "B"
+    },
+    {
+      "head": "pharyngeal recess",
+      "relation": "hypernym",
+      "tail": "recession",
+      "answer": "A"
+    },
+    {
+      "head": "baltic language",
+      "relation": "hypernym",
+      "tail": "balto-slavonic",
+      "answer": "A"
+    },
+    {
+      "head": "sand snake",
+      "relation": "hypernym",
+      "tail": "colubrid snake",
+      "answer": "A"
+    },
+    {
+      "head": "sourness",
+      "relation": "hypernym",
+      "tail": "taste property",
+      "answer": "A"
+    },
+    {
+      "head": "direct",
+      "relation": "hypernym",
+      "tail": "specify",
+      "answer": "B"
+    },
+    {
+      "head": "ulvales",
+      "relation": "hypernym",
+      "tail": "protoctist order",
+      "answer": "B"
+    },
+    {
+      "head": "phrygian deity",
+      "relation": "hypernym",
+      "tail": "immortal",
+      "answer": "B"
+    },
+    {
+      "head": "polymerize",
+      "relation": "hypernym",
+      "tail": "change integrity",
+      "answer": "B"
+    },
+    {
+      "head": "stops",
+      "relation": "hypernym",
+      "tail": "cards",
+      "answer": "A"
+    },
+    {
+      "head": "plunder",
+      "relation": "hypernym",
+      "tail": "steal",
+      "answer": "B"
+    },
+    {
+      "head": "displace",
+      "relation": "hypernym",
+      "tail": "move",
+      "answer": "A"
+    },
+    {
+      "head": "develop",
+      "relation": "hypernym",
+      "tail": "grow",
+      "answer": "A"
+    },
+    {
+      "head": "genus calamintha",
+      "relation": "hypernym",
+      "tail": "asterid dicot genus",
+      "answer": "A"
+    },
+    {
+      "head": "industrialization",
+      "relation": "hypernym",
+      "tail": "manufacture",
+      "answer": "A"
+    },
+    {
+      "head": "fix",
+      "relation": "hypernym",
+      "tail": "set up",
+      "answer": "B"
+    },
+    {
+      "head": "game",
+      "relation": "hypernym",
+      "tail": "section",
+      "answer": "B"
+    },
+    {
+      "head": "pestle",
+      "relation": "hypernym",
+      "tail": "mash",
+      "answer": "B"
+    },
+    {
+      "head": "flatter",
+      "relation": "hypernym",
+      "tail": "praise",
+      "answer": "B"
+    },
+    {
+      "head": "overcompensation",
+      "relation": "hypernym",
+      "tail": "compensation",
+      "answer": "A"
+    },
+    {
+      "head": "show",
+      "relation": "hypernym",
+      "tail": "convey",
+      "answer": "A"
+    },
+    {
+      "head": "aniseed",
+      "relation": "hypernym",
+      "tail": "seasoning",
+      "answer": "B"
+    },
+    {
+      "head": "family aristolochiaceae",
+      "relation": "hypernym",
+      "tail": "magnoliopsid family",
+      "answer": "B"
+    },
+    {
+      "head": "unsoundness",
+      "relation": "hypernym",
+      "tail": "status",
+      "answer": "A"
+    },
+    {
+      "head": "missal",
+      "relation": "hypernym",
+      "tail": "prayerbook",
+      "answer": "B"
+    },
+    {
+      "head": "worrywart",
+      "relation": "hypernym",
+      "tail": "wet blanket",
+      "answer": "A"
+    },
+    {
+      "head": "genus clethrionomys",
+      "relation": "hypernym",
+      "tail": "mammal genus",
+      "answer": "B"
+    },
+    {
+      "head": "perturbation",
+      "relation": "hypernym",
+      "tail": "influence",
+      "answer": "A"
+    },
+    {
+      "head": "know-how",
+      "relation": "hypernym",
+      "tail": "power",
+      "answer": "A"
+    },
+    {
+      "head": "block",
+      "relation": "hypernym",
+      "tail": "lodging",
+      "answer": "B"
+    },
+    {
+      "head": "carrier wave",
+      "relation": "hypernym",
+      "tail": "radio wave",
+      "answer": "B"
+    },
+    {
+      "head": "biu-mandara",
+      "relation": "hypernym",
+      "tail": "chadic language",
+      "answer": "A"
+    },
+    {
+      "head": "vindication",
+      "relation": "hypernym",
+      "tail": "justification",
+      "answer": "B"
+    },
+    {
+      "head": "numerate",
+      "relation": "hypernym",
+      "tail": "find out",
+      "answer": "B"
+    },
+    {
+      "head": "xylomelum pyriforme",
+      "relation": "hypernym",
+      "tail": "shrub",
+      "answer": "A"
+    },
+    {
+      "head": "cultivation",
+      "relation": "hypernym",
+      "tail": "ontogeny",
+      "answer": "B"
+    },
+    {
+      "head": "screw bean",
+      "relation": "hypernym",
+      "tail": "seedpod",
+      "answer": "B"
+    },
+    {
+      "head": "family buxaceae",
+      "relation": "hypernym",
+      "tail": "magnoliopsid family",
+      "answer": "A"
+    },
+    {
+      "head": "mayoralty",
+      "relation": "hypernym",
+      "tail": "spot",
+      "answer": "B"
+    },
+    {
+      "head": "provincial capital",
+      "relation": "hypernym",
+      "tail": "urban center",
+      "answer": "A"
+    },
+    {
+      "head": "taiwanese",
+      "relation": "hypernym",
+      "tail": "chinese",
+      "answer": "B"
+    },
+    {
+      "head": "postulator",
+      "relation": "hypernym",
+      "tail": "reverend",
+      "answer": "A"
+    },
+    {
+      "head": "bait",
+      "relation": "hypernym",
+      "tail": "tempt",
+      "answer": "A"
+    },
+    {
+      "head": "phonetic symbol",
+      "relation": "hypernym",
+      "tail": "graphic symbol",
+      "answer": "A"
+    },
+    {
+      "head": "lisper",
+      "relation": "hypernym",
+      "tail": "verbalizer",
+      "answer": "B"
+    },
+    {
+      "head": "letters",
+      "relation": "hypernym",
+      "tail": "scholarship",
+      "answer": "B"
+    },
+    {
+      "head": "predecessor",
+      "relation": "hypernym",
+      "tail": "indication",
+      "answer": "A"
+    },
+    {
+      "head": "overcast",
+      "relation": "hypernym",
+      "tail": "stitch",
+      "answer": "A"
+    },
+    {
+      "head": "probiotic microflora",
+      "relation": "hypernym",
+      "tail": "bacterium",
+      "answer": "A"
+    },
+    {
+      "head": "instigation",
+      "relation": "hypernym",
+      "tail": "encouragement",
+      "answer": "A"
+    },
+    {
+      "head": "burke",
+      "relation": "hypernym",
+      "tail": "suppress",
+      "answer": "B"
+    },
+    {
+      "head": "conch",
+      "relation": "hypernym",
+      "tail": "univalve",
+      "answer": "B"
+    },
+    {
+      "head": "fracture",
+      "relation": "hypernym",
+      "tail": "wound",
+      "answer": "B"
+    },
+    {
+      "head": "swelled head",
+      "relation": "hypernym",
+      "tail": "vanity",
+      "answer": "A"
+    },
+    {
+      "head": "whiplash",
+      "relation": "hypernym",
+      "tail": "blow",
+      "answer": "A"
+    },
+    {
+      "head": "colour tv tube",
+      "relation": "hypernym",
+      "tail": "television tube",
+      "answer": "A"
+    },
+    {
+      "head": "manihot",
+      "relation": "hypernym",
+      "tail": "rosid dicot genus",
+      "answer": "B"
+    },
+    {
+      "head": "subfamily cetoniidae",
+      "relation": "hypernym",
+      "tail": "arthropod family",
+      "answer": "A"
+    }
+  ],
+  "has part": [
+    {
+      "head": "vertebrate",
+      "relation": "has part",
+      "tail": "digit",
+      "answer": "A"
+    },
+    {
+      "head": "motor nerve",
+      "relation": "has part",
+      "tail": "motor fiber",
+      "answer": "A"
+    },
+    {
+      "head": "speech",
+      "relation": "has part",
+      "tail": "lexis",
+      "answer": "A"
+    },
+    {
+      "head": "republic of kiribati",
+      "relation": "has part",
+      "tail": "gilbert islands",
+      "answer": "B"
+    },
+    {
+      "head": "fertilized egg",
+      "relation": "has part",
+      "tail": "umbilical cord",
+      "answer": "A"
+    },
+    {
+      "head": "apartment house",
+      "relation": "has part",
+      "tail": "flat",
+      "answer": "B"
+    },
+    {
+      "head": "mesozoic era",
+      "relation": "has part",
+      "tail": "cretaceous period",
+      "answer": "B"
+    },
+    {
+      "head": "snooker table",
+      "relation": "has part",
+      "tail": "pocket",
+      "answer": "A"
+    },
+    {
+      "head": "germany",
+      "relation": "has part",
+      "tail": "solingen",
+      "answer": "B"
+    },
+    {
+      "head": "vertebral column",
+      "relation": "has part",
+      "tail": "vertebra",
+      "answer": "A"
+    },
+    {
+      "head": "chromosome",
+      "relation": "has part",
+      "tail": "nucleolus organizer",
+      "answer": "A"
+    },
+    {
+      "head": "eastern united states",
+      "relation": "has part",
+      "tail": "southeastern united states",
+      "answer": "B"
+    },
+    {
+      "head": "republic of chile",
+      "relation": "has part",
+      "tail": "ojos del salado",
+      "answer": "B"
+    },
+    {
+      "head": "pelican state",
+      "relation": "has part",
+      "tail": "capital of louisiana",
+      "answer": "B"
+    },
+    {
+      "head": "sassafras tree",
+      "relation": "has part",
+      "tail": "sassafras",
+      "answer": "B"
+    },
+    {
+      "head": "stop consonant",
+      "relation": "has part",
+      "tail": "implosion",
+      "answer": "B"
+    },
+    {
+      "head": "wisdom literature",
+      "relation": "has part",
+      "tail": "song of songs",
+      "answer": "A"
+    },
+    {
+      "head": "spain",
+      "relation": "has part",
+      "tail": "san sebastian",
+      "answer": "B"
+    },
+    {
+      "head": "neuromatous",
+      "relation": "has part",
+      "tail": "base",
+      "answer": "B"
+    },
+    {
+      "head": "usa",
+      "relation": "has part",
+      "tail": "western united states",
+      "answer": "A"
+    },
+    {
+      "head": "computer screen",
+      "relation": "has part",
+      "tail": "window",
+      "answer": "A"
+    },
+    {
+      "head": "sweet orange tree",
+      "relation": "has part",
+      "tail": "sweet orange",
+      "answer": "B"
+    },
+    {
+      "head": "asia minor",
+      "relation": "has part",
+      "tail": "lydia",
+      "answer": "A"
+    },
+    {
+      "head": "wild wilkworm",
+      "relation": "has part",
+      "tail": "silk gland",
+      "answer": "B"
+    },
+    {
+      "head": "wind scale",
+      "relation": "has part",
+      "tail": "light air",
+      "answer": "B"
+    },
+    {
+      "head": "pacific ocean",
+      "relation": "has part",
+      "tail": "osaka bay",
+      "answer": "A"
+    },
+    {
+      "head": "hellenic republic",
+      "relation": "has part",
+      "tail": "dodecanese",
+      "answer": "A"
+    },
+    {
+      "head": "thorax",
+      "relation": "has part",
+      "tail": "sternum",
+      "answer": "A"
+    },
+    {
+      "head": "south america",
+      "relation": "has part",
+      "tail": "uruguay",
+      "answer": "B"
+    },
+    {
+      "head": "germany",
+      "relation": "has part",
+      "tail": "bonn",
+      "answer": "A"
+    },
+    {
+      "head": "europe",
+      "relation": "has part",
+      "tail": "san marino",
+      "answer": "A"
+    },
+    {
+      "head": "africa",
+      "relation": "has part",
+      "tail": "the gambia",
+      "answer": "A"
+    },
+    {
+      "head": "iberian peninsula",
+      "relation": "has part",
+      "tail": "portuguese republic",
+      "answer": "B"
+    },
+    {
+      "head": "oxen",
+      "relation": "has part",
+      "tail": "boeuf",
+      "answer": "A"
+    },
+    {
+      "head": "sword",
+      "relation": "has part",
+      "tail": "hilt",
+      "answer": "B"
+    },
+    {
+      "head": "spacecraft",
+      "relation": "has part",
+      "tail": "heat shield",
+      "answer": "A"
+    },
+    {
+      "head": "reciprocating engine",
+      "relation": "has part",
+      "tail": "engine block",
+      "answer": "B"
+    },
+    {
+      "head": "kingdom of belgium",
+      "relation": "has part",
+      "tail": "capital of belgium",
+      "answer": "B"
+    },
+    {
+      "head": "cerebellum",
+      "relation": "has part",
+      "tail": "cerebellar artery",
+      "answer": "A"
+    },
+    {
+      "head": "shoulder bone",
+      "relation": "has part",
+      "tail": "acromion",
+      "answer": "A"
+    },
+    {
+      "head": "united states department of defense",
+      "relation": "has part",
+      "tail": "dia",
+      "answer": "B"
+    },
+    {
+      "head": "gulf of mexico",
+      "relation": "has part",
+      "tail": "tampa bay",
+      "answer": "A"
+    },
+    {
+      "head": "new york bay",
+      "relation": "has part",
+      "tail": "liberty island",
+      "answer": "B"
+    },
+    {
+      "head": "taphouse",
+      "relation": "has part",
+      "tail": "taproom",
+      "answer": "B"
+    },
+    {
+      "head": "fots",
+      "relation": "has part",
+      "tail": "fibre optic cable",
+      "answer": "A"
+    },
+    {
+      "head": "war between the states",
+      "relation": "has part",
+      "tail": "chancellorsville",
+      "answer": "B"
+    },
+    {
+      "head": "drum brake",
+      "relation": "has part",
+      "tail": "skid",
+      "answer": "A"
+    },
+    {
+      "head": "new york city",
+      "relation": "has part",
+      "tail": "columbia university",
+      "answer": "A"
+    },
+    {
+      "head": "gulf states",
+      "relation": "has part",
+      "tail": "republic of iraq",
+      "answer": "B"
+    },
+    {
+      "head": "fall",
+      "relation": "has part",
+      "tail": "september equinox",
+      "answer": "B"
+    },
+    {
+      "head": "stambul",
+      "relation": "has part",
+      "tail": "kadikoy",
+      "answer": "A"
+    },
+    {
+      "head": "pacific ocean",
+      "relation": "has part",
+      "tail": "yellow sea",
+      "answer": "A"
+    },
+    {
+      "head": "usa",
+      "relation": "has part",
+      "tail": "wv",
+      "answer": "A"
+    },
+    {
+      "head": "thalmencephalon",
+      "relation": "has part",
+      "tail": "infundibulum",
+      "answer": "B"
+    },
+    {
+      "head": "germany",
+      "relation": "has part",
+      "tail": "dachau",
+      "answer": "B"
+    },
+    {
+      "head": "labyrinth",
+      "relation": "has part",
+      "tail": "semicircular canal",
+      "answer": "B"
+    },
+    {
+      "head": "musculature",
+      "relation": "has part",
+      "tail": "ligament",
+      "answer": "A"
+    },
+    {
+      "head": "electronic equipment",
+      "relation": "has part",
+      "tail": "electrode",
+      "answer": "A"
+    },
+    {
+      "head": "visual communication",
+      "relation": "has part",
+      "tail": "visual signal",
+      "answer": "B"
+    },
+    {
+      "head": "new testament",
+      "relation": "has part",
+      "tail": "john",
+      "answer": "A"
+    },
+    {
+      "head": "interior department",
+      "relation": "has part",
+      "tail": "national park service",
+      "answer": "B"
+    },
+    {
+      "head": "korean peninsula",
+      "relation": "has part",
+      "tail": "north korea",
+      "answer": "A"
+    },
+    {
+      "head": "volcano",
+      "relation": "has part",
+      "tail": "volcanic crater",
+      "answer": "A"
+    },
+    {
+      "head": "nj",
+      "relation": "has part",
+      "tail": "jersey city",
+      "answer": "B"
+    },
+    {
+      "head": "republic of india",
+      "relation": "has part",
+      "tail": "himalayas",
+      "answer": "A"
+    },
+    {
+      "head": "theatre",
+      "relation": "has part",
+      "tail": "parterre",
+      "answer": "A"
+    },
+    {
+      "head": "tx",
+      "relation": "has part",
+      "tail": "pecos river",
+      "answer": "A"
+    },
+    {
+      "head": "saucepan",
+      "relation": "has part",
+      "tail": "hold",
+      "answer": "A"
+    },
+    {
+      "head": "spain",
+      "relation": "has part",
+      "tail": "valencia",
+      "answer": "B"
+    },
+    {
+      "head": "commonwealth of australia",
+      "relation": "has part",
+      "tail": "cape york",
+      "answer": "A"
+    },
+    {
+      "head": "spear",
+      "relation": "has part",
+      "tail": "barb",
+      "answer": "B"
+    },
+    {
+      "head": "wheel",
+      "relation": "has part",
+      "tail": "handlebar",
+      "answer": "A"
+    },
+    {
+      "head": "argentine republic",
+      "relation": "has part",
+      "tail": "el muerto",
+      "answer": "A"
+    },
+    {
+      "head": "tunnel",
+      "relation": "has part",
+      "tail": "shaft",
+      "answer": "B"
+    },
+    {
+      "head": "gulf states",
+      "relation": "has part",
+      "tail": "persia",
+      "answer": "B"
+    },
+    {
+      "head": "republic of malawi",
+      "relation": "has part",
+      "tail": "zomba",
+      "answer": "B"
+    },
+    {
+      "head": "electric drill",
+      "relation": "has part",
+      "tail": "electric motor",
+      "answer": "B"
+    },
+    {
+      "head": "turkey",
+      "relation": "has part",
+      "tail": "araxes",
+      "answer": "A"
+    }
+  ],
+  "organization , organization , child. , organization , organization relationship , child": [
+    {
+      "head": "Universal Studios",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Universal Music Group",
+      "answer": "A"
+    },
+    {
+      "head": "Miramax Films",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Dimension Films",
+      "answer": "B"
+    },
+    {
+      "head": "Comcast",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Universal Studios",
+      "answer": "B"
+    },
+    {
+      "head": "Warner Bros. Records",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Mushroom Group",
+      "answer": "A"
+    },
+    {
+      "head": "Universal Motown Republic Group",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Motown Records",
+      "answer": "A"
+    },
+    {
+      "head": "Take-Two Interactive",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Rockstar Games",
+      "answer": "B"
+    },
+    {
+      "head": "Warner Music Group",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Elektra Records",
+      "answer": "A"
+    },
+    {
+      "head": "City University of New York",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "City College of New York",
+      "answer": "B"
+    },
+    {
+      "head": "Geffen Records",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Music Corporation of America",
+      "answer": "B"
+    },
+    {
+      "head": "Time Warner",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Lorimar Television",
+      "answer": "B"
+    },
+    {
+      "head": "Sony Computer Entertainment",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "SCE Studio Liverpool",
+      "answer": "B"
+    },
+    {
+      "head": "University of Oxford",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "St Catherine's College, Oxford",
+      "answer": "B"
+    },
+    {
+      "head": "Koch Entertainment",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "E1 Music",
+      "answer": "B"
+    },
+    {
+      "head": "Liberal Party of Canada",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "British Columbia Liberal Party",
+      "answer": "A"
+    },
+    {
+      "head": "Warner Bros. Entertainment",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Warner Music Group",
+      "answer": "A"
+    },
+    {
+      "head": "Universal Music Group",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "The Island Def Jam Music Group",
+      "answer": "B"
+    },
+    {
+      "head": "New York University",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Polytechnic Institute of New York University",
+      "answer": "B"
+    },
+    {
+      "head": "Time Warner",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Warner Bros. Interactive Entertainment",
+      "answer": "A"
+    },
+    {
+      "head": "Universal Music Group",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Universal Motown Republic Group",
+      "answer": "A"
+    },
+    {
+      "head": "Sega",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Sonic Team",
+      "answer": "B"
+    },
+    {
+      "head": "California State University",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "San Francisco State University",
+      "answer": "A"
+    },
+    {
+      "head": "Universal Music Group",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Def Jam Recordings",
+      "answer": "A"
+    },
+    {
+      "head": "Warner Music Group",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Atlantic Records",
+      "answer": "A"
+    },
+    {
+      "head": "NBCUniversal",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Telemundo",
+      "answer": "A"
+    },
+    {
+      "head": "The Walt Disney Company",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Walt Disney Pictures",
+      "answer": "A"
+    },
+    {
+      "head": "EMI",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "EMI Music Japan",
+      "answer": "A"
+    },
+    {
+      "head": "Vivendi",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "StudioCanal",
+      "answer": "B"
+    },
+    {
+      "head": "California State University",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "California State University, Northridge",
+      "answer": "A"
+    },
+    {
+      "head": "The Walt Disney Company",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Hollywood Pictures",
+      "answer": "B"
+    },
+    {
+      "head": "Vivendi",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Activision",
+      "answer": "A"
+    },
+    {
+      "head": "CBS Corporation",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Republic Pictures",
+      "answer": "B"
+    },
+    {
+      "head": "Warner Bros. Entertainment",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Regency Enterprises",
+      "answer": "B"
+    },
+    {
+      "head": "Liberal Party of Canada",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Quebec Liberal Party",
+      "answer": "A"
+    },
+    {
+      "head": "The Walt Disney Company",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Walt Disney Studios Home Entertainment",
+      "answer": "B"
+    },
+    {
+      "head": "Universal Music Group",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Universal Music Group Nashville",
+      "answer": "B"
+    },
+    {
+      "head": "CBS Corporation",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "CBS Records",
+      "answer": "A"
+    },
+    {
+      "head": "Lionsgate Entertainment",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Summit Entertainment",
+      "answer": "B"
+    },
+    {
+      "head": "Universal Studios",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Gramercy Pictures",
+      "answer": "B"
+    },
+    {
+      "head": "Bandai Namco Holdings",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Bandai",
+      "answer": "B"
+    },
+    {
+      "head": "University of Cambridge",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "St John's College, Cambridge",
+      "answer": "A"
+    },
+    {
+      "head": "Time Warner",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Adult Swim",
+      "answer": "A"
+    },
+    {
+      "head": "The Walt Disney Company",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Disney Channel",
+      "answer": "A"
+    },
+    {
+      "head": "Warner Music Group",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Rykodisc",
+      "answer": "A"
+    },
+    {
+      "head": "Universal Music Group",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Virgin Records",
+      "answer": "A"
+    },
+    {
+      "head": "Time Warner",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "New Line Cinema",
+      "answer": "A"
+    },
+    {
+      "head": "Namco Bandai Games",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Bandai",
+      "answer": "B"
+    },
+    {
+      "head": "Universal Music Group",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Fontana Records",
+      "answer": "B"
+    },
+    {
+      "head": "Time Warner",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Village Roadshow Pictures",
+      "answer": "A"
+    },
+    {
+      "head": "Columbia University",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Columbia Business School",
+      "answer": "A"
+    },
+    {
+      "head": "Vivendi Games",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Sierra Entertainment",
+      "answer": "A"
+    },
+    {
+      "head": "News Corporation",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "FOX",
+      "answer": "B"
+    },
+    {
+      "head": "Sony Corporation",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Sony Computer Entertainment",
+      "answer": "A"
+    },
+    {
+      "head": "The Weinstein Company",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Dimension Films",
+      "answer": "A"
+    },
+    {
+      "head": "Viacom",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "DreamWorks",
+      "answer": "B"
+    },
+    {
+      "head": "Lionsgate Entertainment",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "ThinkFilm",
+      "answer": "A"
+    },
+    {
+      "head": "Metro-Goldwyn-Mayer",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Orion Pictures",
+      "answer": "B"
+    },
+    {
+      "head": "Sony Pictures Entertainment",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Sony Pictures Home Entertainment",
+      "answer": "A"
+    },
+    {
+      "head": "Warner Bros. Entertainment",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Village Roadshow Pictures",
+      "answer": "A"
+    },
+    {
+      "head": "Orion Pictures",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "The Samuel Goldwyn Company",
+      "answer": "B"
+    },
+    {
+      "head": "Canadian Forces",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Royal Canadian Air Force",
+      "answer": "A"
+    },
+    {
+      "head": "Warner Music Group",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Nonesuch Records",
+      "answer": "B"
+    },
+    {
+      "head": "California State University",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "California State University, Long Beach",
+      "answer": "A"
+    },
+    {
+      "head": "Paramount Pictures",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Paramount Vantage",
+      "answer": "B"
+    },
+    {
+      "head": "Activision Blizzard",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Activision",
+      "answer": "B"
+    },
+    {
+      "head": "Time Warner",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Atari Games",
+      "answer": "A"
+    },
+    {
+      "head": "Walt Disney Studios Motion Pictures",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Walt Disney Studios Home Entertainment",
+      "answer": "A"
+    },
+    {
+      "head": "The Island Def Jam Music Group",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Island Records",
+      "answer": "A"
+    },
+    {
+      "head": "CBS",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "TriStar Pictures",
+      "answer": "B"
+    },
+    {
+      "head": "Marvel Entertainment",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Marvel Comics",
+      "answer": "B"
+    },
+    {
+      "head": "Vivendi",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Vivendi Games",
+      "answer": "B"
+    },
+    {
+      "head": "Sony BMG Music Entertainment",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "RCA Records",
+      "answer": "B"
+    },
+    {
+      "head": "Microsoft Corporation",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Rare Ltd",
+      "answer": "B"
+    },
+    {
+      "head": "Viacom",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Comedy Central",
+      "answer": "A"
+    },
+    {
+      "head": "Warner Bros. Entertainment",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "New Line Cinema",
+      "answer": "B"
+    },
+    {
+      "head": "Square Enix",
+      "relation": "organization , organization , child. , organization , organization relationship , child",
+      "tail": "Taito Corporation",
+      "answer": "A"
+    }
+  ],
+  "location , location , partially contains": [
+    {
+      "head": "Canada",
+      "relation": "location , location , partially contains",
+      "tail": "Rocky Mountains",
+      "answer": "A"
+    },
+    {
+      "head": "Missouri",
+      "relation": "location , location , partially contains",
+      "tail": "Missouri River",
+      "answer": "A"
+    },
+    {
+      "head": "West Virginia",
+      "relation": "location , location , partially contains",
+      "tail": "Ohio River",
+      "answer": "B"
+    },
+    {
+      "head": "United States of America",
+      "relation": "location , location , partially contains",
+      "tail": "Cascade Range",
+      "answer": "B"
+    },
+    {
+      "head": "Pacific Ocean",
+      "relation": "location , location , partially contains",
+      "tail": "Ecuador",
+      "answer": "B"
+    },
+    {
+      "head": "North Africa",
+      "relation": "location , location , partially contains",
+      "tail": "Spain",
+      "answer": "B"
+    },
+    {
+      "head": "Illinois",
+      "relation": "location , location , partially contains",
+      "tail": "Missouri River",
+      "answer": "B"
+    },
+    {
+      "head": "Canton of Valais",
+      "relation": "location , location , partially contains",
+      "tail": "Pennine Alps",
+      "answer": "A"
+    },
+    {
+      "head": "Essex County",
+      "relation": "location , location , partially contains",
+      "tail": "Adirondack Mountains",
+      "answer": "B"
+    },
+    {
+      "head": "Maryland",
+      "relation": "location , location , partially contains",
+      "tail": "Blue Ridge Mountains",
+      "answer": "B"
+    },
+    {
+      "head": "Montana",
+      "relation": "location , location , partially contains",
+      "tail": "Missouri River",
+      "answer": "A"
+    },
+    {
+      "head": "North Africa",
+      "relation": "location , location , partially contains",
+      "tail": "Egypt",
+      "answer": "B"
+    },
+    {
+      "head": "South America",
+      "relation": "location , location , partially contains",
+      "tail": "France",
+      "answer": "B"
+    },
+    {
+      "head": "Mediterranean Sea",
+      "relation": "location , location , partially contains",
+      "tail": "France",
+      "answer": "B"
+    },
+    {
+      "head": "Indian Ocean",
+      "relation": "location , location , partially contains",
+      "tail": "France",
+      "answer": "B"
+    },
+    {
+      "head": "Italy",
+      "relation": "location , location , partially contains",
+      "tail": "Alps",
+      "answer": "A"
+    },
+    {
+      "head": "Kentucky",
+      "relation": "location , location , partially contains",
+      "tail": "Mississippi River",
+      "answer": "A"
+    },
+    {
+      "head": "Germany",
+      "relation": "location , location , partially contains",
+      "tail": "Danube",
+      "answer": "B"
+    },
+    {
+      "head": "Virginia",
+      "relation": "location , location , partially contains",
+      "tail": "Appalachian Mountains",
+      "answer": "A"
+    },
+    {
+      "head": "Iberian Peninsula",
+      "relation": "location , location , partially contains",
+      "tail": "Portugal",
+      "answer": "A"
+    },
+    {
+      "head": "Vermont",
+      "relation": "location , location , partially contains",
+      "tail": "Appalachian Mountains",
+      "answer": "B"
+    },
+    {
+      "head": "Myanmar",
+      "relation": "location , location , partially contains",
+      "tail": "Himalayas",
+      "answer": "A"
+    },
+    {
+      "head": "Europe",
+      "relation": "location , location , partially contains",
+      "tail": "Kingdom of the Netherlands",
+      "answer": "B"
+    },
+    {
+      "head": "Ecuador",
+      "relation": "location , location , partially contains",
+      "tail": "Andes",
+      "answer": "B"
+    },
+    {
+      "head": "Atlantic Ocean",
+      "relation": "location , location , partially contains",
+      "tail": "Portugal",
+      "answer": "A"
+    },
+    {
+      "head": "Kansas",
+      "relation": "location , location , partially contains",
+      "tail": "Missouri River",
+      "answer": "B"
+    },
+    {
+      "head": "Tennessee",
+      "relation": "location , location , partially contains",
+      "tail": "Blue Ridge Mountains",
+      "answer": "A"
+    },
+    {
+      "head": "Minnesota",
+      "relation": "location , location , partially contains",
+      "tail": "Mississippi River",
+      "answer": "B"
+    },
+    {
+      "head": "Lesser Antilles",
+      "relation": "location , location , partially contains",
+      "tail": "Kingdom of the Netherlands",
+      "answer": "B"
+    },
+    {
+      "head": "Mediterranean Sea",
+      "relation": "location , location , partially contains",
+      "tail": "Spain",
+      "answer": "B"
+    },
+    {
+      "head": "Kentucky",
+      "relation": "location , location , partially contains",
+      "tail": "Louisville metropolitan area",
+      "answer": "A"
+    },
+    {
+      "head": "North Carolina",
+      "relation": "location , location , partially contains",
+      "tail": "Appalachian Mountains",
+      "answer": "A"
+    },
+    {
+      "head": "Indiana",
+      "relation": "location , location , partially contains",
+      "tail": "Louisville metropolitan area",
+      "answer": "A"
+    },
+    {
+      "head": "Alabama",
+      "relation": "location , location , partially contains",
+      "tail": "Appalachian Mountains",
+      "answer": "A"
+    },
+    {
+      "head": "New Jersey",
+      "relation": "location , location , partially contains",
+      "tail": "Appalachian Mountains",
+      "answer": "B"
+    },
+    {
+      "head": "France",
+      "relation": "location , location , partially contains",
+      "tail": "Alps",
+      "answer": "B"
+    },
+    {
+      "head": "North America-US",
+      "relation": "location , location , partially contains",
+      "tail": "France",
+      "answer": "A"
+    },
+    {
+      "head": "Connecticut",
+      "relation": "location , location , partially contains",
+      "tail": "Appalachian Mountains",
+      "answer": "B"
+    },
+    {
+      "head": "Piedmont",
+      "relation": "location , location , partially contains",
+      "tail": "Pennine Alps",
+      "answer": "B"
+    },
+    {
+      "head": "Wisconsin",
+      "relation": "location , location , partially contains",
+      "tail": "Mississippi River",
+      "answer": "A"
+    },
+    {
+      "head": "Nevada",
+      "relation": "location , location , partially contains",
+      "tail": "Sierra Nevada",
+      "answer": "A"
+    },
+    {
+      "head": "Europe",
+      "relation": "location , location , partially contains",
+      "tail": "Turkey",
+      "answer": "A"
+    },
+    {
+      "head": "Lesser Antilles",
+      "relation": "location , location , partially contains",
+      "tail": "Netherlands",
+      "answer": "B"
+    },
+    {
+      "head": "France",
+      "relation": "location , location , partially contains",
+      "tail": "Normandy",
+      "answer": "B"
+    },
+    {
+      "head": "Asia",
+      "relation": "location , location , partially contains",
+      "tail": "Russian Empire",
+      "answer": "B"
+    },
+    {
+      "head": "Iberian Peninsula",
+      "relation": "location , location , partially contains",
+      "tail": "Spain",
+      "answer": "A"
+    },
+    {
+      "head": "Saratoga County",
+      "relation": "location , location , partially contains",
+      "tail": "Adirondack Mountains",
+      "answer": "A"
+    },
+    {
+      "head": "Chile",
+      "relation": "location , location , partially contains",
+      "tail": "Andes",
+      "answer": "A"
+    },
+    {
+      "head": "Tennessee",
+      "relation": "location , location , partially contains",
+      "tail": "Mississippi River",
+      "answer": "A"
+    },
+    {
+      "head": "Iowa",
+      "relation": "location , location , partially contains",
+      "tail": "Missouri River",
+      "answer": "A"
+    },
+    {
+      "head": "New Brunswick",
+      "relation": "location , location , partially contains",
+      "tail": "Appalachian Mountains",
+      "answer": "B"
+    },
+    {
+      "head": "Massachusetts",
+      "relation": "location , location , partially contains",
+      "tail": "Appalachian Mountains",
+      "answer": "A"
+    },
+    {
+      "head": "Denton County",
+      "relation": "location , location , partially contains",
+      "tail": "Plano",
+      "answer": "B"
+    },
+    {
+      "head": "Eastern Europe",
+      "relation": "location , location , partially contains",
+      "tail": "Ukraine",
+      "answer": "A"
+    },
+    {
+      "head": "China",
+      "relation": "location , location , partially contains",
+      "tail": "Himalayas",
+      "answer": "A"
+    },
+    {
+      "head": "West Virginia",
+      "relation": "location , location , partially contains",
+      "tail": "Blue Ridge Mountains",
+      "answer": "B"
+    },
+    {
+      "head": "North Dakota",
+      "relation": "location , location , partially contains",
+      "tail": "Missouri River",
+      "answer": "A"
+    },
+    {
+      "head": "Nepal",
+      "relation": "location , location , partially contains",
+      "tail": "Himalayas",
+      "answer": "B"
+    },
+    {
+      "head": "Slovenia",
+      "relation": "location , location , partially contains",
+      "tail": "Alps",
+      "answer": "A"
+    },
+    {
+      "head": "North Africa",
+      "relation": "location , location , partially contains",
+      "tail": "Middle East",
+      "answer": "A"
+    },
+    {
+      "head": "Warren County",
+      "relation": "location , location , partially contains",
+      "tail": "Adirondack Mountains",
+      "answer": "B"
+    },
+    {
+      "head": "New Hampshire",
+      "relation": "location , location , partially contains",
+      "tail": "Appalachian Mountains",
+      "answer": "A"
+    },
+    {
+      "head": "Pennsylvania",
+      "relation": "location , location , partially contains",
+      "tail": "Blue Ridge Mountains",
+      "answer": "B"
+    },
+    {
+      "head": "Europe",
+      "relation": "location , location , partially contains",
+      "tail": "Russian Empire",
+      "answer": "B"
+    },
+    {
+      "head": "Asia",
+      "relation": "location , location , partially contains",
+      "tail": "Turkey",
+      "answer": "B"
+    },
+    {
+      "head": "Pacific Ocean",
+      "relation": "location , location , partially contains",
+      "tail": "United States of America",
+      "answer": "B"
+    },
+    {
+      "head": "Argentina",
+      "relation": "location , location , partially contains",
+      "tail": "Andes",
+      "answer": "B"
+    },
+    {
+      "head": "Collin County",
+      "relation": "location , location , partially contains",
+      "tail": "Plano",
+      "answer": "B"
+    },
+    {
+      "head": "St. Lawrence County",
+      "relation": "location , location , partially contains",
+      "tail": "Adirondack Mountains",
+      "answer": "B"
+    },
+    {
+      "head": "Eastern Europe",
+      "relation": "location , location , partially contains",
+      "tail": "Kazakhstan",
+      "answer": "A"
+    },
+    {
+      "head": "United States of America",
+      "relation": "location , location , partially contains",
+      "tail": "Rocky Mountains",
+      "answer": "B"
+    },
+    {
+      "head": "Prince Edward Island",
+      "relation": "location , location , partially contains",
+      "tail": "Appalachian Mountains",
+      "answer": "B"
+    },
+    {
+      "head": "Europe",
+      "relation": "location , location , partially contains",
+      "tail": "Armenia",
+      "answer": "B"
+    },
+    {
+      "head": "Canada",
+      "relation": "location , location , partially contains",
+      "tail": "Cascade Range",
+      "answer": "A"
+    },
+    {
+      "head": "Louisiana",
+      "relation": "location , location , partially contains",
+      "tail": "Mississippi River",
+      "answer": "B"
+    },
+    {
+      "head": "Georgia",
+      "relation": "location , location , partially contains",
+      "tail": "Appalachian Mountains",
+      "answer": "B"
+    },
+    {
+      "head": "Nebraska",
+      "relation": "location , location , partially contains",
+      "tail": "Missouri River",
+      "answer": "A"
+    }
+  ],
+  "athlete beat athlete": [
+    {
+      "head": "Roger Federer",
+      "relation": "athlete beat athlete",
+      "tail": "Agassi",
+      "answer": "B"
+    },
+    {
+      "head": "Lleyton Hewitt",
+      "relation": "athlete beat athlete",
+      "tail": "Gustavo Kuerten",
+      "answer": "A"
+    },
+    {
+      "head": "Lindsay Davenport",
+      "relation": "athlete beat athlete",
+      "tail": "Jennifer Capriati",
+      "answer": "A"
+    },
+    {
+      "head": "Martina Hingis",
+      "relation": "athlete beat athlete",
+      "tail": "Williams",
+      "answer": "B"
+    },
+    {
+      "head": "Stefan Edberg",
+      "relation": "athlete beat athlete",
+      "tail": "Jim Courier",
+      "answer": "B"
+    },
+    {
+      "head": "Pete Sampras",
+      "relation": "athlete beat athlete",
+      "tail": "Marcelo Rios",
+      "answer": "B"
+    },
+    {
+      "head": "Pete Sampras",
+      "relation": "athlete beat athlete",
+      "tail": "Michael Chang",
+      "answer": "A"
+    },
+    {
+      "head": "Phil Mickelson",
+      "relation": "athlete beat athlete",
+      "tail": "Tiger Woods",
+      "answer": "B"
+    },
+    {
+      "head": "Eli Manning",
+      "relation": "athlete beat athlete",
+      "tail": "Tom Brady",
+      "answer": "A"
+    },
+    {
+      "head": "Jelena Jankovic",
+      "relation": "athlete beat athlete",
+      "tail": "Serena Williams",
+      "answer": "B"
+    },
+    {
+      "head": "Justine Henin Hardenne",
+      "relation": "athlete beat athlete",
+      "tail": "Jelena Jankovic",
+      "answer": "A"
+    },
+    {
+      "head": "Kuznetsova",
+      "relation": "athlete beat athlete",
+      "tail": "Serena Williams",
+      "answer": "B"
+    },
+    {
+      "head": "Jelena Jankovic",
+      "relation": "athlete beat athlete",
+      "tail": "Maria Sharapova",
+      "answer": "A"
+    },
+    {
+      "head": "Pete Sampras",
+      "relation": "athlete beat athlete",
+      "tail": "Marat Safin",
+      "answer": "B"
+    },
+    {
+      "head": "Lindsay Davenport",
+      "relation": "athlete beat athlete",
+      "tail": "Serena Williams",
+      "answer": "A"
+    },
+    {
+      "head": "Tiger Woods",
+      "relation": "athlete beat athlete",
+      "tail": "Stewart Cink",
+      "answer": "B"
+    },
+    {
+      "head": "Dinara Safina",
+      "relation": "athlete beat athlete",
+      "tail": "Williams",
+      "answer": "A"
+    },
+    {
+      "head": "Marat Safin",
+      "relation": "athlete beat athlete",
+      "tail": "Roger Federer",
+      "answer": "B"
+    },
+    {
+      "head": "Michael Chang",
+      "relation": "athlete beat athlete",
+      "tail": "Michael Stich",
+      "answer": "B"
+    },
+    {
+      "head": "Venus Williams",
+      "relation": "athlete beat athlete",
+      "tail": "Lindsay Davenport",
+      "answer": "B"
+    },
+    {
+      "head": "Eric Young",
+      "relation": "athlete beat athlete",
+      "tail": "Sting",
+      "answer": "A"
+    },
+    {
+      "head": "Maria Sharapova",
+      "relation": "athlete beat athlete",
+      "tail": "Kuznetsova",
+      "answer": "A"
+    },
+    {
+      "head": "Bjorn Borg",
+      "relation": "athlete beat athlete",
+      "tail": "John Mcenroe",
+      "answer": "B"
+    },
+    {
+      "head": "Kim Clijsters",
+      "relation": "athlete beat athlete",
+      "tail": "Venus Williams",
+      "answer": "A"
+    },
+    {
+      "head": "Gary Player",
+      "relation": "athlete beat athlete",
+      "tail": "Legendary Arnold Palmer",
+      "answer": "B"
+    },
+    {
+      "head": "Lleyton Hewitt",
+      "relation": "athlete beat athlete",
+      "tail": "Tim Henman",
+      "answer": "A"
+    },
+    {
+      "head": "Ana Ivanovic",
+      "relation": "athlete beat athlete",
+      "tail": "Maria Sharapova",
+      "answer": "B"
+    },
+    {
+      "head": "Jack Nicklaus",
+      "relation": "athlete beat athlete",
+      "tail": "Gary Player",
+      "answer": "A"
+    },
+    {
+      "head": "Agassi",
+      "relation": "athlete beat athlete",
+      "tail": "Yevgeny Kafelnikov",
+      "answer": "B"
+    },
+    {
+      "head": "William M's Johnston",
+      "relation": "athlete beat athlete",
+      "tail": "Maurice Mcloughlin",
+      "answer": "A"
+    },
+    {
+      "head": "R's Lindley Murray",
+      "relation": "athlete beat athlete",
+      "tail": "Roger Federer",
+      "answer": "A"
+    },
+    {
+      "head": "Serena Williams",
+      "relation": "athlete beat athlete",
+      "tail": "Venus Williams",
+      "answer": "A"
+    },
+    {
+      "head": "Vijay Singh",
+      "relation": "athlete beat athlete",
+      "tail": "Tiger Woods",
+      "answer": "B"
+    },
+    {
+      "head": "Justine Henin Hardenne",
+      "relation": "athlete beat athlete",
+      "tail": "Williams",
+      "answer": "B"
+    },
+    {
+      "head": "Lindsay Davenport",
+      "relation": "athlete beat athlete",
+      "tail": "Amelie Mauresmo",
+      "answer": "B"
+    },
+    {
+      "head": "Mats Wilander",
+      "relation": "athlete beat athlete",
+      "tail": "Ivan Lendl",
+      "answer": "A"
+    },
+    {
+      "head": "Vera Zvonareva",
+      "relation": "athlete beat athlete",
+      "tail": "Maria Sharapova",
+      "answer": "B"
+    },
+    {
+      "head": "Roger Federer",
+      "relation": "athlete beat athlete",
+      "tail": "Marat Safin",
+      "answer": "A"
+    },
+    {
+      "head": "Goran Ivanisevic",
+      "relation": "athlete beat athlete",
+      "tail": "Agassi",
+      "answer": "A"
+    },
+    {
+      "head": "Lleyton Hewitt",
+      "relation": "athlete beat athlete",
+      "tail": "Agassi",
+      "answer": "A"
+    },
+    {
+      "head": "Nick Faldo",
+      "relation": "athlete beat athlete",
+      "tail": "Greg Norman",
+      "answer": "B"
+    },
+    {
+      "head": "Roger Federer",
+      "relation": "athlete beat athlete",
+      "tail": "Marcos Baghdatis",
+      "answer": "A"
+    },
+    {
+      "head": "Maria Sharapova",
+      "relation": "athlete beat athlete",
+      "tail": "Dinara Safina",
+      "answer": "A"
+    },
+    {
+      "head": "Kim Clijsters",
+      "relation": "athlete beat athlete",
+      "tail": "Maria Sharapova",
+      "answer": "B"
+    },
+    {
+      "head": "Ivan Lendl",
+      "relation": "athlete beat athlete",
+      "tail": "John Mcenroe",
+      "answer": "A"
+    },
+    {
+      "head": "Pete Sampras",
+      "relation": "athlete beat athlete",
+      "tail": "Agassi",
+      "answer": "B"
+    },
+    {
+      "head": "Kuznetsova",
+      "relation": "athlete beat athlete",
+      "tail": "Maria Sharapova",
+      "answer": "B"
+    },
+    {
+      "head": "Roger Federer",
+      "relation": "athlete beat athlete",
+      "tail": "R's Lindley Murray",
+      "answer": "A"
+    },
+    {
+      "head": "Ivan Lendl",
+      "relation": "athlete beat athlete",
+      "tail": "Boris Becker",
+      "answer": "B"
+    },
+    {
+      "head": "Martina Hingis",
+      "relation": "athlete beat athlete",
+      "tail": "Jana Novotna",
+      "answer": "A"
+    },
+    {
+      "head": "Monica Seles",
+      "relation": "athlete beat athlete",
+      "tail": "Williams",
+      "answer": "B"
+    },
+    {
+      "head": "Jelena Jankovic",
+      "relation": "athlete beat athlete",
+      "tail": "Kuznetsova",
+      "answer": "B"
+    },
+    {
+      "head": "Arantxa Sanchez Vicario",
+      "relation": "athlete beat athlete",
+      "tail": "Monica Seles",
+      "answer": "A"
+    },
+    {
+      "head": "Lleyton Hewitt",
+      "relation": "athlete beat athlete",
+      "tail": "Pete Sampras",
+      "answer": "B"
+    },
+    {
+      "head": "Pete Sampras",
+      "relation": "athlete beat athlete",
+      "tail": "Roger Federer",
+      "answer": "A"
+    },
+    {
+      "head": "Chris Evert",
+      "relation": "athlete beat athlete",
+      "tail": "Martina Navratilova",
+      "answer": "B"
+    },
+    {
+      "head": "Jimmie Johnson",
+      "relation": "athlete beat athlete",
+      "tail": "Jeff Gordon",
+      "answer": "B"
+    },
+    {
+      "head": "Pete Sampras",
+      "relation": "athlete beat athlete",
+      "tail": "Patrick Rafter",
+      "answer": "B"
+    },
+    {
+      "head": "Martina Hingis",
+      "relation": "athlete beat athlete",
+      "tail": "Lindsay Davenport",
+      "answer": "B"
+    },
+    {
+      "head": "Pete Sampras",
+      "relation": "athlete beat athlete",
+      "tail": "Michael Stich",
+      "answer": "A"
+    },
+    {
+      "head": "Tiger Woods",
+      "relation": "athlete beat athlete",
+      "tail": "Vijay Singh",
+      "answer": "B"
+    },
+    {
+      "head": "Tiger Woods",
+      "relation": "athlete beat athlete",
+      "tail": "Phil Mickelson",
+      "answer": "A"
+    },
+    {
+      "head": "Venus Williams",
+      "relation": "athlete beat athlete",
+      "tail": "Maria Sharapova",
+      "answer": "B"
+    },
+    {
+      "head": "Venus Williams",
+      "relation": "athlete beat athlete",
+      "tail": "Kim Clijsters",
+      "answer": "A"
+    },
+    {
+      "head": "Tiger Woods",
+      "relation": "athlete beat athlete",
+      "tail": "Williams",
+      "answer": "A"
+    },
+    {
+      "head": "Pete Sampras",
+      "relation": "athlete beat athlete",
+      "tail": "Tim Henman",
+      "answer": "B"
+    },
+    {
+      "head": "Stewart Cink",
+      "relation": "athlete beat athlete",
+      "tail": "Tiger Woods",
+      "answer": "A"
+    },
+    {
+      "head": "Venus Williams",
+      "relation": "athlete beat athlete",
+      "tail": "Vera Zvonareva",
+      "answer": "B"
+    },
+    {
+      "head": "Anastasia Myskina",
+      "relation": "athlete beat athlete",
+      "tail": "Maria Sharapova",
+      "answer": "A"
+    },
+    {
+      "head": "Gustavo Kuerten",
+      "relation": "athlete beat athlete",
+      "tail": "Marat Safin",
+      "answer": "B"
+    },
+    {
+      "head": "Monica Seles",
+      "relation": "athlete beat athlete",
+      "tail": "Steffi Graf",
+      "answer": "A"
+    },
+    {
+      "head": "Jankovic",
+      "relation": "athlete beat athlete",
+      "tail": "Kuznetsova",
+      "answer": "B"
+    },
+    {
+      "head": "Maria Sharapova",
+      "relation": "athlete beat athlete",
+      "tail": "Williams",
+      "answer": "B"
+    },
+    {
+      "head": "John Mcenroe",
+      "relation": "athlete beat athlete",
+      "tail": "Jimmy Connors",
+      "answer": "B"
+    },
+    {
+      "head": "Jeff Gordon",
+      "relation": "athlete beat athlete",
+      "tail": "Jamie Gold",
+      "answer": "A"
+    },
+    {
+      "head": "Lindsay Davenport",
+      "relation": "athlete beat athlete",
+      "tail": "Venus Williams",
+      "answer": "B"
+    },
+    {
+      "head": "Jankovic",
+      "relation": "athlete beat athlete",
+      "tail": "Safina",
+      "answer": "B"
+    },
+    {
+      "head": "Lindsay Davenport",
+      "relation": "athlete beat athlete",
+      "tail": "Martina Hingis",
+      "answer": "A"
+    },
+    {
+      "head": "Justine Henin Hardenne",
+      "relation": "athlete beat athlete",
+      "tail": "Serena Williams",
+      "answer": "A"
+    },
+    {
+      "head": "Venus Williams",
+      "relation": "athlete beat athlete",
+      "tail": "Martina Hingis",
+      "answer": "B"
+    }
+  ],
+  "consult": [
+    {
+      "head": "Media Personnel (International)",
+      "relation": "consult",
+      "tail": "Afghanistan",
+      "answer": "A"
+    },
+    {
+      "head": "Head of Government (China)",
+      "relation": "consult",
+      "tail": "Military (China)",
+      "answer": "A"
+    },
+    {
+      "head": "Mohammad Javad Zarif",
+      "relation": "consult",
+      "tail": "Adil Abdul-Mahdi",
+      "answer": "A"
+    },
+    {
+      "head": "Head of Government (India)",
+      "relation": "consult",
+      "tail": "China",
+      "answer": "A"
+    },
+    {
+      "head": "John Kerry",
+      "relation": "consult",
+      "tail": "Benjamin Netanyahu",
+      "answer": "A"
+    },
+    {
+      "head": "Catherine Ashton",
+      "relation": "consult",
+      "tail": "Mohammad Javad Zarif",
+      "answer": "B"
+    },
+    {
+      "head": "John Paul II",
+      "relation": "consult",
+      "tail": "Elizabeth II",
+      "answer": "B"
+    },
+    {
+      "head": "Head of Government (Slovenia)",
+      "relation": "consult",
+      "tail": "Angela Merkel",
+      "answer": "A"
+    },
+    {
+      "head": "Head of Government (Ukraine)",
+      "relation": "consult",
+      "tail": "Barack Obama",
+      "answer": "A"
+    },
+    {
+      "head": "Foreign Affairs (Russia)",
+      "relation": "consult",
+      "tail": "North Atlantic Treaty Organization",
+      "answer": "B"
+    },
+    {
+      "head": "Media (Africa)",
+      "relation": "consult",
+      "tail": "Police (Kenya)",
+      "answer": "A"
+    },
+    {
+      "head": "Daniela Bobeva",
+      "relation": "consult",
+      "tail": "Bulgarian National Radio",
+      "answer": "A"
+    },
+    {
+      "head": "Nikos Christodoulides",
+      "relation": "consult",
+      "tail": "Party President (Cyprus)",
+      "answer": "B"
+    },
+    {
+      "head": "Julie Bishop",
+      "relation": "consult",
+      "tail": "Cabinet",
+      "answer": "B"
+    },
+    {
+      "head": "Foreign Affairs (Russia)",
+      "relation": "consult",
+      "tail": "Head of Government (Tajikistan)",
+      "answer": "B"
+    },
+    {
+      "head": "Victoria Nuland",
+      "relation": "consult",
+      "tail": "Head of Government (Ukraine)",
+      "answer": "A"
+    },
+    {
+      "head": "John Kerry",
+      "relation": "consult",
+      "tail": "Media (Palestinian Territory)",
+      "answer": "B"
+    },
+    {
+      "head": "Mohammad Javad Zarif",
+      "relation": "consult",
+      "tail": "Emma Bonino",
+      "answer": "B"
+    },
+    {
+      "head": "Xi Jinping",
+      "relation": "consult",
+      "tail": "Le Hong Anh",
+      "answer": "A"
+    },
+    {
+      "head": "Mohammad Javad Zarif",
+      "relation": "consult",
+      "tail": "Sebastian Kurz",
+      "answer": "A"
+    },
+    {
+      "head": "Nasser Judeh",
+      "relation": "consult",
+      "tail": "John Kerry",
+      "answer": "A"
+    },
+    {
+      "head": "Education Ministry (Algeria)",
+      "relation": "consult",
+      "tail": "Abdel Fattah Al-Sisi",
+      "answer": "A"
+    },
+    {
+      "head": "Government (Mexico)",
+      "relation": "consult",
+      "tail": "Foreign Affairs (Uruguay)",
+      "answer": "B"
+    },
+    {
+      "head": "Kazakhstan",
+      "relation": "consult",
+      "tail": "Iran",
+      "answer": "A"
+    },
+    {
+      "head": "Catherine Ashton",
+      "relation": "consult",
+      "tail": "John Kerry",
+      "answer": "B"
+    },
+    {
+      "head": "Immigrants (Luxembourg)",
+      "relation": "consult",
+      "tail": "Justice Department",
+      "answer": "B"
+    },
+    {
+      "head": "Angela Merkel",
+      "relation": "consult",
+      "tail": "Barack Obama",
+      "answer": "B"
+    },
+    {
+      "head": "Umar al Bashir",
+      "relation": "consult",
+      "tail": "Kuol Manyang Juuk",
+      "answer": "B"
+    },
+    {
+      "head": "Evangelos Venizelos",
+      "relation": "consult",
+      "tail": "Joachim Gauck",
+      "answer": "A"
+    },
+    {
+      "head": "Abdelilah Benkirane",
+      "relation": "consult",
+      "tail": "Ministry (Mauritania)",
+      "answer": "A"
+    },
+    {
+      "head": "Jitan Ram Manjhi",
+      "relation": "consult",
+      "tail": "Tarun Gogoi",
+      "answer": "B"
+    },
+    {
+      "head": "Health Ministry (Cyprus)",
+      "relation": "consult",
+      "tail": "Media (Cyprus)",
+      "answer": "A"
+    },
+    {
+      "head": "Nuri al-Maliki",
+      "relation": "consult",
+      "tail": "Mohammad Javad Zarif",
+      "answer": "A"
+    },
+    {
+      "head": "Media Personnel (Austria)",
+      "relation": "consult",
+      "tail": "Mohammad Javad Zarif",
+      "answer": "B"
+    },
+    {
+      "head": "Ed Royce",
+      "relation": "consult",
+      "tail": "Fumio Kishida",
+      "answer": "A"
+    },
+    {
+      "head": "Luis Alberto Lacalle",
+      "relation": "consult",
+      "tail": "Lawmaker (Costa Rica)",
+      "answer": "B"
+    },
+    {
+      "head": "Chaudhry Nisar Ali Khan",
+      "relation": "consult",
+      "tail": "Zaheerul Islam",
+      "answer": "A"
+    },
+    {
+      "head": "Barack Obama",
+      "relation": "consult",
+      "tail": "Xi Jinping",
+      "answer": "A"
+    },
+    {
+      "head": "Protester (Thailand)",
+      "relation": "consult",
+      "tail": "Ministry (Thailand)",
+      "answer": "A"
+    },
+    {
+      "head": "Cabinet",
+      "relation": "consult",
+      "tail": "Catherine Ashton",
+      "answer": "B"
+    },
+    {
+      "head": "Christiana Anyanwu",
+      "relation": "consult",
+      "tail": "Vanguard",
+      "answer": "A"
+    },
+    {
+      "head": "Head of Government (Ukraine)",
+      "relation": "consult",
+      "tail": "John Kerry",
+      "answer": "B"
+    },
+    {
+      "head": "Jean-Yves Le Drian",
+      "relation": "consult",
+      "tail": "Chuck Hagel",
+      "answer": "A"
+    },
+    {
+      "head": "Fumio Kishida",
+      "relation": "consult",
+      "tail": "Julie Bishop",
+      "answer": "B"
+    },
+    {
+      "head": "Catherine Ashton",
+      "relation": "consult",
+      "tail": "Cabinet",
+      "answer": "A"
+    },
+    {
+      "head": "Iran",
+      "relation": "consult",
+      "tail": "Tajikistan",
+      "answer": "B"
+    },
+    {
+      "head": "Uhuru",
+      "relation": "consult",
+      "tail": "Barack Obama",
+      "answer": "B"
+    },
+    {
+      "head": "Vietnam",
+      "relation": "consult",
+      "tail": "Japan",
+      "answer": "A"
+    },
+    {
+      "head": "Military Personnel - Special (India)",
+      "relation": "consult",
+      "tail": "Governor (India)",
+      "answer": "B"
+    },
+    {
+      "head": "Jacob J. Lew",
+      "relation": "consult",
+      "tail": "China",
+      "answer": "A"
+    },
+    {
+      "head": "Benjamin Netanyahu",
+      "relation": "consult",
+      "tail": "Sebastian Kurz",
+      "answer": "A"
+    },
+    {
+      "head": "Nicos Anastasiades",
+      "relation": "consult",
+      "tail": "Antonis Samaras",
+      "answer": "A"
+    },
+    {
+      "head": "Shiv Sena",
+      "relation": "consult",
+      "tail": "Governor (India)",
+      "answer": "A"
+    },
+    {
+      "head": "Iraq",
+      "relation": "consult",
+      "tail": "John Kerry",
+      "answer": "B"
+    },
+    {
+      "head": "Haider Al-Abadi",
+      "relation": "consult",
+      "tail": "Iraq",
+      "answer": "B"
+    },
+    {
+      "head": "Kazakhstan",
+      "relation": "consult",
+      "tail": "Tajikistan",
+      "answer": "A"
+    },
+    {
+      "head": "Paraguay",
+      "relation": "consult",
+      "tail": "Horacio Cartes",
+      "answer": "B"
+    },
+    {
+      "head": "Activist (Syria)",
+      "relation": "consult",
+      "tail": "Agence France-Presse",
+      "answer": "A"
+    },
+    {
+      "head": "Legislature (Vanuatu)",
+      "relation": "consult",
+      "tail": "Moana Carcasses Kalosil",
+      "answer": "B"
+    },
+    {
+      "head": "Media (India)",
+      "relation": "consult",
+      "tail": "Firhad Hakim",
+      "answer": "A"
+    },
+    {
+      "head": "Ri Su Yong",
+      "relation": "consult",
+      "tail": "Fumio Kishida",
+      "answer": "A"
+    },
+    {
+      "head": "Senate (Romania)",
+      "relation": "consult",
+      "tail": "Legislature (Romania)",
+      "answer": "A"
+    },
+    {
+      "head": "Iran",
+      "relation": "consult",
+      "tail": "Foreign Affairs (United States)",
+      "answer": "A"
+    },
+    {
+      "head": "Head of Government (Tajikistan)",
+      "relation": "consult",
+      "tail": "Sergey Viktorovich Lavrov",
+      "answer": "B"
+    },
+    {
+      "head": "Gurbanguly Berdymukhammedov",
+      "relation": "consult",
+      "tail": "Foreign Affairs (Georgia)",
+      "answer": "B"
+    },
+    {
+      "head": "Al Jazeera",
+      "relation": "consult",
+      "tail": "Police (Kenya)",
+      "answer": "B"
+    },
+    {
+      "head": "Yannis Stournaras",
+      "relation": "consult",
+      "tail": "Evangelos Venizelos",
+      "answer": "B"
+    },
+    {
+      "head": "Benjamin Netanyahu",
+      "relation": "consult",
+      "tail": "Cabinet",
+      "answer": "A"
+    },
+    {
+      "head": "United Arab Emirates",
+      "relation": "consult",
+      "tail": "Barack Obama",
+      "answer": "A"
+    },
+    {
+      "head": "Media (Africa)",
+      "relation": "consult",
+      "tail": "Ministry (South Africa)",
+      "answer": "B"
+    },
+    {
+      "head": "Royal Administration (Jordan)",
+      "relation": "consult",
+      "tail": "Haider Al-Abadi",
+      "answer": "A"
+    },
+    {
+      "head": "Uhuru Muigai Kenyatta",
+      "relation": "consult",
+      "tail": "Jakaya Mrisho Kikwete",
+      "answer": "B"
+    },
+    {
+      "head": "Sergey Viktorovich Lavrov",
+      "relation": "consult",
+      "tail": "John Kerry",
+      "answer": "B"
+    }
+  ],
+  "praise or endorse": [
+    {
+      "head": "John Kerry",
+      "relation": "praise or endorse",
+      "tail": "Abdullah Abdullah",
+      "answer": "B"
+    },
+    {
+      "head": "Marziyeh Afkham",
+      "relation": "praise or endorse",
+      "tail": "Iraq",
+      "answer": "B"
+    },
+    {
+      "head": "Xi Jinping",
+      "relation": "praise or endorse",
+      "tail": "Barack Obama",
+      "answer": "A"
+    },
+    {
+      "head": "Ma Ying Jeou",
+      "relation": "praise or endorse",
+      "tail": "Protester (Hong Kong)",
+      "answer": "B"
+    },
+    {
+      "head": "Rehman Malik",
+      "relation": "praise or endorse",
+      "tail": "Imran Khan",
+      "answer": "A"
+    },
+    {
+      "head": "Governor (Angola)",
+      "relation": "praise or endorse",
+      "tail": "Government (Angola)",
+      "answer": "B"
+    },
+    {
+      "head": "Head of Government (Egypt)",
+      "relation": "praise or endorse",
+      "tail": "China",
+      "answer": "B"
+    },
+    {
+      "head": "Mohammad Javad Zarif",
+      "relation": "praise or endorse",
+      "tail": "Government (Oman)",
+      "answer": "B"
+    },
+    {
+      "head": "Ministry (Nigeria)",
+      "relation": "praise or endorse",
+      "tail": "Rauf Aregbesola",
+      "answer": "A"
+    },
+    {
+      "head": "Assemblies (Nigeria)",
+      "relation": "praise or endorse",
+      "tail": "Member of Legislative (Govt) (Nigeria)",
+      "answer": "A"
+    },
+    {
+      "head": "Ireland",
+      "relation": "praise or endorse",
+      "tail": "Malawi",
+      "answer": "A"
+    },
+    {
+      "head": "Head of Government (Pakistan)",
+      "relation": "praise or endorse",
+      "tail": "Legislature (Pakistan)",
+      "answer": "B"
+    },
+    {
+      "head": "Barack Obama",
+      "relation": "praise or endorse",
+      "tail": "Japan",
+      "answer": "A"
+    },
+    {
+      "head": "Government (Syria)",
+      "relation": "praise or endorse",
+      "tail": "Iran",
+      "answer": "A"
+    },
+    {
+      "head": "Tony Blair",
+      "relation": "praise or endorse",
+      "tail": "Mexico",
+      "answer": "B"
+    },
+    {
+      "head": "Member of the Judiciary (Greece)",
+      "relation": "praise or endorse",
+      "tail": "Finance Ministry (Greece)",
+      "answer": "A"
+    },
+    {
+      "head": "Elmar Mammadyarov",
+      "relation": "praise or endorse",
+      "tail": "Foreign Affairs (Norway)",
+      "answer": "B"
+    },
+    {
+      "head": "Head of Government (Bahrain)",
+      "relation": "praise or endorse",
+      "tail": "Labor and Employment Ministry (Bahrain)",
+      "answer": "A"
+    },
+    {
+      "head": "Miroslav Lajcak",
+      "relation": "praise or endorse",
+      "tail": "Vietnam",
+      "answer": "B"
+    },
+    {
+      "head": "Makhotso Magdeline Sotyu",
+      "relation": "praise or endorse",
+      "tail": "Police (South Africa)",
+      "answer": "B"
+    },
+    {
+      "head": "France",
+      "relation": "praise or endorse",
+      "tail": "Morocco",
+      "answer": "A"
+    },
+    {
+      "head": "USAID",
+      "relation": "praise or endorse",
+      "tail": "Thailand",
+      "answer": "B"
+    },
+    {
+      "head": "Colombia",
+      "relation": "praise or endorse",
+      "tail": "Activist (United States)",
+      "answer": "B"
+    },
+    {
+      "head": "Abdel Fattah Al-Sisi",
+      "relation": "praise or endorse",
+      "tail": "Army Personnel (Egypt)",
+      "answer": "A"
+    },
+    {
+      "head": "UN Security Council",
+      "relation": "praise or endorse",
+      "tail": "Democratic Forces for the Liberation of Rwanda",
+      "answer": "A"
+    },
+    {
+      "head": "Iran",
+      "relation": "praise or endorse",
+      "tail": "Hezbollah",
+      "answer": "B"
+    },
+    {
+      "head": "Milos Zeman",
+      "relation": "praise or endorse",
+      "tail": "Joachim Gauck",
+      "answer": "B"
+    },
+    {
+      "head": "Government (Nigeria)",
+      "relation": "praise or endorse",
+      "tail": "Media (Africa)",
+      "answer": "B"
+    },
+    {
+      "head": "Middle East",
+      "relation": "praise or endorse",
+      "tail": "Industry (India)",
+      "answer": "B"
+    },
+    {
+      "head": "Kashim Shettima",
+      "relation": "praise or endorse",
+      "tail": "Hunter (Nigeria)",
+      "answer": "B"
+    },
+    {
+      "head": "UN Security Council",
+      "relation": "praise or endorse",
+      "tail": "Khaled Bahah",
+      "answer": "B"
+    },
+    {
+      "head": "Canada",
+      "relation": "praise or endorse",
+      "tail": "Ethiopia",
+      "answer": "A"
+    },
+    {
+      "head": "China",
+      "relation": "praise or endorse",
+      "tail": "Afghanistan",
+      "answer": "B"
+    },
+    {
+      "head": "Government (Angola)",
+      "relation": "praise or endorse",
+      "tail": "Ministry (Angola)",
+      "answer": "B"
+    },
+    {
+      "head": "Likud",
+      "relation": "praise or endorse",
+      "tail": "Reuven Rivlin",
+      "answer": "A"
+    },
+    {
+      "head": "Foreign Affairs (United States)",
+      "relation": "praise or endorse",
+      "tail": "Iran",
+      "answer": "A"
+    },
+    {
+      "head": "Joseph Robinette Biden",
+      "relation": "praise or endorse",
+      "tail": "Japan",
+      "answer": "A"
+    },
+    {
+      "head": "Canada",
+      "relation": "praise or endorse",
+      "tail": "Citizen (Nigeria)",
+      "answer": "A"
+    },
+    {
+      "head": "Angela Merkel",
+      "relation": "praise or endorse",
+      "tail": "Citizen (Germany)",
+      "answer": "B"
+    },
+    {
+      "head": "Mohammad Javad Zarif",
+      "relation": "praise or endorse",
+      "tail": "Government (Austria)",
+      "answer": "A"
+    },
+    {
+      "head": "International Government Organizations",
+      "relation": "praise or endorse",
+      "tail": "Government (United States)",
+      "answer": "A"
+    },
+    {
+      "head": "Afghanistan",
+      "relation": "praise or endorse",
+      "tail": "Military Personnel - Special (Afghanistan)",
+      "answer": "A"
+    },
+    {
+      "head": "Edgars Rinkevics",
+      "relation": "praise or endorse",
+      "tail": "Iran",
+      "answer": "A"
+    },
+    {
+      "head": "Benjamin Netanyahu",
+      "relation": "praise or endorse",
+      "tail": "Likud",
+      "answer": "B"
+    },
+    {
+      "head": "Abdel Fattah Al-Sisi",
+      "relation": "praise or endorse",
+      "tail": "South Korea",
+      "answer": "B"
+    },
+    {
+      "head": "Food and Agriculture Organization",
+      "relation": "praise or endorse",
+      "tail": "Madagascar",
+      "answer": "B"
+    },
+    {
+      "head": "Joseph Robinette Biden",
+      "relation": "praise or endorse",
+      "tail": "Japan",
+      "answer": "B"
+    },
+    {
+      "head": "Legislature (Iraq)",
+      "relation": "praise or endorse",
+      "tail": "Party Member (Iraq)",
+      "answer": "A"
+    },
+    {
+      "head": "Haider Al-Abadi",
+      "relation": "praise or endorse",
+      "tail": "Iran",
+      "answer": "A"
+    },
+    {
+      "head": "Afghanistan",
+      "relation": "praise or endorse",
+      "tail": "Head of Government (Afghanistan)",
+      "answer": "A"
+    },
+    {
+      "head": "Head of Government (Egypt)",
+      "relation": "praise or endorse",
+      "tail": "Police (Egypt)",
+      "answer": "A"
+    },
+    {
+      "head": "Court Judge (United Kingdom)",
+      "relation": "praise or endorse",
+      "tail": "The Standard",
+      "answer": "B"
+    },
+    {
+      "head": "Villager (Pakistan)",
+      "relation": "praise or endorse",
+      "tail": "Government (Pakistan)",
+      "answer": "B"
+    },
+    {
+      "head": "National Council for Peace and Order of Thailand",
+      "relation": "praise or endorse",
+      "tail": "Trade Ministry (Vanuatu)",
+      "answer": "B"
+    },
+    {
+      "head": "Catherine Ashton",
+      "relation": "praise or endorse",
+      "tail": "Government (Palestinian Territory)",
+      "answer": "A"
+    },
+    {
+      "head": "Hezbollah",
+      "relation": "praise or endorse",
+      "tail": "Government (Syria)",
+      "answer": "A"
+    },
+    {
+      "head": "Activist (Nigeria)",
+      "relation": "praise or endorse",
+      "tail": "Government (Nigeria)",
+      "answer": "A"
+    },
+    {
+      "head": "Federica Mogherini",
+      "relation": "praise or endorse",
+      "tail": "Iraq",
+      "answer": "B"
+    },
+    {
+      "head": "Military Personnel (Afghanistan)",
+      "relation": "praise or endorse",
+      "tail": "Ashraf Ghani Ahmadzai",
+      "answer": "A"
+    },
+    {
+      "head": "Okoth Obado",
+      "relation": "praise or endorse",
+      "tail": "Uhuru",
+      "answer": "B"
+    },
+    {
+      "head": "Barack Obama",
+      "relation": "praise or endorse",
+      "tail": "Middle East",
+      "answer": "B"
+    },
+    {
+      "head": "Ma Ying Jeou",
+      "relation": "praise or endorse",
+      "tail": "Head of Government (Taiwan)",
+      "answer": "B"
+    },
+    {
+      "head": "Morocco",
+      "relation": "praise or endorse",
+      "tail": "Mexico",
+      "answer": "A"
+    },
+    {
+      "head": "Iraq",
+      "relation": "praise or endorse",
+      "tail": "Haider Al-Abadi",
+      "answer": "A"
+    },
+    {
+      "head": "Kayode Fayemi",
+      "relation": "praise or endorse",
+      "tail": "Ogbeni Rauf Aregbesola",
+      "answer": "A"
+    },
+    {
+      "head": "Benjamin Netanyahu",
+      "relation": "praise or endorse",
+      "tail": "Reuven Rivlin",
+      "answer": "A"
+    },
+    {
+      "head": "Trade Union Congress",
+      "relation": "praise or endorse",
+      "tail": "Government (Nigeria)",
+      "answer": "A"
+    },
+    {
+      "head": "Head of Government (Nigeria)",
+      "relation": "praise or endorse",
+      "tail": "Government (Nigeria)",
+      "answer": "B"
+    },
+    {
+      "head": "UN Security Council",
+      "relation": "praise or endorse",
+      "tail": "Boko Haram",
+      "answer": "A"
+    },
+    {
+      "head": "Police (Ukraine)",
+      "relation": "praise or endorse",
+      "tail": "Arseniy Yatsenyuk",
+      "answer": "A"
+    },
+    {
+      "head": "Citizen (India)",
+      "relation": "praise or endorse",
+      "tail": "Shiv Sena",
+      "answer": "A"
+    },
+    {
+      "head": "Head of Government (Egypt)",
+      "relation": "praise or endorse",
+      "tail": "Egyptian Army",
+      "answer": "A"
+    },
+    {
+      "head": "Head of Government (Egypt)",
+      "relation": "praise or endorse",
+      "tail": "Court Judge (Egypt)",
+      "answer": "B"
+    },
+    {
+      "head": "Amit Shah",
+      "relation": "praise or endorse",
+      "tail": "Employee (India)",
+      "answer": "A"
+    },
+    {
+      "head": "Head of Government (Burkina Faso)",
+      "relation": "praise or endorse",
+      "tail": "Sidwaya",
+      "answer": "A"
+    },
+    {
+      "head": "Staffan de Mistura",
+      "relation": "praise or endorse",
+      "tail": "Iran",
+      "answer": "B"
+    },
+    {
+      "head": "Nabih Berri",
+      "relation": "praise or endorse",
+      "tail": "Iran",
+      "answer": "A"
+    },
+    {
+      "head": "Ashraf Ghani Ahmadzai",
+      "relation": "praise or endorse",
+      "tail": "Barack Obama",
+      "answer": "A"
+    }
+  ],
+  "owned by": [
+    {
+      "head": "Edmonton Airport",
+      "relation": "owned by",
+      "tail": "Ontario-Quebec Continental Gateway",
+      "answer": "B"
+    },
+    {
+      "head": "montour lake",
+      "relation": "owned by",
+      "tail": "pp&l resources, inc.",
+      "answer": "B"
+    },
+    {
+      "head": "Volvo F609",
+      "relation": "owned by",
+      "tail": "ab volvo",
+      "answer": "A"
+    },
+    {
+      "head": "Chenab West Bank railway station",
+      "relation": "owned by",
+      "tail": "pakistan ministry of railways",
+      "answer": "A"
+    },
+    {
+      "head": "Broadnet Holdings BV",
+      "relation": "owned by",
+      "tail": "Comcast Holdings",
+      "answer": "B"
+    },
+    {
+      "head": "Kadam Station",
+      "relation": "owned by",
+      "tail": "Choson Cul Minzuzui Inmingonghoagug",
+      "answer": "B"
+    },
+    {
+      "head": "Rukanpur railway station",
+      "relation": "owned by",
+      "tail": "pakistan ministry of railways",
+      "answer": "A"
+    },
+    {
+      "head": "State Highway 8 (Kerala)",
+      "relation": "owned by",
+      "tail": "Department of Public Works (Kerala)",
+      "answer": "A"
+    },
+    {
+      "head": "Velankanni railway station",
+      "relation": "owned by",
+      "tail": "indian rail",
+      "answer": "A"
+    },
+    {
+      "head": "denali depot",
+      "relation": "owned by",
+      "tail": "alaska central railway",
+      "answer": "B"
+    },
+    {
+      "head": "kowloon ferry company",
+      "relation": "owned by",
+      "tail": "the wharf holdings ltd.",
+      "answer": "B"
+    },
+    {
+      "head": "haven (tanker)",
+      "relation": "owned by",
+      "tail": "standard oil company (indiana)",
+      "answer": "B"
+    },
+    {
+      "head": "Portrait of Mrs. Bodolphe",
+      "relation": "owned by",
+      "tail": "pierpont morgan",
+      "answer": "A"
+    },
+    {
+      "head": "ballamoar (top) halt",
+      "relation": "owned by",
+      "tail": "Manx Eletric Railway",
+      "answer": "B"
+    },
+    {
+      "head": "mariero station",
+      "relation": "owned by",
+      "tail": "norwegian national rail administration",
+      "answer": "B"
+    },
+    {
+      "head": "ramsey center",
+      "relation": "owned by",
+      "tail": "western carolina teachers college",
+      "answer": "B"
+    },
+    {
+      "head": "Devon station (Pennsylvania)",
+      "relation": "owned by",
+      "tail": "National Rail Passenger Corp.",
+      "answer": "A"
+    },
+    {
+      "head": "Chicago Defender",
+      "relation": "owned by",
+      "tail": "Real Times Media",
+      "answer": "B"
+    },
+    {
+      "head": "chicago orphans",
+      "relation": "owned by",
+      "tail": "justin matthew turner",
+      "answer": "B"
+    },
+    {
+      "head": "Meadowood Mall",
+      "relation": "owned by",
+      "tail": "simon malls",
+      "answer": "A"
+    },
+    {
+      "head": "eeklo railway station",
+      "relation": "owned by",
+      "tail": "infrabel",
+      "answer": "A"
+    },
+    {
+      "head": "orford ness",
+      "relation": "owned by",
+      "tail": "the national trust of england",
+      "answer": "A"
+    },
+    {
+      "head": "Cardiff Central Library",
+      "relation": "owned by",
+      "tail": "cardiff county council",
+      "answer": "B"
+    },
+    {
+      "head": "country club plaza, kansas city",
+      "relation": "owned by",
+      "tail": "Macerich Reit",
+      "answer": "B"
+    },
+    {
+      "head": "karyal halt railway station",
+      "relation": "owned by",
+      "tail": "pakistan ministry of railways",
+      "answer": "A"
+    },
+    {
+      "head": "Homer Bryce Stadium",
+      "relation": "owned by",
+      "tail": "Stephen Austin State U",
+      "answer": "B"
+    },
+    {
+      "head": "vice news",
+      "relation": "owned by",
+      "tail": "a&e television networks",
+      "answer": "B"
+    },
+    {
+      "head": "the vancouver courier",
+      "relation": "owned by",
+      "tail": "glacier newspaper group",
+      "answer": "A"
+    },
+    {
+      "head": "disneytown",
+      "relation": "owned by",
+      "tail": "disney'",
+      "answer": "A"
+    },
+    {
+      "head": "Fashion outlets of las vegas",
+      "relation": "owned by",
+      "tail": "Brookfield Properties Retail Group",
+      "answer": "A"
+    },
+    {
+      "head": "Holyoke Mall",
+      "relation": "owned by",
+      "tail": "the pyramid company",
+      "answer": "A"
+    },
+    {
+      "head": "seogam station",
+      "relation": "owned by",
+      "tail": "Choson Cul Minzuzui Inmingonghoagug",
+      "answer": "A"
+    },
+    {
+      "head": "robert l. stanfield international airport",
+      "relation": "owned by",
+      "tail": "Ontario-Quebec Continental Gateway",
+      "answer": "A"
+    },
+    {
+      "head": "the emperor napoleon in his study at the tuileries",
+      "relation": "owned by",
+      "tail": "Samuel H. Kress Foundation",
+      "answer": "B"
+    },
+    {
+      "head": "jamdat mobile, inc.",
+      "relation": "owned by",
+      "tail": "Electrontic Arts",
+      "answer": "B"
+    },
+    {
+      "head": "Mathewson Exhibition Center",
+      "relation": "owned by",
+      "tail": "missouri state fairgrounds",
+      "answer": "B"
+    },
+    {
+      "head": "sant'agostino (milan metro)",
+      "relation": "owned by",
+      "tail": "Azienda Trasporti Milanesi S.p.A.",
+      "answer": "B"
+    },
+    {
+      "head": "Envoy Air",
+      "relation": "owned by",
+      "tail": "AMR Corp",
+      "answer": "A"
+    },
+    {
+      "head": "elnes station",
+      "relation": "owned by",
+      "tail": "norwegian national rail administration",
+      "answer": "A"
+    },
+    {
+      "head": "Coty, Inc.",
+      "relation": "owned by",
+      "tail": "jab holding company",
+      "answer": "A"
+    },
+    {
+      "head": "sunnyvale railway station",
+      "relation": "owned by",
+      "tail": "KiwiRail Network",
+      "answer": "A"
+    },
+    {
+      "head": "Delta station",
+      "relation": "owned by",
+      "tail": "stib/mivb",
+      "answer": "B"
+    },
+    {
+      "head": "Elimbah railway station, Queensland",
+      "relation": "owned by",
+      "tail": "queensland railways",
+      "answer": "A"
+    },
+    {
+      "head": "Dong-A Motors",
+      "relation": "owned by",
+      "tail": "KC Mahindra",
+      "answer": "A"
+    },
+    {
+      "head": "Shipley Field",
+      "relation": "owned by",
+      "tail": "University of Maryland, College Park Terrapins",
+      "answer": "A"
+    },
+    {
+      "head": "the limerick leader",
+      "relation": "owned by",
+      "tail": "Johnston Press Ireland",
+      "answer": "B"
+    },
+    {
+      "head": "pukinmaki railway station",
+      "relation": "owned by",
+      "tail": "liikennevirasto",
+      "answer": "B"
+    },
+    {
+      "head": "fritos",
+      "relation": "owned by",
+      "tail": "Grandma's (brand)",
+      "answer": "B"
+    },
+    {
+      "head": "bundamba railway station, brisbane",
+      "relation": "owned by",
+      "tail": "queensland railways",
+      "answer": "A"
+    },
+    {
+      "head": "CoopVoce",
+      "relation": "owned by",
+      "tail": "coop italia",
+      "answer": "A"
+    },
+    {
+      "head": "animal planet l!ve",
+      "relation": "owned by",
+      "tail": "2010 discovery channel headquarters hostage crisis",
+      "answer": "B"
+    }
+  ],
+  "parent of": [
+    {
+      "head": "paleologo zaccaria",
+      "relation": "parent of",
+      "tail": "benedetto zaccaria",
+      "answer": "A"
+    },
+    {
+      "head": "Jude Law filmography",
+      "relation": "parent of",
+      "tail": "Peter Law (actor)",
+      "answer": "B"
+    },
+    {
+      "head": "inger eriksdotter",
+      "relation": "parent of",
+      "tail": "saint eric ix",
+      "answer": "B"
+    },
+    {
+      "head": "sara bint talal bin abdulaziz al-saud",
+      "relation": "parent of",
+      "tail": "Prince Talal bin Abdul Aziz",
+      "answer": "B"
+    },
+    {
+      "head": "klark kent singles discography",
+      "relation": "parent of",
+      "tail": "the game of nations",
+      "answer": "A"
+    },
+    {
+      "head": "daniel kerr",
+      "relation": "parent of",
+      "tail": "roger kerr (footballer)",
+      "answer": "A"
+    },
+    {
+      "head": "Brandon Walker",
+      "relation": "parent of",
+      "tail": "abe carver",
+      "answer": "B"
+    },
+    {
+      "head": "song gao-zong",
+      "relation": "parent of",
+      "tail": "Sung hui tsung",
+      "answer": "A"
+    },
+    {
+      "head": "Princess Marie of Saxe-Weimar-Eisenach (1849-1922)",
+      "relation": "parent of",
+      "tail": "carl alexander, grand duke of saxe-weimar-eisenach",
+      "answer": "B"
+    },
+    {
+      "head": "al-qadir",
+      "relation": "parent of",
+      "tail": "al-muttaqi",
+      "answer": "A"
+    },
+    {
+      "head": "nibha nobhadol",
+      "relation": "parent of",
+      "tail": "Phra Bat Somdet Phra Poraminthra Maha Chulalongkorn Phra Chunla Chom Klao Chao Yu Hua",
+      "answer": "A"
+    },
+    {
+      "head": "Sancho I of Leon",
+      "relation": "parent of",
+      "tail": "Ramiro II of Leon",
+      "answer": "B"
+    },
+    {
+      "head": "Frederick I, Duke of Austria (Babenberg)",
+      "relation": "parent of",
+      "tail": "leopold v, duke of austria",
+      "answer": "B"
+    },
+    {
+      "head": "Tracery (horse)",
+      "relation": "parent of",
+      "tail": "rock sand",
+      "answer": "B"
+    },
+    {
+      "head": "diesis (horse)",
+      "relation": "parent of",
+      "tail": "Sharpen Up",
+      "answer": "B"
+    },
+    {
+      "head": "han jian (weibo warlord)",
+      "relation": "parent of",
+      "tail": "han yunzhong",
+      "answer": "A"
+    },
+    {
+      "head": "georg zundel",
+      "relation": "parent of",
+      "tail": "fritz zundel",
+      "answer": "B"
+    },
+    {
+      "head": "Georg Friedrich",
+      "relation": "parent of",
+      "tail": "georg of brandenburg-ansbach-kulmbach",
+      "answer": "A"
+    },
+    {
+      "head": "John Palaiologos (son of Andronikos II)",
+      "relation": "parent of",
+      "tail": "andronik ii paleolog",
+      "answer": "B"
+    },
+    {
+      "head": "waldemar i, prince of anhalt-zerbst",
+      "relation": "parent of",
+      "tail": "Albert I, Prince of Anhalt-Zerbst",
+      "answer": "A"
+    },
+    {
+      "head": "Duchess Sophie Charlotte Augustine in Bavaria",
+      "relation": "parent of",
+      "tail": "duke maximilian joseph in bavaria",
+      "answer": "B"
+    },
+    {
+      "head": "adalbert i, duke of teck",
+      "relation": "parent of",
+      "tail": "Conrad I, Duke of Zahringen",
+      "answer": "A"
+    },
+    {
+      "head": "Hans Reinhold Fersen",
+      "relation": "parent of",
+      "tail": "Reinhold Johan von Fersen",
+      "answer": "B"
+    },
+    {
+      "head": "julian henry francis grenfell",
+      "relation": "parent of",
+      "tail": "William Grenfell, 1st Baron Desborough",
+      "answer": "A"
+    },
+    {
+      "head": "hugh the great, saint",
+      "relation": "parent of",
+      "tail": "dalmace i of semur",
+      "answer": "B"
+    },
+    {
+      "head": "Siddharth Mahadevan",
+      "relation": "parent of",
+      "tail": "rock n' roll, soniye",
+      "answer": "A"
+    },
+    {
+      "head": "Bryan Glazer",
+      "relation": "parent of",
+      "tail": "malcolm irving glazer",
+      "answer": "B"
+    },
+    {
+      "head": "Ernest Augustus III of Hanover, Duke of Brunswick-Lueneburg",
+      "relation": "parent of",
+      "tail": "Ernst August of Hanover, 3rd Duke of Cumberland",
+      "answer": "A"
+    },
+    {
+      "head": "Adelgundes, Duchess of Guimaraes",
+      "relation": "parent of",
+      "tail": "miguel i of portugal",
+      "answer": "B"
+    },
+    {
+      "head": "Beth Krom",
+      "relation": "parent of",
+      "tail": "irv weinstein",
+      "answer": "A"
+    },
+    {
+      "head": "Middleton (horse)",
+      "relation": "parent of",
+      "tail": "Phantom (horse)",
+      "answer": "B"
+    },
+    {
+      "head": "Diana Gribble",
+      "relation": "parent of",
+      "tail": "joseph robert archibald glenn",
+      "answer": "A"
+    },
+    {
+      "head": "pieter heerma",
+      "relation": "parent of",
+      "tail": "Enneus Heerma",
+      "answer": "B"
+    },
+    {
+      "head": "lenore lafount romney",
+      "relation": "parent of",
+      "tail": "harold la fount",
+      "answer": "B"
+    },
+    {
+      "head": "Emma of Altdorf",
+      "relation": "parent of",
+      "tail": "hwelf i of altdorf",
+      "answer": "A"
+    },
+    {
+      "head": "prince frederick of orange-nassau",
+      "relation": "parent of",
+      "tail": "Stadholder William V",
+      "answer": "A"
+    },
+    {
+      "head": "Isma'il of Sennar",
+      "relation": "parent of",
+      "tail": "badi iv",
+      "answer": "B"
+    },
+    {
+      "head": "Sigfried, Count of the Ardennes",
+      "relation": "parent of",
+      "tail": "Wigeric",
+      "answer": "A"
+    },
+    {
+      "head": "Ali Adil Shah I",
+      "relation": "parent of",
+      "tail": "Ibrahim Adil Shah I",
+      "answer": "B"
+    },
+    {
+      "head": "George Cambridge, 2nd Marquess of Cambridge",
+      "relation": "parent of",
+      "tail": "adolphus charles alexander albert edward george philip louis ladislaus",
+      "answer": "A"
+    },
+    {
+      "head": "john campbell, 1st earl cawdor",
+      "relation": "parent of",
+      "tail": "John Campbell, 1st Baron Calder",
+      "answer": "B"
+    },
+    {
+      "head": "louis of france (1751-1761)",
+      "relation": "parent of",
+      "tail": "Louis, Dauphin of France (1729-65)",
+      "answer": "A"
+    },
+    {
+      "head": "Giacomo I Crispo",
+      "relation": "parent of",
+      "tail": "Francesco I Crispo",
+      "answer": "A"
+    },
+    {
+      "head": "Djedkonsefankh",
+      "relation": "parent of",
+      "tail": "Pingdjem",
+      "answer": "B"
+    },
+    {
+      "head": "edith godwinson",
+      "relation": "parent of",
+      "tail": "godwine, earl of wessex",
+      "answer": "B"
+    },
+    {
+      "head": "Francesco IV Ordelaffi",
+      "relation": "parent of",
+      "tail": "antonio i ordelaffi",
+      "answer": "B"
+    },
+    {
+      "head": "maria of antioch-armenia",
+      "relation": "parent of",
+      "tail": "raymond-roupen, prince of antioch",
+      "answer": "B"
+    },
+    {
+      "head": "A. W. Ashley",
+      "relation": "parent of",
+      "tail": "the honourable cropley ashley-cooper",
+      "answer": "A"
+    },
+    {
+      "head": "Blessed Salome",
+      "relation": "parent of",
+      "tail": "leszek the white",
+      "answer": "A"
+    },
+    {
+      "head": "abhshalom",
+      "relation": "parent of",
+      "tail": "King of Israel David",
+      "answer": "A"
+    },
+    {
+      "head": "Light Horse Harry Lee",
+      "relation": "parent of",
+      "tail": "henry lee ii",
+      "answer": "B"
+    },
+    {
+      "head": "Len Cearns",
+      "relation": "parent of",
+      "tail": "will cearns",
+      "answer": "B"
+    },
+    {
+      "head": "auxesia",
+      "relation": "parent of",
+      "tail": "-zeus-",
+      "answer": "B"
+    },
+    {
+      "head": "herendil",
+      "relation": "parent of",
+      "tail": "Elendil",
+      "answer": "A"
+    },
+    {
+      "head": "Charles Douglas, 5th Lord Mordington",
+      "relation": "parent of",
+      "tail": "george douglas, 4th lord mordington",
+      "answer": "B"
+    },
+    {
+      "head": "david shaughnessy",
+      "relation": "parent of",
+      "tail": "alfred shaughnessy",
+      "answer": "B"
+    },
+    {
+      "head": "teimuraz of imereti",
+      "relation": "parent of",
+      "tail": "Mamuka of Imeretia",
+      "answer": "B"
+    },
+    {
+      "head": "conor daly",
+      "relation": "parent of",
+      "tail": "Derek Patrick Daly",
+      "answer": "B"
+    },
+    {
+      "head": "Agatha Christine of Hanau-Lichtenberg",
+      "relation": "parent of",
+      "tail": "Philip Wolfgang, Count of Hanau-Lichtenberg",
+      "answer": "B"
+    },
+    {
+      "head": "Kraven the Hunter (Ana Kravinoff)",
+      "relation": "parent of",
+      "tail": "sergei nikolaevich kravinov",
+      "answer": "A"
+    },
+    {
+      "head": "james rudolph garfield",
+      "relation": "parent of",
+      "tail": "james abram garfield",
+      "answer": "A"
+    },
+    {
+      "head": "andronikos iii of trebizond",
+      "relation": "parent of",
+      "tail": "alexius ii of trebizond",
+      "answer": "A"
+    },
+    {
+      "head": "Qussay Husayn",
+      "relation": "parent of",
+      "tail": "Saddam Hussain",
+      "answer": "A"
+    },
+    {
+      "head": "Maha Sakdi Balaseb",
+      "relation": "parent of",
+      "tail": "Rama I",
+      "answer": "A"
+    },
+    {
+      "head": "Atlas (King)",
+      "relation": "parent of",
+      "tail": "Iapetos (mythology)",
+      "answer": "B"
+    },
+    {
+      "head": "Pavarti",
+      "relation": "parent of",
+      "tail": "Ganesha",
+      "answer": "A"
+    },
+    {
+      "head": "Eos",
+      "relation": "parent of",
+      "tail": "Ersa",
+      "answer": "A"
+    },
+    {
+      "head": "Eve",
+      "relation": "parent of",
+      "tail": "Grace",
+      "answer": "B"
+    },
+    {
+      "head": "Rosa Hernandez",
+      "relation": "parent of",
+      "tail": "Jose Peralta",
+      "answer": "B"
+    },
+    {
+      "head": "Eve",
+      "relation": "parent of",
+      "tail": "Creation",
+      "answer": "B"
+    },
+    {
+      "head": "Niobe",
+      "relation": "parent of",
+      "tail": "Argus",
+      "answer": "B"
+    },
+    {
+      "head": "Hera",
+      "relation": "parent of",
+      "tail": "Ares",
+      "answer": "B"
+    },
+    {
+      "head": "Demeter",
+      "relation": "parent of",
+      "tail": "Kore",
+      "answer": "A"
+    },
+    {
+      "head": "Eve",
+      "relation": "parent of",
+      "tail": "Yahweh",
+      "answer": "A"
+    },
+    {
+      "head": "Mary",
+      "relation": "parent of",
+      "tail": "Joanna",
+      "answer": "B"
+    },
+    {
+      "head": "Virgin",
+      "relation": "parent of",
+      "tail": "Holy Trinity",
+      "answer": "B"
+    },
+    {
+      "head": "Themis",
+      "relation": "parent of",
+      "tail": "Astraea",
+      "answer": "B"
+    },
+    {
+      "head": "Mnemosyne",
+      "relation": "parent of",
+      "tail": "Muses",
+      "answer": "B"
+    },
+    {
+      "head": "Mary",
+      "relation": "parent of",
+      "tail": "Lord",
+      "answer": "A"
+    },
+    {
+      "head": "Elara",
+      "relation": "parent of",
+      "tail": "Tityas",
+      "answer": "B"
+    },
+    {
+      "head": "Basemath",
+      "relation": "parent of",
+      "tail": "Eliphaz",
+      "answer": "B"
+    },
+    {
+      "head": "Blessed Virgin",
+      "relation": "parent of",
+      "tail": "Jesus Christ",
+      "answer": "A"
+    },
+    {
+      "head": "Mary",
+      "relation": "parent of",
+      "tail": "Mary the Mother",
+      "answer": "B"
+    },
+    {
+      "head": "Hapshetsut",
+      "relation": "parent of",
+      "tail": "Ahmose",
+      "answer": "A"
+    },
+    {
+      "head": "Eve",
+      "relation": "parent of",
+      "tail": "Sin",
+      "answer": "B"
+    },
+    {
+      "head": "Leda",
+      "relation": "parent of",
+      "tail": "Castor",
+      "answer": "A"
+    },
+    {
+      "head": "Michelle Obama",
+      "relation": "parent of",
+      "tail": "Malia",
+      "answer": "A"
+    },
+    {
+      "head": "Rohini",
+      "relation": "parent of",
+      "tail": "Balarama",
+      "answer": "B"
+    },
+    {
+      "head": "Metis",
+      "relation": "parent of",
+      "tail": "Athena",
+      "answer": "B"
+    },
+    {
+      "head": "Blessed Mother",
+      "relation": "parent of",
+      "tail": "Jesus",
+      "answer": "B"
+    },
+    {
+      "head": "Mother Mary",
+      "relation": "parent of",
+      "tail": "Christ Jesus",
+      "answer": "B"
+    },
+    {
+      "head": "Eve",
+      "relation": "parent of",
+      "tail": "Flood",
+      "answer": "B"
+    },
+    {
+      "head": "Rita Wilson",
+      "relation": "parent of",
+      "tail": "Colin Hanks",
+      "answer": "B"
+    },
+    {
+      "head": "Isis",
+      "relation": "parent of",
+      "tail": "Horus",
+      "answer": "A"
+    },
+    {
+      "head": "Mary",
+      "relation": "parent of",
+      "tail": "Infant",
+      "answer": "B"
+    },
+    {
+      "head": "Virgin",
+      "relation": "parent of",
+      "tail": "Lord Jesus",
+      "answer": "B"
+    },
+    {
+      "head": "Mother",
+      "relation": "parent of",
+      "tail": "Jesus",
+      "answer": "A"
+    },
+    {
+      "head": "Virgin Mary",
+      "relation": "parent of",
+      "tail": "Jesus Christ",
+      "answer": "B"
+    },
+    {
+      "head": "Minos",
+      "relation": "parent of",
+      "tail": "Europa",
+      "answer": "A"
+    },
+    {
+      "head": "Niobe",
+      "relation": "parent of",
+      "tail": "Argos",
+      "answer": "B"
+    },
+    {
+      "head": "Sherry Johnston",
+      "relation": "parent of",
+      "tail": "Levi Johnston",
+      "answer": "B"
+    },
+    {
+      "head": "Mother",
+      "relation": "parent of",
+      "tail": "Mary",
+      "answer": "A"
+    },
+    {
+      "head": "Demeter",
+      "relation": "parent of",
+      "tail": "Dionysus",
+      "answer": "A"
+    },
+    {
+      "head": "Mother",
+      "relation": "parent of",
+      "tail": "Joseph",
+      "answer": "B"
+    },
+    {
+      "head": "Blessed Virgin",
+      "relation": "parent of",
+      "tail": "Son",
+      "answer": "A"
+    },
+    {
+      "head": "Mother",
+      "relation": "parent of",
+      "tail": "Christ Child",
+      "answer": "B"
+    },
+    {
+      "head": "Aegina",
+      "relation": "parent of",
+      "tail": "Aeacus",
+      "answer": "B"
+    },
+    {
+      "head": "Linda Hogan",
+      "relation": "parent of",
+      "tail": "Nick Hogan",
+      "answer": "B"
+    },
+    {
+      "head": "Kimora Lee Simmons",
+      "relation": "parent of",
+      "tail": "Ming Lee",
+      "answer": "A"
+    },
+    {
+      "head": "Mother",
+      "relation": "parent of",
+      "tail": "Child",
+      "answer": "A"
+    },
+    {
+      "head": "Eve",
+      "relation": "parent of",
+      "tail": "Lord",
+      "answer": "B"
+    },
+    {
+      "head": "Mary",
+      "relation": "parent of",
+      "tail": "Phoebe",
+      "answer": "B"
+    },
+    {
+      "head": "Eve",
+      "relation": "parent of",
+      "tail": "Life",
+      "answer": "B"
+    },
+    {
+      "head": "Mary",
+      "relation": "parent of",
+      "tail": "Gospel",
+      "answer": "A"
+    },
+    {
+      "head": "Anne Boleyn",
+      "relation": "parent of",
+      "tail": "Elizabeth",
+      "answer": "B"
+    },
+    {
+      "head": "Selene",
+      "relation": "parent of",
+      "tail": "Ersa",
+      "answer": "B"
+    },
+    {
+      "head": "Mary",
+      "relation": "parent of",
+      "tail": "Lord Jesus",
+      "answer": "B"
+    },
+    {
+      "head": "Leda",
+      "relation": "parent of",
+      "tail": "Castor and Polydeuces",
+      "answer": "B"
+    },
+    {
+      "head": "Eve",
+      "relation": "parent of",
+      "tail": "Devil",
+      "answer": "B"
+    },
+    {
+      "head": "Dione",
+      "relation": "parent of",
+      "tail": "Aphrodite",
+      "answer": "B"
+    },
+    {
+      "head": "Virgin",
+      "relation": "parent of",
+      "tail": "Lord",
+      "answer": "B"
+    },
+    {
+      "head": "Mother",
+      "relation": "parent of",
+      "tail": "Jesus Christ",
+      "answer": "B"
+    },
+    {
+      "head": "Selene",
+      "relation": "parent of",
+      "tail": "Pandia",
+      "answer": "A"
+    },
+    {
+      "head": "Mary",
+      "relation": "parent of",
+      "tail": "Holy Trinity",
+      "answer": "B"
+    },
+    {
+      "head": "Plouto",
+      "relation": "parent of",
+      "tail": "Tantalus",
+      "answer": "A"
+    },
+    {
+      "head": "Kimora Lee Simmons",
+      "relation": "parent of",
+      "tail": "Aoki",
+      "answer": "A"
+    },
+    {
+      "head": "Abigail",
+      "relation": "parent of",
+      "tail": "John Quincy Adams",
+      "answer": "B"
+    },
+    {
+      "head": "Alcmene",
+      "relation": "parent of",
+      "tail": "Herakles",
+      "answer": "A"
+    },
+    {
+      "head": "Eve",
+      "relation": "parent of",
+      "tail": "Eden",
+      "answer": "A"
+    },
+    {
+      "head": "Blessed Virgin",
+      "relation": "parent of",
+      "tail": "Child",
+      "answer": "A"
+    },
+    {
+      "head": "Metis",
+      "relation": "parent of",
+      "tail": "Athene",
+      "answer": "A"
+    },
+    {
+      "head": "Virgin",
+      "relation": "parent of",
+      "tail": "New Orleans Saints",
+      "answer": "B"
+    },
+    {
+      "head": "Leto",
+      "relation": "parent of",
+      "tail": "Apollo",
+      "answer": "A"
+    },
+    {
+      "head": "Mary",
+      "relation": "parent of",
+      "tail": "Mariamne",
+      "answer": "A"
+    },
+    {
+      "head": "Virgin",
+      "relation": "parent of",
+      "tail": "John the Evangelist",
+      "answer": "A"
+    },
+    {
+      "head": "Semele",
+      "relation": "parent of",
+      "tail": "Dionysus",
+      "answer": "A"
+    },
+    {
+      "head": "Hagar",
+      "relation": "parent of",
+      "tail": "Ishmael",
+      "answer": "A"
+    },
+    {
+      "head": "Blessed Virgin Mary",
+      "relation": "parent of",
+      "tail": "Jesus",
+      "answer": "B"
+    },
+    {
+      "head": "Eve",
+      "relation": "parent of",
+      "tail": "G D",
+      "answer": "A"
+    },
+    {
+      "head": "Electra",
+      "relation": "parent of",
+      "tail": "Dardanus",
+      "answer": "A"
+    },
+    {
+      "head": "Suniti",
+      "relation": "parent of",
+      "tail": "Dhruva",
+      "answer": "B"
+    },
+    {
+      "head": "Virgin",
+      "relation": "parent of",
+      "tail": "Saint John",
+      "answer": "B"
+    },
+    {
+      "head": "Demeter",
+      "relation": "parent of",
+      "tail": "Persephone",
+      "answer": "B"
+    },
+    {
+      "head": "Io",
+      "relation": "parent of",
+      "tail": "Epaphus",
+      "answer": "A"
+    },
+    {
+      "head": "Taygete",
+      "relation": "parent of",
+      "tail": "Lacedaemon",
+      "answer": "B"
+    }
+  ],
+  "influenced by": [
+    {
+      "head": "Wagner",
+      "relation": "influenced by",
+      "tail": "schopenhuaer",
+      "answer": "A"
+    },
+    {
+      "head": "graham sutherland",
+      "relation": "influenced by",
+      "tail": "F.L. Griggs",
+      "answer": "A"
+    },
+    {
+      "head": "harry conklin",
+      "relation": "influenced by",
+      "tail": "bobby d",
+      "answer": "A"
+    },
+    {
+      "head": "charles f. brush",
+      "relation": "influenced by",
+      "tail": "sir humphy davy",
+      "answer": "A"
+    },
+    {
+      "head": "Ludwig von Westphalen",
+      "relation": "influenced by",
+      "tail": "homer/comments",
+      "answer": "B"
+    },
+    {
+      "head": "daniel ingrams",
+      "relation": "influenced by",
+      "tail": "Wandy Newman",
+      "answer": "A"
+    },
+    {
+      "head": "Notable or frequent contributors to Pink Floyd",
+      "relation": "influenced by",
+      "tail": "The who",
+      "answer": "A"
+    },
+    {
+      "head": "stiglitz, joseph",
+      "relation": "influenced by",
+      "tail": "john maynard keynes",
+      "answer": "A"
+    },
+    {
+      "head": "nicolas berdayev",
+      "relation": "influenced by",
+      "tail": "nikolai fedorovich fedorov",
+      "answer": "A"
+    },
+    {
+      "head": "barbu paris mumuleanu",
+      "relation": "influenced by",
+      "tail": "Costache Conachi",
+      "answer": "A"
+    },
+    {
+      "head": "ECMA-408",
+      "relation": "influenced by",
+      "tail": "mocha (programming language)",
+      "answer": "A"
+    },
+    {
+      "head": "List of books that stephen king has written",
+      "relation": "influenced by",
+      "tail": "shirley hardie jackson",
+      "answer": "A"
+    },
+    {
+      "head": "George Aid",
+      "relation": "influenced by",
+      "tail": "Dauchez",
+      "answer": "B"
+    },
+    {
+      "head": "veno taufer",
+      "relation": "influenced by",
+      "tail": "faulkner william",
+      "answer": "A"
+    },
+    {
+      "head": "Ursula Kroeber",
+      "relation": "influenced by",
+      "tail": "P. Vergili Maronis.",
+      "answer": "A"
+    },
+    {
+      "head": "EJ Corey",
+      "relation": "influenced by",
+      "tail": "D. Seebach",
+      "answer": "A"
+    },
+    {
+      "head": "paradox (software)",
+      "relation": "influenced by",
+      "tail": "DBase IV",
+      "answer": "A"
+    },
+    {
+      "head": "james' theory of the self",
+      "relation": "influenced by",
+      "tail": "Blaise pascal",
+      "answer": "B"
+    },
+    {
+      "head": "Automated Alice/IX",
+      "relation": "influenced by",
+      "tail": "Lewis Carroll Dodgson",
+      "answer": "A"
+    },
+    {
+      "head": "Christoph Martin Wieland",
+      "relation": "influenced by",
+      "tail": "claude joseph dorat",
+      "answer": "B"
+    },
+    {
+      "head": "Paul Francis Webster",
+      "relation": "influenced by",
+      "tail": "jazz music",
+      "answer": "B"
+    },
+    {
+      "head": "Daniel Donche Jr.",
+      "relation": "influenced by",
+      "tail": "Craig Clevenger",
+      "answer": "B"
+    },
+    {
+      "head": "leslie knope",
+      "relation": "influenced by",
+      "tail": "Nancy Pelosi",
+      "answer": "B"
+    },
+    {
+      "head": "buddenbrooks (novel)",
+      "relation": "influenced by",
+      "tail": "fritz reuter",
+      "answer": "B"
+    },
+    {
+      "head": "Nack, William",
+      "relation": "influenced by",
+      "tail": "faulkner william",
+      "answer": "A"
+    },
+    {
+      "head": "Christopher Talbot",
+      "relation": "influenced by",
+      "tail": "dale hibbert",
+      "answer": "A"
+    },
+    {
+      "head": "Paul R. Krugman",
+      "relation": "influenced by",
+      "tail": "stiglitz, joseph",
+      "answer": "A"
+    },
+    {
+      "head": "adolfo caminha",
+      "relation": "influenced by",
+      "tail": "Eemile Zola",
+      "answer": "A"
+    },
+    {
+      "head": "Roy Davis Jr",
+      "relation": "influenced by",
+      "tail": "DJ Pierre",
+      "answer": "A"
+    },
+    {
+      "head": "boi1da",
+      "relation": "influenced by",
+      "tail": "Dr.Dre",
+      "answer": "A"
+    },
+    {
+      "head": "Andreas Deja",
+      "relation": "influenced by",
+      "tail": "Alberto Aleandro Uderzo",
+      "answer": "A"
+    },
+    {
+      "head": "Hugo Bergmann",
+      "relation": "influenced by",
+      "tail": "Kafka",
+      "answer": "B"
+    },
+    {
+      "head": "plays pleasant",
+      "relation": "influenced by",
+      "tail": "Henry David Thoreau",
+      "answer": "B"
+    },
+    {
+      "head": "Lucius R. O'Brien",
+      "relation": "influenced by",
+      "tail": "m.j. heade",
+      "answer": "B"
+    },
+    {
+      "head": "Chekhov",
+      "relation": "influenced by",
+      "tail": "Ivan Tourgueneff",
+      "answer": "B"
+    },
+    {
+      "head": "irma shiolashvili",
+      "relation": "influenced by",
+      "tail": "Franz Xaver Wolfgang Mozart",
+      "answer": "B"
+    },
+    {
+      "head": "baudelaire, charles",
+      "relation": "influenced by",
+      "tail": "victor ugo",
+      "answer": "A"
+    },
+    {
+      "head": "wendy moore",
+      "relation": "influenced by",
+      "tail": "henry graham greene om, ch",
+      "answer": "B"
+    },
+    {
+      "head": "geo. herriman",
+      "relation": "influenced by",
+      "tail": "kipling, joseph rudyard",
+      "answer": "A"
+    },
+    {
+      "head": "A Gentleman of the University of Oxford",
+      "relation": "influenced by",
+      "tail": "Pedro Calderon",
+      "answer": "A"
+    },
+    {
+      "head": "salvador felipe jacinto dali i domenech",
+      "relation": "influenced by",
+      "tail": "friedrick nietzsche",
+      "answer": "B"
+    },
+    {
+      "head": "Neil Percival Young",
+      "relation": "influenced by",
+      "tail": "Hiram King Williams, Sr.",
+      "answer": "B"
+    },
+    {
+      "head": "donald j. cram",
+      "relation": "influenced by",
+      "tail": "robert b. woodward",
+      "answer": "A"
+    },
+    {
+      "head": "Raisa ers",
+      "relation": "influenced by",
+      "tail": "louis-ferdinand celine",
+      "answer": "A"
+    },
+    {
+      "head": "Lewis Mumford",
+      "relation": "influenced by",
+      "tail": "Torsten Bunde Veblen",
+      "answer": "A"
+    },
+    {
+      "head": "New Foundations of Ontology",
+      "relation": "influenced by",
+      "tail": "vienna circle",
+      "answer": "B"
+    },
+    {
+      "head": "Weezer (2017 album)",
+      "relation": "influenced by",
+      "tail": "The pixies",
+      "answer": "A"
+    },
+    {
+      "head": "ruby-gnome2",
+      "relation": "influenced by",
+      "tail": "Smalltalk-80",
+      "answer": "B"
+    },
+    {
+      "head": "raymond williams",
+      "relation": "influenced by",
+      "tail": "H Ibsen",
+      "answer": "A"
+    },
+    {
+      "head": "Yakatz/Ceylon Project",
+      "relation": "influenced by",
+      "tail": "Java programming",
+      "answer": "B"
+    },
+    {
+      "head": "Shelley Jackson",
+      "relation": "influenced by",
+      "tail": "vladmir nobokov",
+      "answer": "A"
+    },
+    {
+      "head": "Articles for creation/Kotlin (programming language)",
+      "relation": "influenced by",
+      "tail": "ScalaNative (programming language)",
+      "answer": "B"
+    },
+    {
+      "head": "the work (band)",
+      "relation": "influenced by",
+      "tail": "henry cow",
+      "answer": "B"
+    },
+    {
+      "head": "saul bellow",
+      "relation": "influenced by",
+      "tail": "joyce, james",
+      "answer": "A"
+    },
+    {
+      "head": "sam smith singer",
+      "relation": "influenced by",
+      "tail": "Black and Blue (Sia song)",
+      "answer": "A"
+    },
+    {
+      "head": "Wayne Caldwell",
+      "relation": "influenced by",
+      "tail": "Cormac Mccarthy",
+      "answer": "A"
+    },
+    {
+      "head": "normand poirier",
+      "relation": "influenced by",
+      "tail": "vladmir nobokov",
+      "answer": "B"
+    },
+    {
+      "head": "Wayne Caldwell",
+      "relation": "influenced by",
+      "tail": "faulkner william",
+      "answer": "A"
+    },
+    {
+      "head": "Thomas Wolfe Jr.",
+      "relation": "influenced by",
+      "tail": "waughian",
+      "answer": "A"
+    },
+    {
+      "head": "hooksian",
+      "relation": "influenced by",
+      "tail": "nhat hanh",
+      "answer": "B"
+    },
+    {
+      "head": "C. J. Henderson",
+      "relation": "influenced by",
+      "tail": "Steve Costigan",
+      "answer": "B"
+    },
+    {
+      "head": "window scaling",
+      "relation": "influenced by",
+      "tail": "Tcp protocol",
+      "answer": "B"
+    },
+    {
+      "head": "Nan Golden",
+      "relation": "influenced by",
+      "tail": "walking through clear water in a pool painted black",
+      "answer": "A"
+    },
+    {
+      "head": "emma niblett",
+      "relation": "influenced by",
+      "tail": "nirvana (band)",
+      "answer": "B"
+    },
+    {
+      "head": "Simon Hollosy",
+      "relation": "influenced by",
+      "tail": "J. Bastien-Lepage",
+      "answer": "A"
+    }
+  ],
+  "represented by": [
+    {
+      "head": "hanne gaby odiele",
+      "relation": "represented by",
+      "tail": "Ford Model",
+      "answer": "A"
+    },
+    {
+      "head": "tiverton & honiton",
+      "relation": "represented by",
+      "tail": "Neil Quentin Gordon Parish",
+      "answer": "A"
+    },
+    {
+      "head": "Newcastle-Under-Lyme (UK Parliament constituency)",
+      "relation": "represented by",
+      "tail": "Paul Farrelly",
+      "answer": "A"
+    },
+    {
+      "head": "mrs. bernard dunstan",
+      "relation": "represented by",
+      "tail": "the bridgemen art library",
+      "answer": "A"
+    },
+    {
+      "head": "bognor regis & littlehampton",
+      "relation": "represented by",
+      "tail": "Nicolas Gibb",
+      "answer": "A"
+    },
+    {
+      "head": "Leslie Hornby",
+      "relation": "represented by",
+      "tail": "models 1",
+      "answer": "B"
+    },
+    {
+      "head": "arvon (uk parliament constituency)",
+      "relation": "represented by",
+      "tail": "Hywel Williams",
+      "answer": "B"
+    },
+    {
+      "head": "salvador felipe jacinto dali i domenech",
+      "relation": "represented by",
+      "tail": "Artists Rights Society",
+      "answer": "A"
+    },
+    {
+      "head": "hendon (uk parliament constituency)",
+      "relation": "represented by",
+      "tail": "Matthew James Offord",
+      "answer": "B"
+    },
+    {
+      "head": "lena gercke",
+      "relation": "represented by",
+      "tail": "img models",
+      "answer": "A"
+    },
+    {
+      "head": "South Staffordshire (constituency)",
+      "relation": "represented by",
+      "tail": "Gavin Williamson",
+      "answer": "A"
+    },
+    {
+      "head": "Zack Galifianakis",
+      "relation": "represented by",
+      "tail": "united talent agency",
+      "answer": "A"
+    },
+    {
+      "head": "Spelthorne (UK Parliament constituency)",
+      "relation": "represented by",
+      "tail": "kwarteng",
+      "answer": "B"
+    },
+    {
+      "head": "derby north (uk parliament constituency)",
+      "relation": "represented by",
+      "tail": "Amanda Solloway",
+      "answer": "B"
+    },
+    {
+      "head": "jennifer hof",
+      "relation": "represented by",
+      "tail": "img models",
+      "answer": "A"
+    },
+    {
+      "head": "Stoke-on-Trent South",
+      "relation": "represented by",
+      "tail": "Robert Flello",
+      "answer": "A"
+    },
+    {
+      "head": "Weston-super-Mare (constituency)",
+      "relation": "represented by",
+      "tail": "john penrose",
+      "answer": "B"
+    },
+    {
+      "head": "richard wentworth (1947-)",
+      "relation": "represented by",
+      "tail": "Lisson Gallery",
+      "answer": "A"
+    },
+    {
+      "head": "leila goldkuhl",
+      "relation": "represented by",
+      "tail": "NEXT Model Management",
+      "answer": "A"
+    },
+    {
+      "head": "ina lettmann",
+      "relation": "represented by",
+      "tail": "NEXT Model Management",
+      "answer": "B"
+    },
+    {
+      "head": "sir spencer",
+      "relation": "represented by",
+      "tail": "the bridgemen art library",
+      "answer": "A"
+    },
+    {
+      "head": "Ellesmere Port & Neston",
+      "relation": "represented by",
+      "tail": "justin piers richard madders",
+      "answer": "A"
+    },
+    {
+      "head": "West Lancashire (UK Parliament constituency)",
+      "relation": "represented by",
+      "tail": "Rosemary Cooper",
+      "answer": "B"
+    },
+    {
+      "head": "Kotlarska",
+      "relation": "represented by",
+      "tail": "Ralf Lauren",
+      "answer": "A"
+    },
+    {
+      "head": "beaconsfield (uk parliament constituency)",
+      "relation": "represented by",
+      "tail": "Dominic Grieve",
+      "answer": "A"
+    },
+    {
+      "head": "Gloucester constituency",
+      "relation": "represented by",
+      "tail": "Richard Graham (UK Politician)",
+      "answer": "A"
+    },
+    {
+      "head": "Erin Wasson",
+      "relation": "represented by",
+      "tail": "img models",
+      "answer": "B"
+    },
+    {
+      "head": "christine diane teigen",
+      "relation": "represented by",
+      "tail": "img models",
+      "answer": "B"
+    },
+    {
+      "head": "Sherwood (UK Parliament constituency)",
+      "relation": "represented by",
+      "tail": "Mark Steven Spencer",
+      "answer": "A"
+    },
+    {
+      "head": "Ashford (UK Parliament constituency)",
+      "relation": "represented by",
+      "tail": "Damien Green",
+      "answer": "B"
+    },
+    {
+      "head": "Anais Mali",
+      "relation": "represented by",
+      "tail": "Ford Model",
+      "answer": "B"
+    },
+    {
+      "head": "Jessica Rankin",
+      "relation": "represented by",
+      "tail": "jeremy jopling",
+      "answer": "A"
+    },
+    {
+      "head": "noelia lopez",
+      "relation": "represented by",
+      "tail": "elite model management",
+      "answer": "A"
+    },
+    {
+      "head": "thanet south",
+      "relation": "represented by",
+      "tail": "Craig MacKinlay",
+      "answer": "A"
+    },
+    {
+      "head": "aurelie claudel",
+      "relation": "represented by",
+      "tail": "img models",
+      "answer": "A"
+    },
+    {
+      "head": "north tyneside (uk parliament constituency)",
+      "relation": "represented by",
+      "tail": "Mary Glindon",
+      "answer": "B"
+    },
+    {
+      "head": "South Dorset",
+      "relation": "represented by",
+      "tail": "richard drax",
+      "answer": "A"
+    },
+    {
+      "head": "broadland (uk parliament constituency)",
+      "relation": "represented by",
+      "tail": "keith robert simpson",
+      "answer": "A"
+    },
+    {
+      "head": "kim stewart",
+      "relation": "represented by",
+      "tail": "storm models",
+      "answer": "B"
+    },
+    {
+      "head": "Dorothea Barth Jorgensen",
+      "relation": "represented by",
+      "tail": "elite model management",
+      "answer": "B"
+    },
+    {
+      "head": "Karmen Pedaru",
+      "relation": "represented by",
+      "tail": "img models",
+      "answer": "B"
+    },
+    {
+      "head": "Chanel Iman Robinson",
+      "relation": "represented by",
+      "tail": "img models",
+      "answer": "A"
+    },
+    {
+      "head": "Irina Sharipova",
+      "relation": "represented by",
+      "tail": "women management",
+      "answer": "B"
+    },
+    {
+      "head": "Dorset West (UK Parliament constituency)",
+      "relation": "represented by",
+      "tail": "Oliver Letwin",
+      "answer": "A"
+    },
+    {
+      "head": "carmarthen east & dinefwr",
+      "relation": "represented by",
+      "tail": "jonathan edwards (british politician)",
+      "answer": "B"
+    },
+    {
+      "head": "Burton-on-Trent (UK Parliament constituency)",
+      "relation": "represented by",
+      "tail": "Andrew Griffiths (politician)",
+      "answer": "B"
+    },
+    {
+      "head": "Eltham (UK Parliamentary constituency)",
+      "relation": "represented by",
+      "tail": "clive efford",
+      "answer": "A"
+    },
+    {
+      "head": "Behati",
+      "relation": "represented by",
+      "tail": "storm models",
+      "answer": "B"
+    },
+    {
+      "head": "Ayr, Carrick and Cumnock",
+      "relation": "represented by",
+      "tail": "corraine wilson",
+      "answer": "B"
+    },
+    {
+      "head": "Victor Huguenin",
+      "relation": "represented by",
+      "tail": "Jardins du Luxembourg",
+      "answer": "A"
+    },
+    {
+      "head": "kingston upon hull north (uk parliament constituency)",
+      "relation": "represented by",
+      "tail": "diana johnson",
+      "answer": "B"
+    },
+    {
+      "head": "romulo pires",
+      "relation": "represented by",
+      "tail": "Ford Model",
+      "answer": "A"
+    },
+    {
+      "head": "barbara meier",
+      "relation": "represented by",
+      "tail": "img models",
+      "answer": "B"
+    },
+    {
+      "head": "Putney constituency",
+      "relation": "represented by",
+      "tail": "Justine Greening",
+      "answer": "B"
+    },
+    {
+      "head": "Warwick and Leamington Spa (UK Parliament constituency)",
+      "relation": "represented by",
+      "tail": "chris white (politician)",
+      "answer": "B"
+    },
+    {
+      "head": "Julia Lescova",
+      "relation": "represented by",
+      "tail": "wilhelmina brown",
+      "answer": "A"
+    },
+    {
+      "head": "gower (uk parliament constituency)",
+      "relation": "represented by",
+      "tail": "Byron Davies",
+      "answer": "A"
+    },
+    {
+      "head": "Chesterfield (UK Parliament constituency)",
+      "relation": "represented by",
+      "tail": "matthew perkins",
+      "answer": "B"
+    },
+    {
+      "head": "Westmorland & Lonsdale",
+      "relation": "represented by",
+      "tail": "tim farron",
+      "answer": "A"
+    },
+    {
+      "head": "Lineisy Montero",
+      "relation": "represented by",
+      "tail": "NEXT Model Management",
+      "answer": "A"
+    },
+    {
+      "head": "Kevin Hart (comedian)",
+      "relation": "represented by",
+      "tail": "3 Arts",
+      "answer": "A"
+    },
+    {
+      "head": "Bury St. Edmunds (UK Parliament constituency)",
+      "relation": "represented by",
+      "tail": "Jo Churchill",
+      "answer": "A"
+    },
+    {
+      "head": "sam pinto",
+      "relation": "represented by",
+      "tail": "abs-cbn talent management & development center, inc.",
+      "answer": "A"
+    },
+    {
+      "head": "doncaster north (uk parliamentary constituency)",
+      "relation": "represented by",
+      "tail": "ed miliband",
+      "answer": "A"
+    },
+    {
+      "head": "Naomi Sims",
+      "relation": "represented by",
+      "tail": "wilhelmina brown",
+      "answer": "B"
+    },
+    {
+      "head": "Grace Mahary",
+      "relation": "represented by",
+      "tail": "Ford Model",
+      "answer": "A"
+    },
+    {
+      "head": "Bradford West seat",
+      "relation": "represented by",
+      "tail": "Naseem Shah",
+      "answer": "B"
+    },
+    {
+      "head": "lily mcmenamy",
+      "relation": "represented by",
+      "tail": "NEXT Model Management",
+      "answer": "A"
+    },
+    {
+      "head": "state university of new york-stony brook",
+      "relation": "represented by",
+      "tail": "Seawolves",
+      "answer": "B"
+    },
+    {
+      "head": "stoke-on-trent north",
+      "relation": "represented by",
+      "tail": "ruth smeeth",
+      "answer": "A"
+    },
+    {
+      "head": "sheffield south east (uk parliament constituency)",
+      "relation": "represented by",
+      "tail": "Clive James Charles Betts",
+      "answer": "A"
+    },
+    {
+      "head": "keighley (uk parliamentary constituency)",
+      "relation": "represented by",
+      "tail": "kris hopkins",
+      "answer": "A"
+    },
+    {
+      "head": "Midlothian (UK Parliament Constituency)",
+      "relation": "represented by",
+      "tail": "owen thompson",
+      "answer": "A"
+    },
+    {
+      "head": "Bridgwater and West Somerset (UK Parliament constituency)",
+      "relation": "represented by",
+      "tail": "ian richard peregrine liddell-grainger, baron of ayton",
+      "answer": "A"
+    },
+    {
+      "head": "st. alban's (uk parliament constituency)",
+      "relation": "represented by",
+      "tail": "anne main",
+      "answer": "B"
+    },
+    {
+      "head": "Argyll and Bute (UK Parliament constituency)",
+      "relation": "represented by",
+      "tail": "Brendan O'Hara",
+      "answer": "A"
+    },
+    {
+      "head": "Sunderland Central (UK Parliament constituency)",
+      "relation": "represented by",
+      "tail": "Julie Elliott",
+      "answer": "B"
+    },
+    {
+      "head": "Basildon South and Thurrock East",
+      "relation": "represented by",
+      "tail": "stephen james metcalfe",
+      "answer": "A"
+    },
+    {
+      "head": "Blanca Padilla",
+      "relation": "represented by",
+      "tail": "NEXT Model Management",
+      "answer": "B"
+    }
+  ],
+  "has facility": [
+    {
+      "head": "Castle Shannon station (PAAC)",
+      "relation": "has facility",
+      "tail": "Handicapped parking space",
+      "answer": "A"
+    },
+    {
+      "head": "stripsenjochhaus",
+      "relation": "has facility",
+      "tail": "Winter room",
+      "answer": "A"
+    },
+    {
+      "head": "Leicester Square Tube station",
+      "relation": "has facility",
+      "tail": "automated teller machines",
+      "answer": "A"
+    },
+    {
+      "head": "Torino Hut",
+      "relation": "has facility",
+      "tail": "Cabin bed",
+      "answer": "B"
+    },
+    {
+      "head": "arjan garh (delhi metro)",
+      "relation": "has facility",
+      "tail": "Parking Lot",
+      "answer": "A"
+    },
+    {
+      "head": "Groningen railway station",
+      "relation": "has facility",
+      "tail": "Locker (storage)",
+      "answer": "A"
+    },
+    {
+      "head": "capanna margherita",
+      "relation": "has facility",
+      "tail": "Winter room",
+      "answer": "B"
+    },
+    {
+      "head": "new bamberg hut",
+      "relation": "has facility",
+      "tail": "Cabin bed",
+      "answer": "B"
+    },
+    {
+      "head": "refuge dondenaz",
+      "relation": "has facility",
+      "tail": "Winter room",
+      "answer": "B"
+    },
+    {
+      "head": "United States Marine Corps Drill Team",
+      "relation": "has facility",
+      "tail": "Rifle, M1 (Garand)",
+      "answer": "B"
+    },
+    {
+      "head": "anton-karg-haus",
+      "relation": "has facility",
+      "tail": "Massenlager",
+      "answer": "A"
+    },
+    {
+      "head": "refuge de la martin",
+      "relation": "has facility",
+      "tail": "Cabin bed",
+      "answer": "B"
+    },
+    {
+      "head": "Anand Vihar metro station",
+      "relation": "has facility",
+      "tail": "Parking Lot",
+      "answer": "B"
+    },
+    {
+      "head": "solsteinhaus",
+      "relation": "has facility",
+      "tail": "Massenlager",
+      "answer": "B"
+    },
+    {
+      "head": "watford tube station",
+      "relation": "has facility",
+      "tail": "automated teller machines",
+      "answer": "B"
+    },
+    {
+      "head": "refuge elena",
+      "relation": "has facility",
+      "tail": "Winter room",
+      "answer": "B"
+    },
+    {
+      "head": "refuge jean-frederic benevolo",
+      "relation": "has facility",
+      "tail": "Cabin bed",
+      "answer": "A"
+    },
+    {
+      "head": "olympia mall",
+      "relation": "has facility",
+      "tail": "donnicker",
+      "answer": "B"
+    },
+    {
+      "head": "Refuge Guides du Cervin",
+      "relation": "has facility",
+      "tail": "Cabin bed",
+      "answer": "A"
+    },
+    {
+      "head": "refuge victor-emmanuel ii",
+      "relation": "has facility",
+      "tail": "Massenlager",
+      "answer": "B"
+    },
+    {
+      "head": "new bamberg hut",
+      "relation": "has facility",
+      "tail": "Massenlager",
+      "answer": "B"
+    },
+    {
+      "head": "Refuge des lacs Merlet",
+      "relation": "has facility",
+      "tail": "Cabin bed",
+      "answer": "B"
+    },
+    {
+      "head": "Rappensee Hut",
+      "relation": "has facility",
+      "tail": "Winter room",
+      "answer": "A"
+    },
+    {
+      "head": "groningen europapark railway station",
+      "relation": "has facility",
+      "tail": "elevator (machinery)",
+      "answer": "A"
+    },
+    {
+      "head": "clapham junction tube station",
+      "relation": "has facility",
+      "tail": "toilet for the disabled",
+      "answer": "B"
+    },
+    {
+      "head": "refuge crete seche",
+      "relation": "has facility",
+      "tail": "Winter room",
+      "answer": "A"
+    },
+    {
+      "head": "europe hut",
+      "relation": "has facility",
+      "tail": "Cabin bed",
+      "answer": "B"
+    },
+    {
+      "head": "stripsenjochhaus",
+      "relation": "has facility",
+      "tail": "Cabin bed",
+      "answer": "A"
+    },
+    {
+      "head": "Preston Road tube station",
+      "relation": "has facility",
+      "tail": "designated waiting area",
+      "answer": "A"
+    },
+    {
+      "head": "schreckhornhutte",
+      "relation": "has facility",
+      "tail": "Cabin bed",
+      "answer": "B"
+    },
+    {
+      "head": "PumpkinSky/Laufen Hut",
+      "relation": "has facility",
+      "tail": "Cabin bed",
+      "answer": "A"
+    },
+    {
+      "head": "Birmingham Children's Hospital",
+      "relation": "has facility",
+      "tail": "helopad",
+      "answer": "B"
+    },
+    {
+      "head": "Refuge des Anges au Morion",
+      "relation": "has facility",
+      "tail": "Cabin bed",
+      "answer": "B"
+    },
+    {
+      "head": "ravensburger hut",
+      "relation": "has facility",
+      "tail": "Massenlager",
+      "answer": "A"
+    },
+    {
+      "head": "Jersey Airport",
+      "relation": "has facility",
+      "tail": "saloonkeeper",
+      "answer": "A"
+    },
+    {
+      "head": "Refuge Mont-Blanc",
+      "relation": "has facility",
+      "tail": "Cabin bed",
+      "answer": "B"
+    },
+    {
+      "head": "Elberfelder Hut",
+      "relation": "has facility",
+      "tail": "Cabin bed",
+      "answer": "A"
+    },
+    {
+      "head": "Marco e Rosa Hut",
+      "relation": "has facility",
+      "tail": "Cabin bed",
+      "answer": "B"
+    },
+    {
+      "head": "Dwarka Sector 21 (Delhi Metro)",
+      "relation": "has facility",
+      "tail": "Parking Lot",
+      "answer": "A"
+    },
+    {
+      "head": "Refuge Vallot",
+      "relation": "has facility",
+      "tail": "Cabin bed",
+      "answer": "A"
+    },
+    {
+      "head": "refuge de plan sec",
+      "relation": "has facility",
+      "tail": "Cabin bed",
+      "answer": "B"
+    },
+    {
+      "head": "capanna margherita",
+      "relation": "has facility",
+      "tail": "Massenlager",
+      "answer": "A"
+    },
+    {
+      "head": "Torino Hut",
+      "relation": "has facility",
+      "tail": "Winter room",
+      "answer": "B"
+    },
+    {
+      "head": "Lake Moultrie",
+      "relation": "has facility",
+      "tail": "pinopolis dam",
+      "answer": "B"
+    },
+    {
+      "head": "Vantaa Airport",
+      "relation": "has facility",
+      "tail": "instrument let-down approach",
+      "answer": "A"
+    },
+    {
+      "head": "refuge des cosmiques",
+      "relation": "has facility",
+      "tail": "Massenlager",
+      "answer": "B"
+    },
+    {
+      "head": "hans berger haus",
+      "relation": "has facility",
+      "tail": "Massenlager",
+      "answer": "B"
+    },
+    {
+      "head": "Camorra (1986 film)",
+      "relation": "has facility",
+      "tail": "neapolitan mafia",
+      "answer": "A"
+    },
+    {
+      "head": "tambacounda airport",
+      "relation": "has facility",
+      "tail": "Airport gate",
+      "answer": "B"
+    },
+    {
+      "head": "Fritz Pflaum Hut",
+      "relation": "has facility",
+      "tail": "Massenlager",
+      "answer": "A"
+    },
+    {
+      "head": "botanical garden (delhi metro)",
+      "relation": "has facility",
+      "tail": "Parking Lot",
+      "answer": "A"
+    },
+    {
+      "head": "GTB Nagar (Delhi Metro)",
+      "relation": "has facility",
+      "tail": "Rent-a-bike",
+      "answer": "A"
+    },
+    {
+      "head": "Coburger Hut",
+      "relation": "has facility",
+      "tail": "Massenlager",
+      "answer": "B"
+    },
+    {
+      "head": "Kelchalm",
+      "relation": "has facility",
+      "tail": "Cabin bed",
+      "answer": "B"
+    },
+    {
+      "head": "knorr hut",
+      "relation": "has facility",
+      "tail": "Massenlager",
+      "answer": "B"
+    },
+    {
+      "head": "GTB Nagar (Delhi Metro)",
+      "relation": "has facility",
+      "tail": "Autobuses",
+      "answer": "B"
+    },
+    {
+      "head": "Ghitorni metro station",
+      "relation": "has facility",
+      "tail": "Parking Lot",
+      "answer": "A"
+    },
+    {
+      "head": "Barakhambha Road metro station",
+      "relation": "has facility",
+      "tail": "Rent-a-bike",
+      "answer": "A"
+    },
+    {
+      "head": "ravensburger hut",
+      "relation": "has facility",
+      "tail": "Winter room",
+      "answer": "B"
+    },
+    {
+      "head": "Wakefield Kirkgate Railway Station",
+      "relation": "has facility",
+      "tail": "Bicycle parking",
+      "answer": "A"
+    },
+    {
+      "head": "dwarka sector 12 metro station",
+      "relation": "has facility",
+      "tail": "Autobuses",
+      "answer": "B"
+    },
+    {
+      "head": "dr. augusto roberto fuster airport at pedro juan caballero",
+      "relation": "has facility",
+      "tail": "aircraft hanger",
+      "answer": "B"
+    }
+  ],
+  "side effect": [
+    {
+      "head": "Dihidral",
+      "relation": "side effect",
+      "tail": "Barr system",
+      "answer": "A"
+    },
+    {
+      "head": "Dihidral",
+      "relation": "side effect",
+      "tail": "Dry mouth syndrome",
+      "answer": "B"
+    },
+    {
+      "head": "Dihidral",
+      "relation": "side effect",
+      "tail": "urinary retention",
+      "answer": "B"
+    },
+    {
+      "head": "Inactivated trivalent influenza vaccine",
+      "relation": "side effect",
+      "tail": "Soar throat",
+      "answer": "B"
+    },
+    {
+      "head": "Dihidral",
+      "relation": "side effect",
+      "tail": "Rapid Heartbeat",
+      "answer": "B"
+    },
+    {
+      "head": "Dihidral",
+      "relation": "side effect",
+      "tail": "Pupillary dilatation",
+      "answer": "A"
+    },
+    {
+      "head": "IMC-3G3",
+      "relation": "side effect",
+      "tail": "Chronic neutropenia",
+      "answer": "B"
+    },
+    {
+      "head": "Pyridoxine",
+      "relation": "side effect",
+      "tail": "drowsiness",
+      "answer": "B"
+    }
+  ],
+  "has property": [
+    {
+      "head": "Most brain functioning",
+      "relation": "has property",
+      "tail": "unconscious",
+      "answer": "A"
+    },
+    {
+      "head": "The color of the sky",
+      "relation": "has property",
+      "tail": "black at night",
+      "answer": "B"
+    },
+    {
+      "head": "Spinach",
+      "relation": "has property",
+      "tail": "high in calcium",
+      "answer": "A"
+    },
+    {
+      "head": "Constipation",
+      "relation": "has property",
+      "tail": "unhealthy",
+      "answer": "B"
+    },
+    {
+      "head": "Coral bells",
+      "relation": "has property",
+      "tail": "a perennial",
+      "answer": "A"
+    },
+    {
+      "head": "submarines",
+      "relation": "has property",
+      "tail": "very complicated machines",
+      "answer": "A"
+    },
+    {
+      "head": "a football",
+      "relation": "has property",
+      "tail": "round",
+      "answer": "B"
+    },
+    {
+      "head": "Backgammon",
+      "relation": "has property",
+      "tail": "fun",
+      "answer": "A"
+    },
+    {
+      "head": "Blood and sap",
+      "relation": "has property",
+      "tail": "similar",
+      "answer": "A"
+    },
+    {
+      "head": "the opposite of real",
+      "relation": "has property",
+      "tail": "imaginary",
+      "answer": "B"
+    },
+    {
+      "head": "Some buildings",
+      "relation": "has property",
+      "tail": "huge",
+      "answer": "A"
+    },
+    {
+      "head": "mountain climbing",
+      "relation": "has property",
+      "tail": "good for the health",
+      "answer": "B"
+    },
+    {
+      "head": "exercise",
+      "relation": "has property",
+      "tail": "fun",
+      "answer": "B"
+    },
+    {
+      "head": "a lab coat",
+      "relation": "has property",
+      "tail": "white",
+      "answer": "B"
+    },
+    {
+      "head": "My shoes",
+      "relation": "has property",
+      "tail": "white",
+      "answer": "A"
+    },
+    {
+      "head": "fresh tortillas",
+      "relation": "has property",
+      "tail": "floppy",
+      "answer": "A"
+    },
+    {
+      "head": "games",
+      "relation": "has property",
+      "tail": "very competitive",
+      "answer": "B"
+    },
+    {
+      "head": "children",
+      "relation": "has property",
+      "tail": "going to school",
+      "answer": "B"
+    },
+    {
+      "head": "Killing",
+      "relation": "has property",
+      "tail": "bad",
+      "answer": "B"
+    },
+    {
+      "head": "The weather",
+      "relation": "has property",
+      "tail": "mild",
+      "answer": "B"
+    },
+    {
+      "head": "everquest",
+      "relation": "has property",
+      "tail": "addictive",
+      "answer": "A"
+    },
+    {
+      "head": "israel",
+      "relation": "has property",
+      "tail": "full of jews",
+      "answer": "A"
+    },
+    {
+      "head": "thirst",
+      "relation": "has property",
+      "tail": "uncomfortable",
+      "answer": "A"
+    },
+    {
+      "head": "Life",
+      "relation": "has property",
+      "tail": "finite",
+      "answer": "A"
+    },
+    {
+      "head": "A thing",
+      "relation": "has property",
+      "tail": "outside or inside",
+      "answer": "A"
+    },
+    {
+      "head": "lightbulb",
+      "relation": "has property",
+      "tail": "bright",
+      "answer": "B"
+    },
+    {
+      "head": "Alcohol",
+      "relation": "has property",
+      "tail": "addictive",
+      "answer": "B"
+    },
+    {
+      "head": "Toaster pastries",
+      "relation": "has property",
+      "tail": "good",
+      "answer": "B"
+    },
+    {
+      "head": "Certain drugs",
+      "relation": "has property",
+      "tail": "illegal to possess",
+      "answer": "B"
+    },
+    {
+      "head": "A strawberry",
+      "relation": "has property",
+      "tail": "rich in vitamin c",
+      "answer": "A"
+    },
+    {
+      "head": "People",
+      "relation": "has property",
+      "tail": "opinionated",
+      "answer": "A"
+    },
+    {
+      "head": "Napster",
+      "relation": "has property",
+      "tail": "evil",
+      "answer": "A"
+    },
+    {
+      "head": "snow",
+      "relation": "has property",
+      "tail": "slippery to drive on",
+      "answer": "B"
+    },
+    {
+      "head": "tennis",
+      "relation": "has property",
+      "tail": "one of many sports",
+      "answer": "B"
+    },
+    {
+      "head": "razors",
+      "relation": "has property",
+      "tail": "sharp",
+      "answer": "B"
+    },
+    {
+      "head": "johnny",
+      "relation": "has property",
+      "tail": "nuts",
+      "answer": "A"
+    },
+    {
+      "head": "A queen",
+      "relation": "has property",
+      "tail": "royal",
+      "answer": "B"
+    },
+    {
+      "head": "Much Indian cooking",
+      "relation": "has property",
+      "tail": "spicy",
+      "answer": "A"
+    },
+    {
+      "head": "Some art objects",
+      "relation": "has property",
+      "tail": "very expensive",
+      "answer": "B"
+    },
+    {
+      "head": "Mathematics",
+      "relation": "has property",
+      "tail": "useful in business",
+      "answer": "A"
+    },
+    {
+      "head": "Air conditioners",
+      "relation": "has property",
+      "tail": "heavy",
+      "answer": "B"
+    },
+    {
+      "head": "Bones",
+      "relation": "has property",
+      "tail": "stiff",
+      "answer": "A"
+    },
+    {
+      "head": "more people",
+      "relation": "has property",
+      "tail": "good than are bad",
+      "answer": "A"
+    },
+    {
+      "head": "Intimacy",
+      "relation": "has property",
+      "tail": "incompatible with workaholism",
+      "answer": "A"
+    },
+    {
+      "head": "Some leaves",
+      "relation": "has property",
+      "tail": "purple",
+      "answer": "A"
+    },
+    {
+      "head": "concrete",
+      "relation": "has property",
+      "tail": "sturdy",
+      "answer": "A"
+    },
+    {
+      "head": "being dishonest",
+      "relation": "has property",
+      "tail": "abhorrent in society",
+      "answer": "B"
+    },
+    {
+      "head": "not all spirits",
+      "relation": "has property",
+      "tail": "drunk",
+      "answer": "A"
+    },
+    {
+      "head": "A store",
+      "relation": "has property",
+      "tail": "opening early",
+      "answer": "B"
+    },
+    {
+      "head": "Pizzas",
+      "relation": "has property",
+      "tail": "flat and round",
+      "answer": "A"
+    },
+    {
+      "head": "earth",
+      "relation": "has property",
+      "tail": "dirt",
+      "answer": "B"
+    },
+    {
+      "head": "Outdoor Hunting Adventures",
+      "relation": "has property",
+      "tail": "abbreviated to'OHA'",
+      "answer": "A"
+    },
+    {
+      "head": "simple things",
+      "relation": "has property",
+      "tail": "beautiful",
+      "answer": "B"
+    },
+    {
+      "head": "garbage",
+      "relation": "has property",
+      "tail": "ugly and smelly",
+      "answer": "B"
+    },
+    {
+      "head": "The Herald",
+      "relation": "has property",
+      "tail": "one brand of newspaper",
+      "answer": "A"
+    }
+  ],
+  "has subevent": [
+    {
+      "head": "diving",
+      "relation": "has subevent",
+      "tail": "take the cat with you",
+      "answer": "B"
+    },
+    {
+      "head": "reaching an impasse",
+      "relation": "has subevent",
+      "tail": "delay",
+      "answer": "A"
+    },
+    {
+      "head": "hear singing",
+      "relation": "has subevent",
+      "tail": "you sing along",
+      "answer": "B"
+    },
+    {
+      "head": "propose to a woman",
+      "relation": "has subevent",
+      "tail": "getting married",
+      "answer": "B"
+    },
+    {
+      "head": "playing basketball",
+      "relation": "has subevent",
+      "tail": "make a free throw",
+      "answer": "A"
+    },
+    {
+      "head": "go on a vacation",
+      "relation": "has subevent",
+      "tail": "foreign travel",
+      "answer": "B"
+    },
+    {
+      "head": "getting paid",
+      "relation": "has subevent",
+      "tail": "save your money",
+      "answer": "B"
+    },
+    {
+      "head": "play chess",
+      "relation": "has subevent",
+      "tail": "a trap",
+      "answer": "B"
+    },
+    {
+      "head": "have fun",
+      "relation": "has subevent",
+      "tail": "laugh a lot",
+      "answer": "B"
+    },
+    {
+      "head": "create art",
+      "relation": "has subevent",
+      "tail": "paint",
+      "answer": "B"
+    },
+    {
+      "head": "drilling a hole",
+      "relation": "has subevent",
+      "tail": "wear eye protection",
+      "answer": "A"
+    },
+    {
+      "head": "winning a baseball game",
+      "relation": "has subevent",
+      "tail": "get overconfident",
+      "answer": "A"
+    },
+    {
+      "head": "finding information",
+      "relation": "has subevent",
+      "tail": "use key words to search",
+      "answer": "A"
+    },
+    {
+      "head": "tell many people about something",
+      "relation": "has subevent",
+      "tail": "speak loudly",
+      "answer": "A"
+    },
+    {
+      "head": "waiting for someone",
+      "relation": "has subevent",
+      "tail": "time to reflect on patience",
+      "answer": "A"
+    },
+    {
+      "head": "tasting something sweet",
+      "relation": "has subevent",
+      "tail": "your mouth secretes saliva",
+      "answer": "A"
+    },
+    {
+      "head": "killing",
+      "relation": "has subevent",
+      "tail": "getting hurt",
+      "answer": "B"
+    },
+    {
+      "head": "remembering",
+      "relation": "has subevent",
+      "tail": "you'll start laughing",
+      "answer": "A"
+    },
+    {
+      "head": "hear singing",
+      "relation": "has subevent",
+      "tail": "you put cotton in your ears",
+      "answer": "A"
+    },
+    {
+      "head": "cleaning your room",
+      "relation": "has subevent",
+      "tail": "vacuum",
+      "answer": "A"
+    },
+    {
+      "head": "keeping things orderly and tidy",
+      "relation": "has subevent",
+      "tail": "finding dust in unexpected places",
+      "answer": "A"
+    },
+    {
+      "head": "attending class",
+      "relation": "has subevent",
+      "tail": "curry favor",
+      "answer": "B"
+    },
+    {
+      "head": "go for a drive",
+      "relation": "has subevent",
+      "tail": "you feel free",
+      "answer": "B"
+    },
+    {
+      "head": "putting on the stand",
+      "relation": "has subevent",
+      "tail": "asking questions",
+      "answer": "A"
+    },
+    {
+      "head": "debating politics",
+      "relation": "has subevent",
+      "tail": "raise your voice",
+      "answer": "B"
+    },
+    {
+      "head": "open a business",
+      "relation": "has subevent",
+      "tail": "obtain a business lisence",
+      "answer": "B"
+    },
+    {
+      "head": "hearing singing",
+      "relation": "has subevent",
+      "tail": "listen carefully",
+      "answer": "A"
+    },
+    {
+      "head": "tape a television show",
+      "relation": "has subevent",
+      "tail": "watching the television show later",
+      "answer": "B"
+    },
+    {
+      "head": "watching TV",
+      "relation": "has subevent",
+      "tail": "nibble",
+      "answer": "B"
+    },
+    {
+      "head": "talking with someone far away",
+      "relation": "has subevent",
+      "tail": "you yell",
+      "answer": "B"
+    },
+    {
+      "head": "giving assistance",
+      "relation": "has subevent",
+      "tail": "receiving thanks",
+      "answer": "A"
+    },
+    {
+      "head": "seeing art",
+      "relation": "has subevent",
+      "tail": "sit back and relax",
+      "answer": "B"
+    },
+    {
+      "head": "improving yourself",
+      "relation": "has subevent",
+      "tail": "make new friends",
+      "answer": "A"
+    },
+    {
+      "head": "study",
+      "relation": "has subevent",
+      "tail": "absorb information",
+      "answer": "B"
+    },
+    {
+      "head": "hiking",
+      "relation": "has subevent",
+      "tail": "getting bitten by mosquitoes",
+      "answer": "B"
+    },
+    {
+      "head": "convicting a suspect for a crime",
+      "relation": "has subevent",
+      "tail": "he will go on trial",
+      "answer": "B"
+    },
+    {
+      "head": "teach other people",
+      "relation": "has subevent",
+      "tail": "they learn new things",
+      "answer": "B"
+    },
+    {
+      "head": "following a recipe",
+      "relation": "has subevent",
+      "tail": "drink wine",
+      "answer": "A"
+    },
+    {
+      "head": "people are tired",
+      "relation": "has subevent",
+      "tail": "they go to sleep",
+      "answer": "B"
+    },
+    {
+      "head": "become a scuba diver",
+      "relation": "has subevent",
+      "tail": "going under the water",
+      "answer": "A"
+    },
+    {
+      "head": "sounds come out of a clarinet",
+      "relation": "has subevent",
+      "tail": "you play this instrument",
+      "answer": "B"
+    },
+    {
+      "head": "ride a bicycle",
+      "relation": "has subevent",
+      "tail": "crash into a car",
+      "answer": "B"
+    },
+    {
+      "head": "going to work",
+      "relation": "has subevent",
+      "tail": "meeting an old friend",
+      "answer": "A"
+    },
+    {
+      "head": "skateboard",
+      "relation": "has subevent",
+      "tail": "ollie",
+      "answer": "B"
+    },
+    {
+      "head": "fighting the enemy",
+      "relation": "has subevent",
+      "tail": "taking and inflicting casualties",
+      "answer": "B"
+    },
+    {
+      "head": "surprising someone",
+      "relation": "has subevent",
+      "tail": "a scream",
+      "answer": "B"
+    },
+    {
+      "head": "catching mumps",
+      "relation": "has subevent",
+      "tail": "feeling ill",
+      "answer": "B"
+    },
+    {
+      "head": "stopping being married to someone",
+      "relation": "has subevent",
+      "tail": "beeing lonely",
+      "answer": "A"
+    },
+    {
+      "head": "passing a class",
+      "relation": "has subevent",
+      "tail": "study",
+      "answer": "B"
+    },
+    {
+      "head": "using a computer",
+      "relation": "has subevent",
+      "tail": "copy and paste",
+      "answer": "A"
+    },
+    {
+      "head": "going for a walk",
+      "relation": "has subevent",
+      "tail": "wear clothes",
+      "answer": "B"
+    },
+    {
+      "head": "swimming",
+      "relation": "has subevent",
+      "tail": "kick",
+      "answer": "A"
+    },
+    {
+      "head": "learn something new",
+      "relation": "has subevent",
+      "tail": "try to remember what you learn",
+      "answer": "B"
+    },
+    {
+      "head": "creating art",
+      "relation": "has subevent",
+      "tail": "ponder",
+      "answer": "B"
+    },
+    {
+      "head": "dressing nice",
+      "relation": "has subevent",
+      "tail": "wear clothes",
+      "answer": "B"
+    },
+    {
+      "head": "buying something",
+      "relation": "has subevent",
+      "tail": "check it for quality",
+      "answer": "A"
+    },
+    {
+      "head": "burying the cat",
+      "relation": "has subevent",
+      "tail": "digging a hole",
+      "answer": "A"
+    },
+    {
+      "head": "going jogging",
+      "relation": "has subevent",
+      "tail": "tripping on a tree root",
+      "answer": "A"
+    },
+    {
+      "head": "play poker",
+      "relation": "has subevent",
+      "tail": "play in late position",
+      "answer": "B"
+    },
+    {
+      "head": "create something to help other people",
+      "relation": "has subevent",
+      "tail": "satisfaction",
+      "answer": "A"
+    },
+    {
+      "head": "committing murder",
+      "relation": "has subevent",
+      "tail": "regret it",
+      "answer": "B"
+    },
+    {
+      "head": "forgive someone",
+      "relation": "has subevent",
+      "tail": "stop feeling resentful",
+      "answer": "A"
+    },
+    {
+      "head": "reach an impasse",
+      "relation": "has subevent",
+      "tail": "disagree with someone",
+      "answer": "B"
+    },
+    {
+      "head": "doing some exercises",
+      "relation": "has subevent",
+      "tail": "you move your body",
+      "answer": "A"
+    },
+    {
+      "head": "judging someone",
+      "relation": "has subevent",
+      "tail": "we accuse the innocent",
+      "answer": "A"
+    },
+    {
+      "head": "obstructing justice",
+      "relation": "has subevent",
+      "tail": "tampering with evidence",
+      "answer": "B"
+    },
+    {
+      "head": "hike",
+      "relation": "has subevent",
+      "tail": "walk",
+      "answer": "A"
+    },
+    {
+      "head": "talking",
+      "relation": "has subevent",
+      "tail": "open an close your mouth",
+      "answer": "B"
+    },
+    {
+      "head": "watch television",
+      "relation": "has subevent",
+      "tail": "be entertained",
+      "answer": "B"
+    },
+    {
+      "head": "urinate",
+      "relation": "has subevent",
+      "tail": "your bladder is emptied",
+      "answer": "B"
+    },
+    {
+      "head": "reaching an impasse",
+      "relation": "has subevent",
+      "tail": "issue an ultimatum",
+      "answer": "A"
+    },
+    {
+      "head": "listening to the radio",
+      "relation": "has subevent",
+      "tail": "the battery dies",
+      "answer": "B"
+    },
+    {
+      "head": "seeing your favorite show",
+      "relation": "has subevent",
+      "tail": "eat a sandwich",
+      "answer": "A"
+    },
+    {
+      "head": "watch a movie",
+      "relation": "has subevent",
+      "tail": "entertainment",
+      "answer": "A"
+    },
+    {
+      "head": "waiting tables",
+      "relation": "has subevent",
+      "tail": "a good tip",
+      "answer": "A"
+    }
+  ],
+  "made of": [
+    {
+      "head": "an egalitarian society.",
+      "relation": "made of",
+      "tail": "people",
+      "answer": "A"
+    },
+    {
+      "head": "soccer ball",
+      "relation": "made of",
+      "tail": "leather",
+      "answer": "B"
+    },
+    {
+      "head": "chopsticks",
+      "relation": "made of",
+      "tail": "bamboo",
+      "answer": "B"
+    },
+    {
+      "head": "An U.F.O,",
+      "relation": "made of",
+      "tail": "alien material",
+      "answer": "A"
+    },
+    {
+      "head": "sky",
+      "relation": "made of",
+      "tail": "gases",
+      "answer": "A"
+    },
+    {
+      "head": "many containers",
+      "relation": "made of",
+      "tail": "glass",
+      "answer": "B"
+    },
+    {
+      "head": "A bath tub",
+      "relation": "made of",
+      "tail": "iron and coated with porcelain",
+      "answer": "B"
+    },
+    {
+      "head": "The President",
+      "relation": "made of",
+      "tail": "substance dumb.",
+      "answer": "A"
+    },
+    {
+      "head": "house",
+      "relation": "made of",
+      "tail": "rooms",
+      "answer": "A"
+    },
+    {
+      "head": "A T-shirt ",
+      "relation": "made of",
+      "tail": "cloth and fabric",
+      "answer": "B"
+    },
+    {
+      "head": "A table ",
+      "relation": "made of",
+      "tail": "soft material",
+      "answer": "B"
+    },
+    {
+      "head": "An index card",
+      "relation": "made of",
+      "tail": "paper",
+      "answer": "A"
+    },
+    {
+      "head": "political ideology",
+      "relation": "made of",
+      "tail": "political ideals",
+      "answer": "A"
+    },
+    {
+      "head": "A post-it note",
+      "relation": "made of",
+      "tail": "paper",
+      "answer": "A"
+    },
+    {
+      "head": "a plate",
+      "relation": "made of",
+      "tail": "ceramic",
+      "answer": "B"
+    },
+    {
+      "head": "a bowl",
+      "relation": "made of",
+      "tail": "steel",
+      "answer": "A"
+    },
+    {
+      "head": "A set",
+      "relation": "made of",
+      "tail": "elements",
+      "answer": "B"
+    },
+    {
+      "head": "mankind",
+      "relation": "made of",
+      "tail": "humanity",
+      "answer": "B"
+    },
+    {
+      "head": "Golem",
+      "relation": "made of",
+      "tail": "clay",
+      "answer": "B"
+    },
+    {
+      "head": "A container",
+      "relation": "made of",
+      "tail": "metal",
+      "answer": "A"
+    },
+    {
+      "head": "teddy bears",
+      "relation": "made of",
+      "tail": "plush",
+      "answer": "B"
+    },
+    {
+      "head": "cheese",
+      "relation": "made of",
+      "tail": "fermented milk and bacteria`",
+      "answer": "A"
+    },
+    {
+      "head": "horse shoes used for the game",
+      "relation": "made of",
+      "tail": "plastic",
+      "answer": "A"
+    },
+    {
+      "head": "An atom",
+      "relation": "made of",
+      "tail": "subatomic particles",
+      "answer": "B"
+    },
+    {
+      "head": "bomb",
+      "relation": "made of",
+      "tail": "explosives",
+      "answer": "A"
+    },
+    {
+      "head": "pee",
+      "relation": "made of",
+      "tail": "water",
+      "answer": "B"
+    },
+    {
+      "head": "Internet",
+      "relation": "made of",
+      "tail": "tu hermana en bolas",
+      "answer": "A"
+    },
+    {
+      "head": "cotton candy",
+      "relation": "made of",
+      "tail": "sugar",
+      "answer": "B"
+    },
+    {
+      "head": "a hat",
+      "relation": "made of",
+      "tail": "cotton",
+      "answer": "A"
+    },
+    {
+      "head": "butter",
+      "relation": "made of",
+      "tail": "milk",
+      "answer": "B"
+    },
+    {
+      "head": "the heart",
+      "relation": "made of",
+      "tail": "muscles",
+      "answer": "A"
+    },
+    {
+      "head": "a house",
+      "relation": "made of",
+      "tail": "metal",
+      "answer": "A"
+    },
+    {
+      "head": "Ice",
+      "relation": "made of",
+      "tail": "water",
+      "answer": "B"
+    },
+    {
+      "head": "a passageway",
+      "relation": "made of",
+      "tail": "space",
+      "answer": "B"
+    },
+    {
+      "head": "A duvet",
+      "relation": "made of",
+      "tail": "cotton",
+      "answer": "B"
+    },
+    {
+      "head": "adenozine",
+      "relation": "made of",
+      "tail": "hydrogen",
+      "answer": "A"
+    },
+    {
+      "head": "manmeat",
+      "relation": "made of",
+      "tail": "human meat",
+      "answer": "B"
+    },
+    {
+      "head": "Doormats",
+      "relation": "made of",
+      "tail": "atoms",
+      "answer": "A"
+    },
+    {
+      "head": "cup cakes ",
+      "relation": "made of",
+      "tail": "ingredients",
+      "answer": "A"
+    },
+    {
+      "head": "a kitten",
+      "relation": "made of",
+      "tail": "flesh",
+      "answer": "A"
+    },
+    {
+      "head": "floor",
+      "relation": "made of",
+      "tail": "wood",
+      "answer": "A"
+    },
+    {
+      "head": "cola",
+      "relation": "made of",
+      "tail": "carbonated water",
+      "answer": "B"
+    },
+    {
+      "head": "ball",
+      "relation": "made of",
+      "tail": "plastic",
+      "answer": "B"
+    },
+    {
+      "head": "Some cupboards",
+      "relation": "made of",
+      "tail": "wood",
+      "answer": "B"
+    },
+    {
+      "head": "asphalt",
+      "relation": "made of",
+      "tail": "tar",
+      "answer": "A"
+    },
+    {
+      "head": "plastic",
+      "relation": "made of",
+      "tail": "carbon",
+      "answer": "A"
+    },
+    {
+      "head": "inductor",
+      "relation": "made of",
+      "tail": "coiled wire",
+      "answer": "A"
+    },
+    {
+      "head": "A Panda",
+      "relation": "made of",
+      "tail": "cells",
+      "answer": "A"
+    },
+    {
+      "head": "atom",
+      "relation": "made of",
+      "tail": "electrons",
+      "answer": "A"
+    },
+    {
+      "head": "a life ring",
+      "relation": "made of",
+      "tail": "rubber",
+      "answer": "B"
+    },
+    {
+      "head": "A boob",
+      "relation": "made of",
+      "tail": "soft tissue",
+      "answer": "A"
+    },
+    {
+      "head": "crowd",
+      "relation": "made of",
+      "tail": "people",
+      "answer": "A"
+    },
+    {
+      "head": "Sometimes wire",
+      "relation": "made of",
+      "tail": "iron",
+      "answer": "B"
+    },
+    {
+      "head": "wood",
+      "relation": "made of",
+      "tail": "tree",
+      "answer": "B"
+    },
+    {
+      "head": "computer",
+      "relation": "made of",
+      "tail": "hardware",
+      "answer": "B"
+    },
+    {
+      "head": "bread",
+      "relation": "made of",
+      "tail": "wheat",
+      "answer": "B"
+    },
+    {
+      "head": "A tree",
+      "relation": "made of",
+      "tail": "wood",
+      "answer": "B"
+    },
+    {
+      "head": "talbe",
+      "relation": "made of",
+      "tail": "tree",
+      "answer": "B"
+    },
+    {
+      "head": "political ideology",
+      "relation": "made of",
+      "tail": "ideals",
+      "answer": "B"
+    },
+    {
+      "head": "a week",
+      "relation": "made of",
+      "tail": "seven days",
+      "answer": "A"
+    },
+    {
+      "head": "Coat hangers",
+      "relation": "made of",
+      "tail": "wood or metal or plastic",
+      "answer": "A"
+    },
+    {
+      "head": "tea bag",
+      "relation": "made of",
+      "tail": "tea",
+      "answer": "B"
+    },
+    {
+      "head": "wallet",
+      "relation": "made of",
+      "tail": "plastic",
+      "answer": "A"
+    },
+    {
+      "head": "human",
+      "relation": "made of",
+      "tail": "bones",
+      "answer": "A"
+    },
+    {
+      "head": "blood",
+      "relation": "made of",
+      "tail": "haemoglobin",
+      "answer": "A"
+    },
+    {
+      "head": "wind",
+      "relation": "made of",
+      "tail": "moving air",
+      "answer": "A"
+    },
+    {
+      "head": "Mozart music ",
+      "relation": "made of",
+      "tail": "musical composition",
+      "answer": "A"
+    },
+    {
+      "head": "tire",
+      "relation": "made of",
+      "tail": "rubber and latex",
+      "answer": "B"
+    },
+    {
+      "head": "Baryonic matter",
+      "relation": "made of",
+      "tail": "quarks and gluons",
+      "answer": "B"
+    },
+    {
+      "head": "a tricycle",
+      "relation": "made of",
+      "tail": "steel",
+      "answer": "A"
+    },
+    {
+      "head": "Some ships",
+      "relation": "made of",
+      "tail": "wood",
+      "answer": "A"
+    },
+    {
+      "head": "A stage curtain",
+      "relation": "made of",
+      "tail": "velvet",
+      "answer": "B"
+    },
+    {
+      "head": "a coat",
+      "relation": "made of",
+      "tail": "wool",
+      "answer": "A"
+    },
+    {
+      "head": "U.F.O.'s",
+      "relation": "made of",
+      "tail": "alien material",
+      "answer": "B"
+    },
+    {
+      "head": "cake",
+      "relation": "made of",
+      "tail": "flour",
+      "answer": "A"
+    },
+    {
+      "head": "Car",
+      "relation": "made of",
+      "tail": "Metal",
+      "answer": "A"
+    },
+    {
+      "head": "a pair of scissors",
+      "relation": "made of",
+      "tail": "steel",
+      "answer": "B"
+    },
+    {
+      "head": "some bridges",
+      "relation": "made of",
+      "tail": "wood",
+      "answer": "B"
+    },
+    {
+      "head": "a machine gun",
+      "relation": "made of",
+      "tail": "metal",
+      "answer": "B"
+    },
+    {
+      "head": "paper",
+      "relation": "made of",
+      "tail": "cellulose",
+      "answer": "A"
+    }
+  ],
+  "used for": [
+    {
+      "head": "writing a letter",
+      "relation": "used for",
+      "tail": "communicating",
+      "answer": "A"
+    },
+    {
+      "head": "tasting something sweet",
+      "relation": "used for",
+      "tail": "enjoying candy",
+      "answer": "B"
+    },
+    {
+      "head": "killing",
+      "relation": "used for",
+      "tail": "hurting others",
+      "answer": "A"
+    },
+    {
+      "head": "scoring a homer",
+      "relation": "used for",
+      "tail": "getting popular",
+      "answer": "A"
+    },
+    {
+      "head": "stopping your car",
+      "relation": "used for",
+      "tail": "stopping for a traffic light",
+      "answer": "B"
+    },
+    {
+      "head": "remembering",
+      "relation": "used for",
+      "tail": "preserving history",
+      "answer": "B"
+    },
+    {
+      "head": "a classroom",
+      "relation": "used for",
+      "tail": "learn a subject",
+      "answer": "B"
+    },
+    {
+      "head": "communicating",
+      "relation": "used for",
+      "tail": "negotiation",
+      "answer": "A"
+    },
+    {
+      "head": "a tower",
+      "relation": "used for",
+      "tail": "containing offices",
+      "answer": "B"
+    },
+    {
+      "head": "getting something",
+      "relation": "used for",
+      "tail": "acquiring it",
+      "answer": "A"
+    },
+    {
+      "head": "remembering something",
+      "relation": "used for",
+      "tail": "knowing",
+      "answer": "B"
+    },
+    {
+      "head": "A scalpel",
+      "relation": "used for",
+      "tail": "cutting flesh",
+      "answer": "A"
+    },
+    {
+      "head": "going fishing",
+      "relation": "used for",
+      "tail": "recreation",
+      "answer": "A"
+    },
+    {
+      "head": "procreating",
+      "relation": "used for",
+      "tail": "making more people",
+      "answer": "A"
+    },
+    {
+      "head": "a mandolin",
+      "relation": "used for",
+      "tail": "music",
+      "answer": "B"
+    },
+    {
+      "head": "scoring a home run",
+      "relation": "used for",
+      "tail": "improving your statistics",
+      "answer": "A"
+    },
+    {
+      "head": "playing frisbee",
+      "relation": "used for",
+      "tail": "friends",
+      "answer": "A"
+    },
+    {
+      "head": "a pub",
+      "relation": "used for",
+      "tail": "playing darts",
+      "answer": "B"
+    },
+    {
+      "head": "a child",
+      "relation": "used for",
+      "tail": "playing ball",
+      "answer": "B"
+    },
+    {
+      "head": "a ledger",
+      "relation": "used for",
+      "tail": "calculate expenses",
+      "answer": "A"
+    },
+    {
+      "head": "recording something",
+      "relation": "used for",
+      "tail": "documenting the specifics of a contract",
+      "answer": "B"
+    },
+    {
+      "head": "a ledger",
+      "relation": "used for",
+      "tail": "accounts",
+      "answer": "B"
+    },
+    {
+      "head": "a hairpin",
+      "relation": "used for",
+      "tail": "holding hair up",
+      "answer": "B"
+    },
+    {
+      "head": "a paper bill",
+      "relation": "used for",
+      "tail": "legal tender",
+      "answer": "B"
+    },
+    {
+      "head": "doing some exercises",
+      "relation": "used for",
+      "tail": "metabolizing fat",
+      "answer": "A"
+    },
+    {
+      "head": "a silicone",
+      "relation": "used for",
+      "tail": "lubrication of some materials",
+      "answer": "B"
+    },
+    {
+      "head": "buying food",
+      "relation": "used for",
+      "tail": "preparing a meal",
+      "answer": "B"
+    },
+    {
+      "head": "a cheque",
+      "relation": "used for",
+      "tail": "ok charges to your account",
+      "answer": "A"
+    },
+    {
+      "head": "a cellar",
+      "relation": "used for",
+      "tail": "store junk",
+      "answer": "B"
+    },
+    {
+      "head": "a chess queen",
+      "relation": "used for",
+      "tail": "blocking",
+      "answer": "A"
+    },
+    {
+      "head": "a restaurant",
+      "relation": "used for",
+      "tail": "eating while on a trip",
+      "answer": "B"
+    },
+    {
+      "head": "a church",
+      "relation": "used for",
+      "tail": "being close to God",
+      "answer": "A"
+    },
+    {
+      "head": "painting a picture",
+      "relation": "used for",
+      "tail": "illustrating a convept",
+      "answer": "B"
+    },
+    {
+      "head": "a cover",
+      "relation": "used for",
+      "tail": "protecting things",
+      "answer": "B"
+    },
+    {
+      "head": "traveling",
+      "relation": "used for",
+      "tail": "exploring",
+      "answer": "A"
+    },
+    {
+      "head": "bringing in a verdict",
+      "relation": "used for",
+      "tail": "settling a dispute",
+      "answer": "A"
+    },
+    {
+      "head": "a weapon",
+      "relation": "used for",
+      "tail": "killing others",
+      "answer": "B"
+    },
+    {
+      "head": "a typewriter key",
+      "relation": "used for",
+      "tail": "print a symbol on paper",
+      "answer": "B"
+    },
+    {
+      "head": "a typewriter key",
+      "relation": "used for",
+      "tail": "type a letter, symbol or number",
+      "answer": "B"
+    },
+    {
+      "head": "a machine",
+      "relation": "used for",
+      "tail": "clean sonically",
+      "answer": "A"
+    },
+    {
+      "head": "convicting a suspect for a crime",
+      "relation": "used for",
+      "tail": "punishing criminals",
+      "answer": "B"
+    },
+    {
+      "head": "a pouch",
+      "relation": "used for",
+      "tail": "carrying things on your person",
+      "answer": "A"
+    },
+    {
+      "head": "mouse",
+      "relation": "used for",
+      "tail": "computer input",
+      "answer": "A"
+    },
+    {
+      "head": "reading a book",
+      "relation": "used for",
+      "tail": "relaxation",
+      "answer": "B"
+    },
+    {
+      "head": "a bookend",
+      "relation": "used for",
+      "tail": "holding books in place",
+      "answer": "B"
+    },
+    {
+      "head": "an isle",
+      "relation": "used for",
+      "tail": "fishing",
+      "answer": "B"
+    },
+    {
+      "head": "a yard",
+      "relation": "used for",
+      "tail": "hold in chickens",
+      "answer": "A"
+    },
+    {
+      "head": "an LED",
+      "relation": "used for",
+      "tail": "make brake lights",
+      "answer": "A"
+    },
+    {
+      "head": "a monument",
+      "relation": "used for",
+      "tail": "mark a grave",
+      "answer": "B"
+    },
+    {
+      "head": "clippers",
+      "relation": "used for",
+      "tail": "prunning hedges",
+      "answer": "B"
+    },
+    {
+      "head": "walking in the rain",
+      "relation": "used for",
+      "tail": "when you have no car",
+      "answer": "B"
+    },
+    {
+      "head": "a stranger",
+      "relation": "used for",
+      "tail": "avoiding",
+      "answer": "B"
+    },
+    {
+      "head": "a garment bag",
+      "relation": "used for",
+      "tail": "store dresses",
+      "answer": "B"
+    },
+    {
+      "head": "a door",
+      "relation": "used for",
+      "tail": "enter a room",
+      "answer": "B"
+    },
+    {
+      "head": "snoring",
+      "relation": "used for",
+      "tail": "keeping others awake",
+      "answer": "A"
+    },
+    {
+      "head": "giving a clue",
+      "relation": "used for",
+      "tail": "facilitating insight",
+      "answer": "B"
+    },
+    {
+      "head": "a coast",
+      "relation": "used for",
+      "tail": "pirating",
+      "answer": "A"
+    },
+    {
+      "head": "a mitt",
+      "relation": "used for",
+      "tail": "catching",
+      "answer": "B"
+    },
+    {
+      "head": "traveling",
+      "relation": "used for",
+      "tail": "conducting business",
+      "answer": "B"
+    },
+    {
+      "head": "opening a gift",
+      "relation": "used for",
+      "tail": "getting something new",
+      "answer": "B"
+    },
+    {
+      "head": "competing",
+      "relation": "used for",
+      "tail": "fun or money or title",
+      "answer": "B"
+    },
+    {
+      "head": "a hose",
+      "relation": "used for",
+      "tail": "putting out a fire",
+      "answer": "A"
+    },
+    {
+      "head": "a wagon",
+      "relation": "used for",
+      "tail": "carrying the dog",
+      "answer": "B"
+    },
+    {
+      "head": "a glass of milk",
+      "relation": "used for",
+      "tail": "drinking",
+      "answer": "B"
+    },
+    {
+      "head": "relaxing",
+      "relation": "used for",
+      "tail": "reducing stress",
+      "answer": "A"
+    },
+    {
+      "head": "tying your shoelace",
+      "relation": "used for",
+      "tail": "preventing yourself from tripping",
+      "answer": "B"
+    },
+    {
+      "head": "traveling around the world",
+      "relation": "used for",
+      "tail": "meeting interesting people",
+      "answer": "A"
+    },
+    {
+      "head": "a baseball",
+      "relation": "used for",
+      "tail": "games",
+      "answer": "A"
+    },
+    {
+      "head": "having a rest",
+      "relation": "used for",
+      "tail": "doing something different",
+      "answer": "A"
+    },
+    {
+      "head": "a bass baritone",
+      "relation": "used for",
+      "tail": "bludgeon someone to death",
+      "answer": "A"
+    },
+    {
+      "head": "an explosive",
+      "relation": "used for",
+      "tail": "kill",
+      "answer": "A"
+    },
+    {
+      "head": "a heater",
+      "relation": "used for",
+      "tail": "warming a car",
+      "answer": "A"
+    },
+    {
+      "head": "learning",
+      "relation": "used for",
+      "tail": "acquiring knowledge",
+      "answer": "A"
+    },
+    {
+      "head": "a map",
+      "relation": "used for",
+      "tail": "locate a place",
+      "answer": "B"
+    },
+    {
+      "head": "money ",
+      "relation": "used for",
+      "tail": "buying stuff",
+      "answer": "A"
+    },
+    {
+      "head": "an aisle",
+      "relation": "used for",
+      "tail": "push a cart",
+      "answer": "B"
+    },
+    {
+      "head": "an expressway",
+      "relation": "used for",
+      "tail": "travel faster",
+      "answer": "B"
+    },
+    {
+      "head": "a desk drawer",
+      "relation": "used for",
+      "tail": "stationary",
+      "answer": "A"
+    },
+    {
+      "head": "using a computer",
+      "relation": "used for",
+      "tail": "working",
+      "answer": "B"
+    }
+  ]
+}
