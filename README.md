@@ -24,14 +24,14 @@
 🤖ConvRe🤯 is the benchmark proposed in our EMNLP 2023 paper: [An Investigation of LLMs’ Inefficacy in Understanding Converse Relations](). 
 It aims to evaluate LLMs' ability on understanding converse relations.
 Converse relation is defined as the opposite of semantic relation while keeping the surface form of the triple unchanged.
-For example, the triple (x, has part, y) is interpreted as "x has a part called y" in normal relation, while "y has a part called x" in converse relation.
+For example, the triple (x, has part, y) is interpreted as "x has a part called y" in normal relation, while "y has a part called x" in converse relation🔁.
 
 The experiments in our paper suggested that LLMs often resort to shortcut learning and still face challenges on our 🤖ConvRe🤯 benchmark even for powerful models like GPT-4.
 
 *Read this in [中文](README_ZH.md).*
 
 ## 🍇 What's New
-- **[2023/10/08]** **ConvRe** benchmark is released.
+- **[2023/10/08]** **ConvRe** benchmark is released🌟.
 
 
 ## 🥝 Data
@@ -98,20 +98,20 @@ The models listed below are tested and can be run directly using the script in I
 - [ ] llama-2-13b-chat-hf
 
 ## 🍑 Inference with huggingface dataset
-We provide a convenient way to run the experiments and there are only three parameters you need to decide:
+We provide a convenient way to run the experiments🤗 and there are only 3️⃣ parameters you need to decide:
 - `model_name`: the name of the large language model you want to use, see our [supported model list](#supported-models).
 - `task`: the subtask of ConvRe benchmark: `text2re` or `re2text`.
 - `settings`: prompt setting for current run (prompt1-prompt 12), please refer to our paper(LINK) for more details of each setting.
 
 **Example**
 
-If you want to run `prompt4` of `re2text` task on `text-davinci-003`, run this script
+If you want to run `prompt4` of `re2text` task on `text-davinci-003`, run this script👇
 ```bash
 python3 main_hf.py --model_name text-davinci-003 --task re2text --settings prompt4
 ```
 
 ## 🍉 Inference in a more flexible way
-We also provide a more flexible way to run the experiments. There are XX parameters you need to decide.
+We also provide a more flexible way to run the experiments. There are 8️⃣ parameters you need to decide.
 - `model_name`: the name of the large language model you want to use, see our [supported model list](#supported-models).
 - `task`: the subtask of ConvRe benchmark: `text2re` or `re2text`.
 - `data_dir`: The directory where the dataset stored.
@@ -146,13 +146,17 @@ The parameter settings for each of the 12 prompt used in our paper is listed bel
 
 **Example**
 
-If you want to run `prompt3` of `text2re` task on `gpt-3.5-turbo-0301`, run this script
+If you want to run `prompt3` of `text2re` task on `gpt-3.5-turbo-0301`, run this script👇
 ```bash
 python3 main.py --model_name gpt-3.5-turbo-0301 --task text2re --data_dir Datasets --prompt normal --relation converse --n_shot 0 --example_type regular --text_type hard
 ```
 
 
 ## 🍈 Evaluation
-
+There are 3️⃣ parameters need to be decided when running the evaluation script.
+- `file_path`: The `path` of the result file📁.
+- `model_family`: The model family of the result file, used to choose the corresponding evaluator👨‍👩‍👧‍👦. You should choose from `flan-t5`, `claude`, `gpt-text`, `gpt-chat`, `llama2`.
+- `mode`: We provide two evaluation mode: `paper` and `leaderboard`. `paper` mode will raise errors if the answer of the model isn't consistent with what we want. In this case, you should decide the model's answer manually according its content. 
+`leaderboard` mode will just ignore the inconsistent answers. The performance calculated under `leaderboard` mode may be lower than `paper` mode, but it's very convenient and doesn't need any human support. **What's more, the ability to align with user's request is also a very important indicator of LLMs' capability⚖️.**
 
 ## 🍓 Citation
