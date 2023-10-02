@@ -24,9 +24,9 @@
 🤖ConvRe🤯 is the benchmark proposed in our EMNLP 2023 paper: [An Investigation of LLMs’ Inefficacy in Understanding Converse Relations](). 
 It aims to evaluate LLMs' ability on understanding converse relations.
 Converse relation is defined as the opposite of semantic relation while keeping the surface form of the triple unchanged.
-For example, the triple (x, has part, y) is interpreted as "x has a part called y" in normal relation, while "y has a part called x" in converse relation🔁.
+For example, the triple (x, has part, y) is interpreted as "x has a part called y" in normal relation, while "y has a part called x" in converse relation 🔁.
 
-The experiments in our paper suggested that LLMs often resort to shortcut learning and still face challenges on our 🤖ConvRe🤯 benchmark even for powerful models like GPT-4.
+The experiments in our paper suggested that LLMs often resort to shortcut learning (or superficial correlations) and still face challenges on our 🤖ConvRe🤯 benchmark even for powerful models like GPT-4.
 
 *Read this in [中文](README_ZH.md).*
 
@@ -37,9 +37,9 @@ The experiments in our paper suggested that LLMs often resort to shortcut learni
 ## 🥝 Data
 
 ConvRe benchmark is composed of 17 relations and 1240 triples from five widely used knowledge graph datasets: [WN18RR](https://arxiv.org/abs/1707.01476), [FB15K-237](https://aclanthology.org/W15-4007/), [NELL-ONE](https://arxiv.org/abs/1808.09040), [Wikidata5M](https://arxiv.org/abs/1911.06136), [ICEWS14](https://arxiv.org/abs/1809.03202), [ConceptNet5](https://arxiv.org/abs/1612.03975).
-The detailed number of each relation in the benchmark is listed below.
+The detailed number of triples for each relation in the benchmark is listed below.
 
-| Relation                                       | Number | Source                |
+| Relation                                       | # Triples | Source                |
 |:----------------------------------------------:|:------:|:---------------------:|
 | hypernym                                       | 80     | WN18RR                |
 | has part                                       | 78     | WN18RR                |
@@ -96,32 +96,33 @@ The models listed below are tested and can be run directly using the script in I
 **LLAMA2 CHAT MODELS**
 - [ ] llama-2-7b-chat-hf
 - [ ] llama-2-13b-chat-hf
+- [ ] llama-2-70b-chat-hf
 
 ## 🍑 Inference with huggingface dataset
-We provide a convenient way to run the experiments🤗 and there are only 3️⃣ parameters you need to decide:
-- `model_name`: the name of the large language model you want to use, see our [supported model list](#supported-models).
+Our benchmark is available on Huggingface 🤗 ([link](LINK)). You can easily run the inference by using `main_hf.py` and specifying the following three arguments.
+- `model_name`: the name of the large language model, see our [supported model list](#supported-models).
 - `task`: the subtask of ConvRe benchmark: `text2re` or `re2text`.
-- `settings`: prompt setting for current run (prompt1-prompt 12), please refer to our paper(LINK) for more details of each setting.
+- `setting`: prompt setting for current run (prompt1-prompt 12), please refer to our paper(LINK) for more details of each setting.
 
 **Example**
 
-If you want to run `prompt4` of `re2text` task on `text-davinci-003`, run this script👇
+Here is the script to run `prompt4` of `re2text` task on `text-davinci-003` 👇
 ```bash
 python3 main_hf.py --model_name text-davinci-003 --task re2text --settings prompt4
 ```
 
 ## 🍉 Inference in a more flexible way
-We also provide a more flexible way to run the experiments. There are 8️⃣ parameters you need to decide.
+We also provide a more flexible way to run the experiments. There are ️eight arguments you need to specify.
 - `model_name`: the name of the large language model you want to use, see our [supported model list](#supported-models).
 - `task`: the subtask of ConvRe benchmark: `text2re` or `re2text`.
 - `data_dir`: The directory where the dataset stored.
 - `prompt`: The type of prompt to use in the experiment: `normal`, `hint` or `hint+cot`.
-- `relation`: The kind of relation to use in the experiment: `normal` for normal relation and `converse` for converse relation.
+- `relation`: The relation type to use in the experiment: `normal` for normal relation and `converse` for converse relation.
 - `n_shot`: Few-shot numbers, choose a number in [0, 1, 2, 3, 4, 5, 6].
 - `example_type`: The type of few-shot examples, `hard` or `regular`.
-- `text_type`: The type of text to use in the experiment, `regulat` or `hard`.
+- `text_type`: The type of text to use in the experiment, `regular` or `hard`.
 
-The parameter settings for each of the 12 prompt used in our paper is listed below.
+The argument settings for each of the 12 prompt used in our paper is listed below.
 
 | Prompt ID  |  prompt  | relation | n_shot | example_type | text_type |
 |:----------:|:--------:|:--------:|:------:|:------------:|:---------:|
@@ -146,17 +147,18 @@ The parameter settings for each of the 12 prompt used in our paper is listed bel
 
 **Example**
 
-If you want to run `prompt3` of `text2re` task on `gpt-3.5-turbo-0301`, run this script👇
+Here is the script to run `prompt3` of `text2re` task on `gpt-3.5-turbo-0301` 👇
 ```bash
 python3 main.py --model_name gpt-3.5-turbo-0301 --task text2re --data_dir Datasets --prompt normal --relation converse --n_shot 0 --example_type regular --text_type hard
 ```
 
 
 ## 🍈 Evaluation
-There are 3️⃣ parameters need to be decided when running the evaluation script.
-- `file_path`: The `path` of the result file📁.
-- `model_family`: The model family of the result file, used to choose the corresponding evaluator👨‍👩‍👧‍👦. You should choose from `flan-t5`, `claude`, `gpt-text`, `gpt-chat`, `llama2`.
-- `mode`: We provide two evaluation mode: `paper` and `leaderboard`. `paper` mode will raise errors if the answer of the model isn't consistent with what we want. In this case, you should decide the model's answer manually according its content. 
-`leaderboard` mode will just ignore the inconsistent answers. The performance calculated under `leaderboard` mode may be lower than `paper` mode, but it's very convenient and doesn't need any human support. **What's more, the ability to align with user's request is also a very important indicator of LLMs' capability⚖️.**
+There are three arguments need to be specified when running the evaluation script.
+- `file_path`: The `path` of the result file 📁.
+- `model_family`: The model family of the result file, used to choose the corresponding evaluator. You should choose from `flan-t5`, `claude`, `gpt-text`, `gpt-chat`, `llama2`.
+- `mode`: We provide two evaluation mode: `strict` and `auto`. `strict` mode will raise errors if the answer of the model isn't consistent with what we want. In this case, you should check the model's answer manually. 
+`auto` mode will just ignore the inconsistent answers. The performance calculated under `auto` mode may be lower than `strict` mode, but it's very convenient and doesn't need any human support. **💡The ability to align with user's request is also a very important indicator of LLMs' capability.**
+
 
 ## 🍓 Citation
