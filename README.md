@@ -108,7 +108,7 @@ Our benchmark is available on Huggingface 🤗 ([link](LINK)). You can easily ru
 
 Here is the script to run `prompt4` of `re2text` task on `text-davinci-003` 👇
 ```bash
-python3 main_hf.py --model_name text-davinci-003 --task re2text --settings prompt4
+python3 main_hf.py --model_name text-davinci-003 --task re2text --setting prompt4
 ```
 
 ## 🍉 Inference in a more flexible way

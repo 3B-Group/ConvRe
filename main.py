@@ -5,8 +5,8 @@ import argparse
 
 import tqdm
 
-from Modules.data_processor import ConvReProcessor
-from Modules.llms_interface import LanguageModelInterface
+from utils.data_processor import ConvReProcessor
+from utils.llms_interface import LanguageModelInterface
 
 
 if __name__ == '__main__':

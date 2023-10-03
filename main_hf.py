@@ -6,7 +6,7 @@ import argparse
 import tqdm
 
 from datasets import load_dataset
-from Modules.llms_interface import LanguageModelInterface
+from utils.llms_interface import LanguageModelInterface
 
 
 if __name__ == '__main__':
@@ -15,7 +15,7 @@ if __name__ == '__main__':
     # Required parameters
     parser.add_argument("--model_name", type=str, required=True)
     parser.add_argument("--task", type=str, choices=['re2text', 'text2re'], required=True)
-    parser.add_argument("--settings", type=str, required=True)
+    parser.add_argument("--setting", type=str, required=True)
 
     # Default parameters
     parser.add_argument("--device", default="mps", type=str, choices=['cpu', 'cuda', 'mps'])
@@ -25,7 +25,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     # load dataset from huggingface
-    hf_dataset = load_dataset('3B-Group/ConvRe', f"en-{args.task}", token=True, split=args.settings)
+    hf_dataset = load_dataset('3B-Group/ConvRe', f"en-{args.task}", token=True, split=args.setting)
 
     # load model
     llms = LanguageModelInterface(args)
@@ -60,6 +60,6 @@ if __name__ == '__main__':
     # Save result
     if not os.path.exists(f"Results-{args.task.upper()}"):
         os.mkdir(f"Results-{args.task.upper()}")
-    with open(f"Results-{args.task.upper()}/{args.model_name}_{args.settings}.json", 'w') as f:
+    with open(f"Results-{args.task.upper()}/{args.model_name}_{args.setting}.json", 'w') as f:
         json_str = json.dumps(result_dic, indent=2)
         f.write(json_str)

@@ -1,0 +1,138 @@
+{
+  "hypernym": {
+    "normal": "(x, hypernym, y) indicates that y is the hypernym of x.",
+    "converse": "(x, hypernym, y) indicates that x is the hypernym of y.",
+    "normal-regular": "Find an entity so that [N] is the hypernym of it.",
+    "normal-hard": "Find an entity so that [N] is more general than it.",
+    "converse-regular": "Find an entity that is the hypernym of [N].",
+    "converse-hard": "Find an entity that is more general than [N]."
+  },
+  "has part": {
+    "normal": "(x, has part, y) indicates that x has a part called y.",
+    "converse": "(x, has part, y) indicates that y has a part called x.",
+    "normal-regular": "Find an entity that has a part called [N].",
+    "normal-hard": "Find an entity that possesses a specific component named [N].",
+    "converse-regular": "Find an entity that is a part of [N].",
+    "converse-hard": "Find an entity that [N] contains."
+  },
+  "organization , organization , child. , organization , organization relationship , child": {
+    "normal": "(x, child, y) indicates that y is the child company of x.",
+    "converse": "(x, child, y) indicates that x is the child company of y.",
+    "normal-regular": "Find a company so that [N] is the child company of it.",
+    "normal-hard": "Find a company that is the parent company of [N].",
+    "converse-regular": "Find a company that is the child company of [N].",
+    "converse-hard": "Find a company so that [N] is the parent company of it."
+  },
+  "location , location , partially contains": {
+    "normal": "(x, partially contains, y) indicates that x partially contains y.",
+    "converse": "(x, partially contains, y) indicates that y partially contains x.",
+    "normal-regular": "Find an entity that partially contains [N].",
+    "normal-hard": "Find an entity that contains a portion of [N].",
+    "converse-regular": "Find an entity that is partially contained by [N].",
+    "converse-hard": "Find an entity so that [N] contains a portion of it."
+  },
+  "athlete beat athlete": {
+    "normal": "(x, athlete beat athlete, y) indicates that x beats y.",
+    "converse": "(x, athlete beat athlete, y) indicates that y beats x.",
+    "normal-regular": "Find an entity that beats [N].",
+    "normal-hard": "Find an entity that defeats [N].",
+    "converse-regular": "Find an entity that is beaten by [N].",
+    "converse-hard": "Find an entity that is defeated by [N]."
+  },
+  "parent of": {
+    "normal": "(x, parent of, y) indicates that x is the parent of y.",
+    "converse": "(x, parent of, y) indicates that y is the parent of x.",
+    "normal-regular": "Find an entity that is the parent of [N].",
+    "normal-hard": "Find an entity whose child is [N].",
+    "converse-regular": "Find an entity that [N] is the parent of.",
+    "converse-hard": "Find an entity that is the child of [N]."
+  },
+  "consult": {
+    "normal": "(x, consult, y) indicates that x consults y.",
+    "converse": "(x, consult, y) indicates that y consults x.",
+    "normal-regular": "Find an entity that consults [N].",
+    "normal-hard": "Find an entity that seeks advice from [N].",
+    "converse-regular": "Find an entity that [N] consults.",
+    "converse-hard": "Find an entity that [N] seeks advice from."
+  },
+  "praise or endorse": {
+    "normal": "(x, praise or endorse, y) indicates that x praises or endorses y.",
+    "converse": "(x, praise or endorse, y) indicates that y praises or endorses x.",
+    "normal-regular": "Find an entity that praises or endorses [N].",
+    "normal-hard": "Find an entity that awards or admires [N].",
+    "converse-regular": "Find an entity that [N] praises or endorses.",
+    "converse-hard": "Find an entity that [N] awards or admires."
+  },
+  "owned by": {
+    "normal": "(x, owned by, y) indicates that x is owned by y.",
+    "converse": "(x, owned by, y) indicates that y is owned by x.",
+    "normal-regular": "Find an entity that is owned by [N].",
+    "normal-hard": "Find an entity that belongs to [N].",
+    "converse-regular": "Find an entity that [N] is owned by.",
+    "converse-hard": "Find an entity that [N] belongs to."
+  },
+  "influenced by": {
+    "normal": "(x, influenced by, y) indicates that x is influenced by y.",
+    "converse": "(x, influenced by, y) indicates that y is influenced by x.",
+    "normal-regular": "Find an entity that is influenced by [N].",
+    "normal-hard": "Find an entity that [N] affects.",
+    "converse-regular": "Find an entity that [N] is influenced by.",
+    "converse-hard": "Find an entity that affects [N]."
+  },
+  "represented by": {
+    "normal": "(x, represented by, y) indicates that x is represented by y.",
+    "converse": "(x, represented by, y) indicates that y is represented by x.",
+    "normal-regular": "Find an entity that is represented by [N].",
+    "normal-hard": "Find an entity that [N] acts for or speaks for.",
+    "converse-regular": "Find an entity that represents [N].",
+    "converse-hard": "Find an entity that acts or speaks for [N]."
+  },
+  "has facility": {
+    "normal": "(x, has facility, y) indicates that x has a facility called y.",
+    "converse": "(x, has facility, y) indicates that y has a facility called x.",
+    "normal-regular": "Find an entity that has a facility called [N].",
+    "normal-hard": "Find an entity that [N] is associated with as a functional establishment.",
+    "converse-regular": "Find an entity that is a facility of [N].",
+    "converse-hard": "Find an entity that is associated with [N] as a functional establishment."
+  },
+  "side effect": {
+    "normal": "(x, side effect, y) indicates that x has a side effect called y.",
+    "converse": "(x, side effect, y) indicates that y has a side effect called x.",
+    "normal-regular": "Find an entity that has a side effect called [N].",
+    "normal-hard": "Find an entity that demonstrates an adverse effect known as [N].",
+    "converse-regular": "Find an entity that is a side effect of [N].",
+    "converse-hard": "Find an entity that is an adverse effect of [N]."
+  },
+  "has property": {
+    "normal": "(x, has property, y) indicates that x has y as a property.",
+    "converse": "(x, has property, y) indicates that y has x as a property.",
+    "normal-regular": "Find an entity that has [N] as a property.",
+    "normal-hard": "Find an entity for which [N] serves as one of the attributes or characteristics.",
+    "converse-regular": "Find an entity that is a property of [N].",
+    "converse-hard": "Find an entity that is an attribute or characteristic [N]."
+  },
+  "has subevent": {
+    "normal": "(x, has subevent, y) indicates that x has a subevent called y.",
+    "converse": "(x, has subevent, y) indicates that y has a subevent called x.",
+    "normal-regular": "Find an event that has a subevent called [N].",
+    "normal-hard": "Find an event that includes [N] as one of its subsidiary events.",
+    "converse-regular": "Find an event that is a subevent of [N].",
+    "converse-hard": "Find an event that is a part of [N]."
+  },
+  "made of": {
+    "normal": "(x, made of, y) indicates that x is made of y.",
+    "converse": "(x, made of, y) indicates that y is made of x.",
+    "normal-regular": "Find an entity that is made of [N].",
+    "normal-hard": "Find an entity that is composed of [N].",
+    "converse-regular": "Find an entity that [N] is made of.",
+    "converse-hard": "Find an entity that [N] is composed of."
+  },
+  "used for": {
+    "normal": "(x, used for, y) indicates that x is used for y.",
+    "converse": "(x, used for, y) indicates that y is used for x.",
+    "normal-regular": "Find an entity that is used for [N].",
+    "normal-hard": "Find an entity whose purpose is [N].",
+    "converse-regular": "Find an entity that [N] is used for.",
+    "converse-hard": "Find an entity that is the purpose of [N]."
+  }
+}
