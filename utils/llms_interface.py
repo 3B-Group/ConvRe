@@ -190,7 +190,7 @@ If a question does not make any sense, or is not factually coherent, explain why
         else:
             outputs = self.model.generate(input_ids, max_length=self.max_tokens, temperature=self.temperature)
 
-        return self.tokenizer.decode(outputs)
+        return self._raw_to_llm_response(model_response=self.tokenizer.batch_decode(outputs, skip_special_tokens=True)[0].replace(prompt, ''), prompt_text=prompt, max_tokens=self.max_tokens, temperature=self.temperature)
 
     @staticmethod
     def _raw_to_llm_response(model_response: str,
@@ -222,9 +222,9 @@ class QWenModel(LanguageModels):
 
     def completion(self, prompt: str) -> LLMResponse:
         if self.temperature == 0:
-            response, history = self.model.chat(self.tokenizer, prompt, history=None, max_length=self.max_tokens, do_sample=False)
+            response, history = self.model.chat(self.tokenizer, prompt, history=None, max_length=self.max_tokens, do_sample=False, max_new_tokens=None)
         else:
-            response, history = self.model.chat(self.tokenizer, prompt, history=None, max_length=self.max_tokens, temperature=self.temperature)
+            response, history = self.model.chat(self.tokenizer, prompt, history=None, max_length=self.max_tokens, temperature=self.temperature, max_new_tokens=None)
 
         return self._raw_to_llm_response(model_response=response, prompt_text=prompt, max_tokens=self.max_tokens, temperature=self.temperature)
 
@@ -254,7 +254,10 @@ class InternlmModel(LanguageModels):
             self.model = AutoModelForCausalLM.from_pretrained(self.args.model_name, device_map="auto", trust_remote_code=True).eval()
 
     def completion(self, prompt: str) -> LLMResponse:
-        reponse, history = self.model.chat(self.tokenizer, prompt, history=[], temperature=self.temperature, max_length=self.max_tokens)
+        if self.temperature == 0:
+            reponse, history = self.model.chat(self.tokenizer, prompt, history=[], do_sample=False, max_length=self.max_tokens, max_new_tokens=None)
+        else:
+            reponse, history = self.model.chat(self.tokenizer, prompt, history=[], temperature=self.temperature, max_length=self.max_tokens, max_new_tokens=None)
 
         return self._raw_to_llm_response(model_response=reponse, prompt_text=prompt, max_tokens=self.max_tokens, temperature=self.temperature)
 

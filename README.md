@@ -157,7 +157,7 @@ The argument settings for each of the 12 prompt used in our paper is listed belo
 
 Here is the script to run `prompt3` of `text2re` task on `gpt-3.5-turbo-0301` 👇
 ```bash
-python3 main.py --model_name gpt-3.5-turbo-0301 --task text2re --data_dir Datasets --prompt normal --relation converse --n_shot 0 --example_type regular --text_type hard
+python3 main.py --model_name gpt-3.5-turbo-0301 --task text2re --data_dir data --prompt normal --relation converse --n_shot 0 --example_type regular --text_type hard
 ```
 
 

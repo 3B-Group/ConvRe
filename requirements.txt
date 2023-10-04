@@ -5,3 +5,5 @@ tqdm==4.66.1
 transformers==4.31.0
 accelerate==0.23.0
 sentencepiece==0.1.99
+tiktoken==0.5.1
+transformers_stream_generator einops==0.0.4
