@@ -94,9 +94,17 @@ The models listed below are tested and can be run directly using the script in I
 - [x] flan-t5-xxl
 
 **LLAMA2 CHAT MODELS**
-- [ ] llama-2-7b-chat-hf
+- [x] llama-2-7b-chat-hf
 - [ ] llama-2-13b-chat-hf
 - [ ] llama-2-70b-chat-hf
+
+**QWEN CHAT MODELS**
+- [x] qwen-7b-chat
+- [ ] qwen-14b-chat
+
+**INTERNLM MODELS**
+- [x] internlm-chat-7b
+- [ ] internlm-chat-20b
 
 ## 🍑 Inference with huggingface dataset
 Our benchmark is available on Huggingface 🤗 ([link](LINK)). You can easily run the inference by using `main_hf.py` and specifying the following three arguments.
@@ -156,7 +164,7 @@ python3 main.py --model_name gpt-3.5-turbo-0301 --task text2re --data_dir Datase
 ## 🍈 Evaluation
 There are three arguments need to be specified when running the evaluation script.
 - `file_path`: The `path` of the result file 📁.
-- `model_family`: The model family of the result file, used to choose the corresponding evaluator. You should choose from `flan-t5`, `claude`, `gpt-text`, `gpt-chat`, `llama2`.
+- `model_family`: The model family of the result file, used to choose the corresponding evaluator. You should choose from `flan-t5`, `claude`, `gpt-text`, `gpt-chat`, `llama2`, `qwen`, `internlm`.
 - `mode`: We provide two evaluation mode: `strict` and `auto`. `strict` mode will raise errors if the answer of the model isn't consistent with what we want. In this case, you should check the model's answer manually. 
 `auto` mode will just ignore the inconsistent answers. The performance calculated under `auto` mode may be lower than `strict` mode, but it's very convenient and doesn't need any human support. **💡The ability to align with user's request is also a very important indicator of LLMs' capability.**
 

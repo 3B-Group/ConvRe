@@ -5,7 +5,7 @@ import json
 class ConvReProcessor:
     def __init__(self, args):
         self.args = args
-        self.prompt = self.load_json_file(f"{self.args.task}_prompt.json")
+        self.prompt = self.load_json_file(f"{self.args.task}_relations.json")
         self.examples = self.load_json_file(f"{self.args.task}_examples.json")
         self.datasets = self.load_json_file(f"triple_{'dataset' if self.args.use_subset == False else 'subset'}.json")
 

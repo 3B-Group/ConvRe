@@ -11,7 +11,7 @@ class BaseEvaluator(abc.ABC):
 
     @staticmethod
     def evaluate_cot(ground_truth: str, prediction: str, mode: bool) -> bool:
-        if mode == 'paper':
+        if mode == 'strict':
             prediction = eval(prediction.split('\n\n')[0])['answer']
             assert prediction in ['A', 'B']
         else:
@@ -26,7 +26,7 @@ class BaseEvaluator(abc.ABC):
 
 
 class GPTTextEvaluator(BaseEvaluator):
-    def __init__(self, mode):
+    def __init__(self, mode) -> None:
         self.mode = mode
 
     def evaluate(self, ground_truth: str, prediction: str, log_probs=None) -> bool:
@@ -58,7 +58,7 @@ class GPTTextEvaluator(BaseEvaluator):
 
 
 class GPTChatEvaluator(BaseEvaluator):
-    def __init__(self, mode):
+    def __init__(self, mode) -> None:
         self.mode = mode
 
     def evaluate(self, ground_truth: str, prediction: str, log_probs=None) -> bool:
@@ -80,13 +80,13 @@ class GPTChatEvaluator(BaseEvaluator):
 
 
 class ClaudeEvaluator(BaseEvaluator):
-    def __init__(self, mode):
+    def __init__(self, mode) -> None:
         self.mode = mode
 
     def evaluate(self, ground_truth: str, prediction: str, log_probs=None) -> bool:
         prediction = prediction.split('\n\n')[0]
 
-        if self.mode == 'paper':
+        if self.mode == 'strict':
             assert prediction in [' A', ' B']
         else:
             if prediction not in [' A', ' B']:
@@ -97,11 +97,11 @@ class ClaudeEvaluator(BaseEvaluator):
 
 
 class FlanT5Evaluator(BaseEvaluator):
-    def __init__(self, mode):
+    def __init__(self, mode) -> None:
         self.mode = mode
 
     def evaluate(self, ground_truth: str, prediction: str, log_probs=None) -> bool:
-        if self.mode == 'paper':
+        if self.mode == 'strict':
             assert prediction in ['<pad> A</s>', '<pad> B</s>']
         else:
             if prediction not in ['<pad> A</s>', '<pad> B</s>']:
@@ -111,12 +111,69 @@ class FlanT5Evaluator(BaseEvaluator):
         return result
 
 
+class Llama2Evaluator(BaseEvaluator):
+    def __init__(self, mode) -> None:
+        self.mode = mode
+
+    def evaluate(self, ground_truth: str, prediction: str, log_probs=None) -> bool:
+        # Llama2's answer usually start with choices and then explanation.
+        prediction = prediction.split('\n')[0]
+        if self.mode == 'strict':
+            assert prediction[:2] in [' A', ' B']
+        else:
+            if prediction[:2] not in [' A', ' B']:
+                return False
+            
+        prediction = prediction[1]
+        result = True if prediction == ground_truth else False
+        
+        return result
+    
+class QwenEvaluator(BaseEvaluator):
+    def __init__(self, mode) -> None:
+        self.mode = mode
+
+    def evaluate(self, ground_truth: str, prediction: str, log_probs=None) -> bool:
+        # qwen model may answer 'the correct choice is' instead of just answering A or B.
+        if 'the correct choice is a' in prediction.lower():
+            prediction = 'A'
+        elif 'the correct choice is b' in prediction.lower():
+            prediction = 'B'
+        if self.mode == 'strict':
+            assert prediction[0] in ['A', 'B']
+        else:
+            if prediction[0] not in ['A', 'B']:
+                return False
+        
+        prediction = prediction[0]
+        result = True if prediction == ground_truth else False
+        return result
+
+class InternlmEvaluator(BaseEvaluator):
+    def __init__(self, mode) -> None:
+        self.mode = mode
+
+    def evaluate(self, ground_truth: str, prediction: str, log_probs=None) -> bool:
+        if self.mode == 'strict':
+            assert prediction in ['A', 'B']
+        else:
+            if prediction not in ['A', 'B']:
+                return False
+
+        result = True if prediction == ground_truth else False
+        
+        return result
+
+
 class LLMsEvaluator:
     model_mapping = {
         'flan-t5': FlanT5Evaluator,
         'claude': ClaudeEvaluator,
         'gpt-text': GPTTextEvaluator,
         'gpt-chat': GPTChatEvaluator,
+        'llama2': Llama2Evaluator,
+        'qwen': QwenEvaluator,
+        'internlm': InternlmEvaluator,
     }
 
     def __init__(self, args):

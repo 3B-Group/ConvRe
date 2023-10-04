@@ -5,14 +5,11 @@ from collections import defaultdict
 from utils.llms_evaluator import LLMsEvaluator
 
 
-
-
-
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
 
     parser.add_argument("--file_path", type=str, required=True)
-    parser.add_argument("--model_family", type=str, choices=['flan-t5', 'gpt-text', 'gpt-chat', 'claude', 'llama2'], required=True)
+    parser.add_argument("--model_family", type=str, required=True)
     parser.add_argument("--mode", default='strict', type=str, choices=['strict', 'auto'])
 
     args = parser.parse_args()

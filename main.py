@@ -73,6 +73,6 @@ if __name__ == '__main__':
     # Save result
     if not os.path.exists(f"Results-{args.task.upper()}"):
         os.mkdir(f"Results-{args.task.upper()}")
-    with open(f"Results-{args.task.upper()}/{args.model_name}_{args.relation}_{args.prompt}_{args.n_shot}_{args.example_type}_{args.text_type}{'_subset' if args.use_subset else ''}.json", 'w') as f:
+    with open(f"Results-{args.task.upper()}/{args.model_name.split('/')[-1]}_{args.prompt}_{args.relation}_{args.n_shot}_{args.example_type}_{args.text_type}{'_subset' if args.use_subset else ''}.json", 'w') as f:
         json_str = json.dumps(result_dic, indent=2)
         f.write(json_str)
