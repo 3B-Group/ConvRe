@@ -53,7 +53,7 @@ if __name__ == '__main__':
                 model_answer = llms.completion(item['query'])
                 flag = 1
             except:
-                print("API Error occurred, wait for 3 seconds")
+                print("API Error occurred, wait for 3 seconds. If you are using GPT or Cluade, this is normal. However, if you are running local models like llama2-chat, it's advisable to initiate debugging to identify the issue.")
                 time.sleep(3)
 
             if flag == 1:
