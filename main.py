@@ -23,7 +23,7 @@ if __name__ == '__main__':
     parser.add_argument("--text_type", type=str, choices=['regular', 'hard'], required=True)
 
     # Default parameters
-    parser.add_argument("--device", default="mps", type=str, choices=['cpu', 'cuda', 'mps'])
+    parser.add_argument("--device", default="cuda", type=str, choices=['cpu', 'cuda', 'mps'])
     parser.add_argument('--use_subset', action='store_true')
     parser.add_argument("--temperature", default=0, type=float)
     parser.add_argument("--max_tokens", default=512, type=int)

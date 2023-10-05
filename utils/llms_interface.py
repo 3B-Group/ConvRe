@@ -184,7 +184,7 @@ If a question does not make any sense, or is not factually coherent, explain why
     def completion(self, prompt: str) -> LLMResponse:
         prompt = self.sys_prompt + prompt[:-7] + " [/INST] Answer:"
 
-        input_ids = self.tokenizer(prompt, return_tensors="pt").input_ids.to("cuda")
+        input_ids = self.tokenizer(prompt, return_tensors="pt").input_ids.to(self.args.device)
         if self.temperature == 0:
             outputs = self.model.generate(input_ids, max_length=self.max_tokens, do_sample=False)
         else:
