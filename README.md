@@ -11,10 +11,10 @@
 </div>
 
 <p align="center">
-  <a href="#Data">🔎 Data</a> •
-  <a href="#Inference with huggingface dataset 🍑">🔨 Code</a> •
-  <a href="#web-ui">🤗 Huggingface Leaderboard</a> •
-  <a href="assets/paper.pdf">📑 Paper</a> •
+  <a href="#Data">🔎 Data</a> &nbsp ｜ &nbsp
+  <a href="#Inference with huggingface dataset 🍑">🔨 Code</a> &nbsp ｜ &nbsp
+  <a href="#web-ui">🤗 Huggingface Leaderboard</a> &nbsp ｜ &nbsp
+  <a href="assets/paper.pdf">📑 Paper</a> &nbsp ｜ &nbsp
   <a href="#citation">♣️ Citation</a>
 
 </p>
