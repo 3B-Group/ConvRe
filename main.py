@@ -12,7 +12,7 @@ from utils.llms_interface import LanguageModelInterface
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
 
-    # Required parameters
+    # Required arguments
     parser.add_argument("--model_name", type=str, required=True)
     parser.add_argument("--task", type=str, choices=['re2text', 'text2re'], required=True)
     parser.add_argument('--data_dir', type=str, required=True)
@@ -22,7 +22,7 @@ if __name__ == '__main__':
     parser.add_argument("--example_type", type=str, choices=['hard', 'regular'], required=True)
     parser.add_argument("--text_type", type=str, choices=['regular', 'hard'], required=True)
 
-    # Default parameters
+    # Default arguments
     parser.add_argument("--device", default="cuda", type=str, choices=['cpu', 'cuda', 'mps'])
     parser.add_argument('--use_subset', action='store_true')
     parser.add_argument("--temperature", default=0, type=float)
