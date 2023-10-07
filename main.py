@@ -41,16 +41,19 @@ if __name__ == '__main__':
     pbar = tqdm.tqdm(range(len(query_dic)))
     for i in pbar:
         item = query_dic[i]
-        while 1:
-            flag = 0
+        while True:
+            flag = False
             try:
                 model_answer = llms.completion(item['query'])
-                flag = 1
+                flag = True
             except:
-                print("API Error occurred, wait for 3 seconds. If you are using GPT or Cluade, this is normal. However, if you are running local models like llama2-chat, it's advisable to initiate debugging to identify the issue.")
+                print("API Error occurred, wait for 3 seconds. \
+                      If you are using GPT or Cluade, this is normal. \
+                      However, if you are running local models like llama2-chat, \
+                      it's advisable to initiate debugging to identify the issue.")
                 time.sleep(3)
 
-            if flag == 1:
+            if flag == True:
                 break
         answer_dic = item.copy()
         answer_dic['prompt'] = model_answer.prompt_text

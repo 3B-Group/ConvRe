@@ -12,12 +12,12 @@ from utils.llms_interface import LanguageModelInterface
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
 
-    # Required parameters
+    # Required arguments
     parser.add_argument("--model_name", type=str, required=True)
     parser.add_argument("--task", type=str, choices=['re2text', 'text2re'], required=True)
     parser.add_argument("--setting", type=str, required=True)
 
-    # Default parameters
+    # Default arguments
     parser.add_argument("--device", default="cuda", type=str, choices=['cpu', 'cuda', 'mps'])
     parser.add_argument("--temperature", default=0, type=float)
     parser.add_argument("--max_tokens", default=512, type=int)
@@ -34,17 +34,21 @@ if __name__ == '__main__':
     pbar = tqdm.tqdm(range(len(hf_dataset)))
     for i in pbar:
         item = hf_dataset[i]
-        while 1:
-            flag = 0
+        while True:
+            flag = False
             try:
                 model_answer = llms.completion(item['query'])
-                flag = 1
+                flag = True
             except:
-                print("API Error occurred, wait for 3 seconds. If you are using GPT or Cluade, this is normal. However, if you are running local models like llama2-chat, it's advisable to initiate debugging to identify the issue.")
+                print("API Error occurred, wait for 3 seconds. \
+                      If you are using GPT or Cluade, this is normal. \
+                      However, if you are running local models like llama2-chat, \
+                      it's advisable to initiate debugging to identify the issue.")
                 time.sleep(3)
 
-            if flag == 1:
+            if flag == True:
                 break
+            
         answer_dic = item.copy()
         answer_dic['prompt'] = model_answer.prompt_text
         answer_dic['prompt_info'] = model_answer.prompt_info
