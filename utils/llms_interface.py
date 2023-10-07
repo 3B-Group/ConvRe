@@ -297,6 +297,7 @@ class LanguageModelInterface:
     }
 
     def __init__(self, args) -> None:
+        self.model_name = args.model_name
         name = self.model_name.split('/')[-1].lower()
 
         self.model_type = ''
