@@ -281,7 +281,7 @@ class LanguageModelInterface:
         'gpt_chat_models': ['gpt-3.5-turbo', 'gpt-4', 'gpt-4-0314', 'gpt-3.5-turbo-0301'],
         'claude_models': ['claude-1.3', 'claude-instant-1.1'],
         'flan_t5_models': ['flan-t5-small', 'flan-t5-base', 'flan-t5-large', 'flan-t5-xl', 'flan-t5-xxl'],
-        'llama2_chat_models': ['llama-2-7b-chat-hf', 'llama-2-13b-chat-hf'],
+        'llama2_chat_models': ['llama-2-7b-chat-hf', 'llama-2-13b-chat-hf', 'llama-2-70b-chat-hf'],
         'qwen_models': ['qwen-7b-chat', 'qwen-14b-chat'],
         'internlm_models': ['internlm-chat-7b', 'internlm-chat-20b'],
     }

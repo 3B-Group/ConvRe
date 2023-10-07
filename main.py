@@ -34,12 +34,6 @@ if __name__ == '__main__':
     processor = ConvReProcessor(args)
     query_dic = processor.construct_prompt()
 
-    # with open(f"{args.task}-prompt12-en.jsonl", 'w') as f:
-    #     for key in query_dic.keys():
-    #         json.dump(query_dic[key], f)
-    #         f.write('\n')
-
-
     # load model
     llms = LanguageModelInterface(args)
     result_dic = {}
