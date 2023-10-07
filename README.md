@@ -20,6 +20,7 @@
 
 </p>
 
+![](misc/intro.png)
 
 🤖ConvRe🤯 is the benchmark proposed in our EMNLP 2023 paper: [An Investigation of LLMs’ Inefficacy in Understanding Converse Relations](). 
 It aims to evaluate LLMs' ability on understanding converse relations.
