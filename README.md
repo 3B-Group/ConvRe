@@ -21,7 +21,7 @@
 
 ![](misc/intro.png)
 
-🤖ConvRe🤯 is the benchmark proposed in our EMNLP 2023 paper: [An Investigation of LLMs’ Inefficacy in Understanding Converse Relations]().
+🤖**ConvRe**🤯 is the benchmark proposed in our EMNLP 2023 paper: [An Investigation of LLMs’ Inefficacy in Understanding **Conv**erse **Re**lations]().
 It aims to evaluate LLMs' ability on understanding converse relations.
 Converse relation is defined as the opposite of semantic relation while keeping the surface form of the triple unchanged.
 For example, the triple `(x, has part, y)` is interpreted as "x has a part called y" in normal relation, while "y has a part called x" in converse relation 🔁.
