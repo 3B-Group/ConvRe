@@ -7,6 +7,8 @@
 ![Dialogues](https://img.shields.io/badge/Relation\_Num-17-red?style=flat-square)
 ![Dialogues](https://img.shields.io/badge/Triple\_num-1240-yellow?style=flat-square)
 ![Dialogues](https://img.shields.io/badge/Version-1.0-green?style=flat-square)
+![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=3B-Group&repo=ConvRe)
+
 
 </div>
 
