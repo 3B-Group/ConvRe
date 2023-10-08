@@ -32,7 +32,8 @@ The experiments in our paper suggested that LLMs often resort to shortcut learni
 
 ## 🍇 What's New
 
-- **[2023/10/08]** **ConvRe** benchmark is released🌟.
+- **[2023/10/09]** **ConvRe** benchmark has released🌟.
+- **[2023/10/08]** **ConvRe** has been accepted by EMNLP 2023.
 
 ## 🥝 Data
 
