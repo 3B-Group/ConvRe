@@ -28,7 +28,9 @@ It aims to evaluate LLMs' ability on understanding converse relations.
 Converse relation is defined as the opposite of semantic relation while keeping the surface form of the triple unchanged.
 For example, the triple `(x, has part, y)` is interpreted as "x has a part called y" in normal relation, while "y has a part called x" in converse relation 🔁.
 
-The experiments in our paper suggested that LLMs often resort to shortcut learning (or superficial correlations) and still face challenges on our 🤖ConvRe🤯 benchmark even for powerful models like GPT-4.
+The experiments in our paper suggested that LLMs often resort to shortcut learning (or superficial correlations) and still face challenges on our 🤖ConvRe🤯 benchmark even for powerful models like GPT-4. The following picture shows the performances of GPT models under zero-shot easy/hard settings on our benchmark. It can be observed that in both `Re2Text` and `Text2Re` tasks, GPT models exhibit a positive scaling trend under easy-setting, and inverse scaling trend under hard-setting. Please check our [paper ]() 📑 or [huggingface leaderboard](https://huggingface.co/spaces/3B-Group/ConvRe-Leaderboard) 🤗 for more detailed and comprehensive results.
+
+![](misc/gpt-performance.png)
 
 
 *Read this in [中文](README_ZH.md).*
@@ -38,11 +40,6 @@ The experiments in our paper suggested that LLMs often resort to shortcut learni
 - **[2023/10/09]** **ConvRe** benchmark has released🌟.
 - **[2023/10/08]** **ConvRe** has been accepted by EMNLP 2023.
 
-## 🍍 A Glimpse of Performance
-
-The following picture shows the performances of GPT models under zero-shot easy/hard settings on our benchmark. It can be observed that in both `Re2Text` and `Text2Re` tasks, GPT models exhibit a positive scaling trend under easy-setting, and inverse scaling trend under hard-setting. Please check our [paper ]() 📑 or [huggingface leaderboard](https://huggingface.co/spaces/3B-Group/ConvRe-Leaderboard) 🤗 for more detailed and comprehensive results.
-
-![](misc/gpt-performance.png)
 
 ## 🥝 Data
 <span id="data"></span>
