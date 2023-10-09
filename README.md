@@ -15,7 +15,7 @@
 <p align="center">
   <a href="#data">🔎 Data</a> &nbsp ｜ &nbsp
   <a href="#hf-inference">🔨 Code</a> &nbsp ｜ &nbsp
-  <a href="#web-ui">🤗 Huggingface Leaderboard</a> &nbsp ｜ &nbsp
+  <a href="https://huggingface.co/spaces/3B-Group/ConvRe-Leaderboard">🤗 Huggingface Leaderboard</a> &nbsp ｜ &nbsp
   <a href="assets/paper.pdf">📑 Paper</a> &nbsp ｜ &nbsp
   <a href="#citation">♣️ Citation</a>
 
@@ -191,7 +191,7 @@ There are three arguments need to be specified when running the evaluation scrip
 
 ## 🍍 A Glimpse of Performance
 
-The following picture shows the performances of GPT models under zero-shot easy/hard settings on our benchmark. It can be observed that in both `Re2Text` and `Text2Re` tasks, GPT models exhibit a positive scaling trend under easy-setting, and inverse scaling trend under hard-setting. Please check our [paper ]() 📑 or [huggingface leaderboard]() 🤗 for more detailed and comprehensive results.
+The following picture shows the performances of GPT models under zero-shot easy/hard settings on our benchmark. It can be observed that in both `Re2Text` and `Text2Re` tasks, GPT models exhibit a positive scaling trend under easy-setting, and inverse scaling trend under hard-setting. Please check our [paper ]() 📑 or [huggingface leaderboard](https://huggingface.co/spaces/3B-Group/ConvRe-Leaderboard) 🤗 for more detailed and comprehensive results.
 
 ![](misc/gpt-performance.png)
 ## 🍓 Citation
