@@ -49,7 +49,16 @@ class GPTTextEvaluator(BaseEvaluator):
                 prediction = ' A' if prob_a > prob_b else ' B'
         else:
             if not (condition1 or condition2 or condition3):
-                return False
+                probs = log_probs[0]
+                if not (' A' in probs or ' B' in probs):
+                    return False
+                
+                prob_a = probs[' A'] if ' A' in probs else -1000
+                prob_b = probs[' B'] if ' B' in probs else -1000
+
+                if prob_a == prob_b:
+                    return False
+                prediction = ' A' if prob_a > prob_b else ' B'
 
         prediction = prediction[1]
 

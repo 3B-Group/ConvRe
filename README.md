@@ -23,12 +23,13 @@
 
 ![](misc/intro.png)
 
-🤖**ConvRe**🤯 is the benchmark proposed in our EMNLP 2023 paper: [An Investigation of LLMs’ Inefficacy in Understanding **Conv**erse **Re**lations]().
+🤖**ConvRe**🤯 is the benchmark proposed in our EMNLP 2023 main conference paper: [An Investigation of LLMs’ Inefficacy in Understanding **Conv**erse **Re**lations]().
 It aims to evaluate LLMs' ability on understanding converse relations.
 Converse relation is defined as the opposite of semantic relation while keeping the surface form of the triple unchanged.
 For example, the triple `(x, has part, y)` is interpreted as "x has a part called y" in normal relation, while "y has a part called x" in converse relation 🔁.
 
 The experiments in our paper suggested that LLMs often resort to shortcut learning (or superficial correlations) and still face challenges on our 🤖ConvRe🤯 benchmark even for powerful models like GPT-4.
+
 
 *Read this in [中文](README_ZH.md).*
 
@@ -63,16 +64,17 @@ The detailed number of triples for each relation in the benchmark is listed belo
 |                  has subevent                  |    75    |      ConceptNet5      |
 |                     Total                     |   1240   |                      |
 
-The dataset files can be found in `Datasets` directory. Here is the description of each file.
+The dataset files can be found in `data` directory. Here is the description of each file.
 
-- `re2text_prompt.json`: The normal and converse relation definition and corresponding choices of each relation for `re2text` task.
+- `re2text_relations.json`: The normal and converse relation definition and corresponding choices of each relation for `re2text` task.
 - `re2text_examples.json`: The few shot examples of `re2text` task, including `normal` prompt setting and `hint+cot` setting.
-- `text2re_prompt`: The normal and converse relation definition and corresponding choices of each relation for `text2re` task.
+- `text2re_relations`: The normal and converse relation definition and corresponding choices of each relation for `text2re` task.
 - `text2re_examples.json`: The few shot examples of `re2text` task, including `normal` prompt setting and `hint+cot` setting.
 - `triple_dataset`: Full dataset of the benchmark, including triples and correct answers.
 - `triple_subset`: The subset we used in our paper, it contains 328 triples and their corresponding correct answers.
 
 ## 🍒 Supported Models
+<span id="supported-models"></span>
 
 The models listed below are tested and can be run directly using the script in Inference.
 
@@ -116,9 +118,9 @@ The models listed below are tested and can be run directly using the script in I
 - [X] internlm-chat-7b
 - [ ] internlm-chat-20b
 
-## 🍑 Inference with huggingface dataset
+## 🍑 Inference with huggingface dataset (Recommended)
 
-Our benchmark is available on Huggingface 🤗 ([link](LINK)). You can easily run the inference by using `main_hf.py` and specifying the following three arguments.
+Our benchmark is available on Huggingface 🤗 ([link](https://huggingface.co/spaces/3B-Group/ConvRe-Leaderboard)). You can easily run the inference by using `main_hf.py` and specifying the following three arguments.
 
 - `model_name`: the name of the large language model, see our [supported model list](#supported-models).
 - `task`: the subtask of ConvRe benchmark: `text2re` or `re2text`.
@@ -185,4 +187,10 @@ There are three arguments need to be specified when running the evaluation scrip
 - `mode`: We provide two evaluation mode: `strict` and `auto`. `strict` mode will raise errors if the answer of the model isn't consistent with what we want. In this case, you should check the model's answer manually.
   `auto` mode will just ignore the inconsistent answers. The performance calculated under `auto` mode may be lower than `strict` mode, but it's very convenient and doesn't need any human support. **💡The ability to align with user's request is also a very important indicator of LLMs' capability.**
 
+
+## 🍍 A Glimpse of Performance
+
+The following picture shows the performances of GPT models under zero-shot easy/hard settings on our benchmark. It can be observed that in both `Re2Text` and `Text2Re` tasks, GPT models exhibit a positive scaling trend under easy-setting, and inverse scaling trend under hard-setting. Please check our [paper ]() 📑 or [huggingface leaderboard]() 🤗 for more detailed and comprehensive results.
+
+![](misc/gpt-performance.png)
 ## 🍓 Citation
