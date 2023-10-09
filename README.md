@@ -38,6 +38,12 @@ The experiments in our paper suggested that LLMs often resort to shortcut learni
 - **[2023/10/09]** **ConvRe** benchmark has released🌟.
 - **[2023/10/08]** **ConvRe** has been accepted by EMNLP 2023.
 
+## 🍍 A Glimpse of Performance
+
+The following picture shows the performances of GPT models under zero-shot easy/hard settings on our benchmark. It can be observed that in both `Re2Text` and `Text2Re` tasks, GPT models exhibit a positive scaling trend under easy-setting, and inverse scaling trend under hard-setting. Please check our [paper ]() 📑 or [huggingface leaderboard](https://huggingface.co/spaces/3B-Group/ConvRe-Leaderboard) 🤗 for more detailed and comprehensive results.
+
+![](misc/gpt-performance.png)
+
 ## 🥝 Data
 <span id="data"></span>
 
@@ -189,10 +195,6 @@ There are three arguments need to be specified when running the evaluation scrip
   `auto` mode will just ignore the inconsistent answers. The performance calculated under `auto` mode may be lower than `strict` mode, but it's very convenient and doesn't need any human support. **💡The ability to align with user's request is also a very important indicator of LLMs' capability.**
 
 
-## 🍍 A Glimpse of Performance
 
-The following picture shows the performances of GPT models under zero-shot easy/hard settings on our benchmark. It can be observed that in both `Re2Text` and `Text2Re` tasks, GPT models exhibit a positive scaling trend under easy-setting, and inverse scaling trend under hard-setting. Please check our [paper ]() 📑 or [huggingface leaderboard](https://huggingface.co/spaces/3B-Group/ConvRe-Leaderboard) 🤗 for more detailed and comprehensive results.
-
-![](misc/gpt-performance.png)
 ## 🍓 Citation
 <span id="citation"></span>
