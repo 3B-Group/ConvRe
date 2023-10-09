@@ -13,8 +13,8 @@
 </div>
 
 <p align="center">
-  <a href="#Data">🔎 Data</a> &nbsp ｜ &nbsp
-  <a href="#Inference with huggingface dataset 🍑">🔨 Code</a> &nbsp ｜ &nbsp
+  <a href="#data">🔎 Data</a> &nbsp ｜ &nbsp
+  <a href="#hf-inference">🔨 Code</a> &nbsp ｜ &nbsp
   <a href="#web-ui">🤗 Huggingface Leaderboard</a> &nbsp ｜ &nbsp
   <a href="assets/paper.pdf">📑 Paper</a> &nbsp ｜ &nbsp
   <a href="#citation">♣️ Citation</a>
@@ -39,6 +39,7 @@ The experiments in our paper suggested that LLMs often resort to shortcut learni
 - **[2023/10/08]** **ConvRe** has been accepted by EMNLP 2023.
 
 ## 🥝 Data
+<span id="data"></span>
 
 ConvRe benchmark is composed of 17 relations and 1240 triples from five widely used knowledge graph datasets: [WN18RR](https://arxiv.org/abs/1707.01476), [FB15K-237](https://aclanthology.org/W15-4007/), [NELL-ONE](https://arxiv.org/abs/1808.09040), [Wikidata5M](https://arxiv.org/abs/1911.06136), [ICEWS14](https://arxiv.org/abs/1809.03202), [ConceptNet5](https://arxiv.org/abs/1612.03975).
 The detailed number of triples for each relation in the benchmark is listed below.
@@ -119,7 +120,7 @@ The models listed below are tested and can be run directly using the script in I
 - [ ] internlm-chat-20b
 
 ## 🍑 Inference with huggingface dataset (Recommended)
-
+<span id="hf-inference"></span>
 Our benchmark is available on Huggingface 🤗 ([link](https://huggingface.co/spaces/3B-Group/ConvRe-Leaderboard)). You can easily run the inference by using `main_hf.py` and specifying the following three arguments.
 
 - `model_name`: the name of the large language model, see our [supported model list](#supported-models).
@@ -194,3 +195,4 @@ The following picture shows the performances of GPT models under zero-shot easy/
 
 ![](misc/gpt-performance.png)
 ## 🍓 Citation
+<span id="citation"></span>
