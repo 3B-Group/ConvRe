@@ -191,7 +191,38 @@ There are three arguments need to be specified when running the evaluation scrip
 - `mode`: We provide two evaluation mode: `strict` and `auto`. `strict` mode will raise errors if the answer of the model isn't consistent with what we want. In this case, you should check the model's answer manually.
   `auto` mode will just ignore the inconsistent answers. The performance calculated under `auto` mode may be lower than `strict` mode, but it's very convenient and doesn't need any human support. **💡The ability to align with user's request is also a very important indicator of LLMs' capability.**
 
+## 🍍 New models and relations
 
+### Evaluating new models 🌽
+Firstly, you should create a new class that inherit `LanguageModels` in `llms_interface.py`, and then implement the `completion` method according to the characteristics (such as the structure of the new model's API) of your model. 
+
+After obtaining the result, you should create a new class that inherit `BaseEvaluator` in `llms_evaluator.py`, and then implement the `evaluate` method according to the pattern of your model's answer. 
+
+### Adding new relations 🥒
+To add a new relation in the benchmark, you should firstly check whether the relation meets the requirements in `Section 2.5` of our [paper](). Then you should write the corresponding prompts for both `Re2Text` and `Text2Re` tasks. 
+
+**Re2Text**
+
+Note: in this task, all the question is asking for head entity. 
+- `normal`: the `normal` instruction of the relation.
+- `converse`: the `converse` instruction of the relaiton.
+- `normal-regular`: the `regular` description for the question under `normal` relation.
+- `normal-hard`: the `hard` description for the question under `normal` relation.
+- `converse-regular`: the `regular` description for the question under `converse` relation.
+- `converse-hard`: the `hard` description for the question under `converse` relation.
+
+**Text2Re**
+- `normal`: the `normal` instruction of the relation.
+- `converse`: the `converse` instruction of the relaton.
+- `hard`: the `hard` description of the question.
+- `regular`: the `regular` description of the question.
+- `normal-correct`: the `correct` choice under `normal` relation.
+- `normal-wrong`: the `wrong` choice under `normal` relation.
+- `converse-correct`: the `correct` choice under `converse` relation.
+- `converse-wrong`: the `wrong` choice under `converse` relation.
+
+
+**Feel free to add new models and relations to our benchmark🥰**
 
 ## 🍓 Citation
 <span id="citation"></span>
