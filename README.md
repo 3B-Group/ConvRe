@@ -16,19 +16,19 @@
   <a href="#data">🔎 Data</a> &nbsp ｜ &nbsp
   <a href="#hf-inference">🔨 Code</a> &nbsp ｜ &nbsp
   <a href="https://huggingface.co/spaces/3B-Group/ConvRe-Leaderboard">🤗 Huggingface Leaderboard</a> &nbsp ｜ &nbsp
-  <a href="assets/paper.pdf">📑 Paper</a> &nbsp ｜ &nbsp
+  <a href="http://arxiv.org/abs/2310.05163">📑 Paper</a> &nbsp ｜ &nbsp
   <a href="#citation">♣️ Citation</a>
 
 </p>
 
 ![](misc/intro.png)
 
-🤖**ConvRe**🤯 is the benchmark proposed in our EMNLP 2023 main conference paper: [An Investigation of LLMs’ Inefficacy in Understanding **Conv**erse **Re**lations]().
+🤖**ConvRe**🤯 is the benchmark proposed in our EMNLP 2023 main conference paper: [An Investigation of LLMs’ Inefficacy in Understanding **Conv**erse **Re**lations](http://arxiv.org/abs/2310.05163).
 It aims to evaluate LLMs' ability on understanding converse relations.
 Converse relation is defined as the opposite of semantic relation while keeping the surface form of the triple unchanged.
 For example, the triple `(x, has part, y)` is interpreted as "x has a part called y" in normal relation, while "y has a part called x" in converse relation 🔁.
 
-The experiments in our paper suggested that LLMs often resort to shortcut learning (or superficial correlations) and still face challenges on our 🤖ConvRe🤯 benchmark even for powerful models like GPT-4. The following picture shows the performances of GPT models under zero-shot easy/hard settings on our benchmark. It can be observed that in both `Re2Text` and `Text2Re` tasks, GPT models exhibit a positive scaling trend under easy-setting, and inverse scaling trend under hard-setting. Please check our [paper ]() 📑 or [huggingface leaderboard](https://huggingface.co/spaces/3B-Group/ConvRe-Leaderboard) 🤗 for more detailed and comprehensive results.
+The experiments in our paper suggested that LLMs often resort to shortcut learning (or superficial correlations) and still face challenges on our 🤖ConvRe🤯 benchmark even for powerful models like GPT-4. The following picture shows the performances of GPT models under zero-shot easy/hard settings on our benchmark. It can be observed that in both `Re2Text` and `Text2Re` tasks, GPT models exhibit a positive scaling trend under easy-setting, and inverse scaling trend under hard-setting. Please check our [paper ](http://arxiv.org/abs/2310.05163) 📑 or [huggingface leaderboard](https://huggingface.co/spaces/3B-Group/ConvRe-Leaderboard) 🤗 for more detailed and comprehensive results.
 
 ![](misc/gpt-performance.png)
 
@@ -199,7 +199,7 @@ Firstly, you should create a new class that inherit `LanguageModels` in `llms_in
 After obtaining the result, you should create a new class that inherit `BaseEvaluator` in `llms_evaluator.py`, and then implement the `evaluate` method according to the pattern of your model's answer. 
 
 ### Adding new relations 🥒
-To add a new relation in the benchmark, you should firstly check whether the relation meets the requirements in `Section 2.5` of our [paper](). Then you should write the corresponding prompts for both `Re2Text` and `Text2Re` tasks. 
+To add a new relation in the benchmark, you should firstly check whether the relation meets the requirements in `Section 2.5` of our [paper](http://arxiv.org/abs/2310.05163). Then you should write the corresponding prompts for both `Re2Text` and `Text2Re` tasks. 
 
 **Re2Text**
 
@@ -226,3 +226,14 @@ Note: in this task, all the question is asking for head entity.
 
 ## 🍓 Citation
 <span id="citation"></span>
+
+```bibtext
+@misc{qi2023investigation,
+      title={An Investigation of LLMs' Inefficacy in Understanding Converse Relations}, 
+      author={Chengwen Qi and Bowen Li and Binyuan Hui and Bailin Wang and Jinyang Li and Jinwang Wu and Yuanjun Laili},
+      year={2023},
+      eprint={2310.05163},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
